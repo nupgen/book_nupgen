@@ -1,0 +1,23 @@
+# Purificação
+
+## Purificação com Polietilenoglicol (PEG)
+
+1. Adicionar 50 μL de PEG 20% NaCl 25m. em um tubo de 1,5 mL.
+
+2. Transferir a PCR para o tubo e misturar.
+
+3. Incubar o conteúdo do tubo a 37oC por 15 minutos.
+
+4. Centrifugar a reação + PEG por 15 minutos a 12000 rpm.
+
+5. Retirar o sobrenadante sem tocar na parede do tubo e descartar – usar pipeta.
+
+6. Adicionar 62,5 μL de etanol 80% (álcool Merck) gelado no tubo – colocar na parede.
+
+7. Centrifugar por 2 minutos.
+
+8. Virar o tubo, descartando o sobrenadante.
+
+9. Deixar secar até não ter mais gotas – pode ser na estufa.
+
+10. Ressuspender com 10 μL de água Milli-Q lavando a parede do tubo de 5 a 6 vezes.

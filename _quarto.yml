@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Laboratório de Genética Molecular - Nupgen - PEA/DBC"
+  author: "Bruno Mioto"
+  date: "02/01/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "Protocolos"
+      chapters: 
+        - extracao.qmd
+        - purificacao.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

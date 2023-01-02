@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "extracao.html#caramujos",
+    "href": "extracao.html#caramujos",
+    "title": "2  Extração",
+    "section": "2.1 Caramujos",
+    "text": "2.1 Caramujos\n\nSeparar o tecido (0,5-1 cm) em um tubo de 1,5 ml.\nAdicionar 500 μl de Nuclei Lysis Solution.\nMacerar o tecido com um pistilo.\nAdicionar 17,5 μl de Proteinase K 20 mg/ml.\nMisturar com vórtex por 10 segundos.\nIncubar a 55oC overnight OU incubar a 55oC por 3 horas, misturando com vórtex a cada hora.\nAdicionar 3 μl de RNase Solution à solução e misturar por inversão do tubo 2-5 vezes.\nIncubar a 37oC por 30 minutos. Deixar as amostras esfriarem a temperatura ambiente por 5 minutos antes da próxima etapa.\nAdicionar 200 μl de Protein Precipitation Solution e misturar com o vórtex vigorosamente por 20 segundos.\nColocar as amostras no gelo por 5 minutos.\nCentrifugar a 12.000 rpm por 4 minutos. A proteína precipitada formará um pellet no fundo.\nRemover cuidadosamente o sobrenadante contendo o DNA (não retirar o pellet) e transferir para um novo tubo de 1,5 ml que já contenha 600 μl de isopropanol (temperatura ambiente).\nMisturar cuidadosamente a solução por inversão até os “fios” de DNA formarem uma massa visível.\nCentrifugar a 12.000 rpm por 1 minuto. O DNA ficará visível como um pequeno pellet branco. Descartar cuidadosamente o sobrenadante.\nAdicionar 600 μl de etanol 70% (temperatura ambiente) e misturar cuidadosamente a solução por inversão para lavar o DNA.\nCentrifugar a 12.000 rpm por 1 minuto.\nRetirar o etanol cuidadosamente com uma pipeta sem retirar o pellet.\nInverter os tubos em papel e deixar secar por 10-15 minutos.\nAdicionar 30 μL de DNA Rehydration Solution e reidratar o DNA incubando a 65ºC por 1 hora. Periodicamente misturar a solução com cuidado OU incubar a 4ºC overnight.\nGuardar o DNA extraído a 2-8oC."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "extracao.html#protocolo-de-extração-de-dna---promega-caramujos",
+    "href": "extracao.html#protocolo-de-extração-de-dna---promega-caramujos",
+    "title": "2  Extração",
+    "section": "2.2 Protocolo de Extração de DNA - Promega Caramujos",
+    "text": "2.2 Protocolo de Extração de DNA - Promega Caramujos\n\nSeparar o tecido (0,5-1 cm) em um tubo de 1,5 ml.\nAdicionar 500 μl de Nuclei Lysis Solution.\nMacerar o tecido com um pistilo.\nAdicionar 17,5 μl de Proteinase K 20 mg/ml.\nMisturar com vórtex por 10 segundos.\nIncubar a 55ºC overnight OU incubar a 55ºC por 3 horas, misturando com vórtex a cada hora.\nAdicionar 3 μl de RNase Solution à solução e misturar por inversão do tubo 2-5 vezes.\nIncubar a 37oC por 30 minutos. Deixar as amostras esfriarem a temperatura ambiente por 5 minutos antes da próxima etapa.\nAdicionar 200 μl de Protein Precipitation Solution e misturar com o vórtex vigorosamente por 20 segundos.\nColocar as amostras no gelo por 5 minutos.\nCentrifugar a 12.000 rpm por 4 minutos. A proteína precipitada formará um pellet no fundo.\nRemover cuidadosamente o sobrenadante contendo o DNA (não retirar o pellet) e transferir para um novo tubo de 1,5 ml que já contenha 600 μl de isopropanol (temperatura ambiente).\nMisturar cuidadosamente a solução por inversão até os “fios” de DNA formarem uma massa visível.\nCentrifugar a 12.000 rpm por 1 minuto. O DNA ficará visível como um pequeno pellet branco. Descartar cuidadosamente o sobrenadante.\nAdicionar 600 μl de etanol 70% (temperatura ambiente) e misturar cuidadosamente a solução por inversão para lavar o DNA.\nCentrifugar a 12.000 rpm por 1 minuto.\nRetirar o etanol cuidadosamente com uma pipeta sem retirar o pellet.\nInverter os tubos em papel e deixar secar por 10-15 minutos.\nAdicionar 30 μL de DNA Rehydration Solution e reidratar o DNA incubando a 65ºC por 1 hora. Periodicamente misturar a solução com cuidado OU incubar a 4ºC overnight.\nGuardar o DNA extraído a 2-8ºC."
+  },
+  {
+    "objectID": "extracao.html#protocolo-de-extração-de-dna---promega-caramujos-1",
+    "href": "extracao.html#protocolo-de-extração-de-dna---promega-caramujos-1",
+    "title": "2  Extração",
+    "section": "2.2 Protocolo de Extração de DNA - Promega Caramujos",
+    "text": "2.2 Protocolo de Extração de DNA - Promega Caramujos"
+  },
+  {
+    "objectID": "extracao.html#protocolo-de-extração-de-dna---promega-macrófitas",
+    "href": "extracao.html#protocolo-de-extração-de-dna---promega-macrófitas",
+    "title": "2  Extração",
+    "section": "2.3 Protocolo de Extração de DNA - Promega Macrófitas",
+    "text": "2.3 Protocolo de Extração de DNA - Promega Macrófitas\n\nTubos de 1,5 mL.\nAmostras + nitrogênio líquido (macerar).\nAdicionar 600 μl de Nuclei Lysis Solution (logo após macerar).\nBanho de 15 minutos a 65°C.\nAdicionar 3 μl de RNAse.\nVirar o tubo 5x.\nColocar no banho por 15 minutos a 37°C (pode segurar na mão).\nDeixar por 5 minutos em temperatura ambiente.\nAdicionar 200 μl de Protein Precipitation Solution.\nVórtex.\nCentrifugar por 3 minutos a 16000j ou 13000 rpm.\nSeparar sobrenadante e descartar o resto.\nAdicionar 600 μl de isopropanol ao sobrenadante.\nVirar 5x.\nCentrifugar por 1 minuto a 16000j ou 13000 rpm.\nDescartar sobrenadante.\nAdicionar 600 μl de etanol 70%.\nVirar 5x.\nCentrifugar por 1 minuto a 16000j ou 13000 rpm.\nDescartar sobrenadante.\nDeixar o tubo secar por 15 minutos na estufa.\nAdicionar 50 μl de DNA Rehydration Solution."
+  },
+  {
+    "objectID": "extracao.html#protocolo-de-extração-de-dna-com-colunas---qiagen-parasitos",
+    "href": "extracao.html#protocolo-de-extração-de-dna-com-colunas---qiagen-parasitos",
+    "title": "2  Extração",
+    "section": "2.4 Protocolo de Extração de DNA com Colunas - QIAGEN Parasitos",
+    "text": "2.4 Protocolo de Extração de DNA com Colunas - QIAGEN Parasitos\n\nDeixar o mínimo possível de líquido na amostra antes de começar.\nAdicionar 180 μL de Buffer ATL.\nAdicionar 20 μL de proteinase K. Misturar com vórtex e incubar a 56ºC até completa lise celular (30min - 2h). Misturar com vórtex ocasionalmente durante a incubação.\nMisturar com vórtex por 15 segundos.\nAdicionar 200 μL de Buffer AL. Misturar bem com vórtex.\nAdicionar 200 μL de etanol (96-100%). Misturar bem com vórtex.\nPipetar a mistura em uma coluna de centrifugação DNeasy Mini colocada em um tubo de coleta. Centrifugar a 8000 rpm (≥6000 x g) por 1 minuto. Descartar o líquido filtrado e o tubo de coleta.\nColocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW1.\n\nCentrifugar por 1 minuto a 8000 rpm. Descartar o líquido filtrado e o tubo de coleta.\n\nColocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW2. Centrifugar por 3 minutos a 14.000 rpm (≥20.000 x g). Descartar o líquido filtrado e o tubo de coleta.\nTransferir a coluna para um eppendorf de 1,5 mL.\nAdicionar 50 μL de Buffer AE no centro da membrana da coluna para a eluição do DNA. Incubar por 1 minuto a temperatura ambiente (15-25oC). Centrifugar por 1 minuto a 8000 rpm.\nDescartar a coluna e guardar o DNA extraído."
+  },
+  {
+    "objectID": "extracao.html#protocolo-de-extração-de-dna---promega-peixes",
+    "href": "extracao.html#protocolo-de-extração-de-dna---promega-peixes",
+    "title": "2  Extração",
+    "section": "2.1 Protocolo de Extração de DNA - Promega Peixes",
+    "text": "2.1 Protocolo de Extração de DNA - Promega Peixes\n\nCom pinça e bisturi, fracionar aproximadamente 20 mg de músculo.\nAdicionar 400 μL de Nuclei Lysis Solution.\nIncubar por 30 minutos a 55ºC.\nAdicionar 10 μL de Proteinase K 20 mg/ml.\nIncubar a 55ºC overnight ou de 2-3 horas até ficar homogêneo.\nAdicionar 2 μL de RNAse Kit Solution e mexer a amostra por inversão.\nIncubar 30 minutos a 37ºC.\nDeixar em temperatura ambiente por 5 minutos.\nAdicionar 200 μL de Protein Precipitation Solution e agitar por 20 segundos.\nDeixar no gelo por 5 minutos.\nCentrifugar por 10 minutos a 12000 rpm.\nRemover o sobrenadante transferindo para um tubo novo – descartar o pellet.\nAdicionar 600 μL de isopropanol e agitar por inversão.\nCentrifugar por 2 minutos a 12000 rpm – descartar o sobrenadante.\nAdicionar 600 μL de etanol 70% a temperatura ambiente.\nCentrifugar por 2 minutos a 12000 rpm – descartar sobrenadante.\nDeixar secar – pode ser na estufa.\nRessuspender em 30 μL de DNA Rehidration Solution. Deixar por 1 hora no banho a 65ºC ou overnight a 4ºC."
+  },
+  {
+    "objectID": "purificacao.html#purificação-com-polietilenoglicol-peg",
+    "href": "purificacao.html#purificação-com-polietilenoglicol-peg",
+    "title": "3  Purificação",
+    "section": "3.1 Purificação com Polietilenoglicol (PEG)",
+    "text": "3.1 Purificação com Polietilenoglicol (PEG)\n\nAdicionar 50 μL de PEG 20% NaCl 25m. em um tubo de 1,5 mL.\nTransferir a PCR para o tubo e misturar.\nIncubar o conteúdo do tubo a 37oC por 15 minutos.\nCentrifugar a reação + PEG por 15 minutos a 12000 rpm.\nRetirar o sobrenadante sem tocar na parede do tubo e descartar – usar pipeta.\nAdicionar 62,5 μL de etanol 80% (álcool Merck) gelado no tubo – colocar na parede.\nCentrifugar por 2 minutos.\nVirar o tubo, descartando o sobrenadante.\nDeixar secar até não ter mais gotas – pode ser na estufa.\nRessuspender com 10 μL de água Milli-Q lavando a parede do tubo de 5 a 6 vezes."
+  }
+]
