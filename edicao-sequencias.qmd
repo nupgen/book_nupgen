@@ -1,0 +1,36 @@
+# Edição de sequências
+
+Após enviar nossas amostras para o sequenciamento, recebemos um conjunto de arquivos com os resultados. Mas antes de utilizá-los em análises, precisamos garantir a qualidade dos dados recebidos. É normal e esperado que sejam encontrados erros de leitura do sequenciador, mas devemos tomar cuidado para tornar esse processo livre de vieses e erros de interpretação.
+
+Os arquivos geralmente são enviados em 2 formatos, um deles é responsável pela sequência de nucleotídeos de forma básica, geralmente no formato `.fasta`/`.fas` (é neste formato que baixamos as sequências do [GenBank](genbank-e-bancos-geneticos.qmd)) ou `.seq`, e o outro arquivo é o responsável pelos dados do eletroferograma, onde podemos observar os picos do sinal do detector do sequenciador, recebido geralmente em formato `.ab1`.
+
+Os arquivos FASTA podem ser abertos no programa [MEGA](mega.qmd) (ou mesmo no bloco de notas para uma edição rápida no nome das sequências, por exemplo), enquanto os eletroferogramas podem ser visualizados com o programa [BioEdit](bioedit.qmd).
+
+## Passo a passo para edição de sequências
+
+Para realizar uma edição correta e livre de vieses, vamos utilizar papel e caneta além do BioEdit e MEGA. Peça ajuda para alguém que já fez isso antes.
+
+1.  Abra o eletroferograma com o BioEdit e anote cada observação da sequência em um papel, destacando o início e final da sequência, junto da numeração do nucleotídeo e a modificação a ser feita, por exemplo:
+
+```{r, eval=FALSE}
+Seq1 - A04
+
+Início 
+34
+----->
+ATGCTA
+
+pb      134 145 167
+Antes    Y   K   W
+         |   |   |
+Agora    C   G   A
+
+Fim
+    673 
+----->
+TGCCTA
+```
+
+Faça isso para a sequência inteira. O ideal é que você faça isso com todas as suas sequências de uma vez.
+
+2.  Abra o MEGA e realize as edições na seguinte ordem: 1. Correções de pb, 2. Corte do final da sequência, 3. Corte do início da sequência. Isso vai garantir que os números relativos a cada nucleotídeo não mude durante a edição.

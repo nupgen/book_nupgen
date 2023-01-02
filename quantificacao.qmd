@@ -1,0 +1,39 @@
+# Quantificação
+
+-   Gel agarose 1%.
+
+-   Correr por aproximadamente 40 minutos, a 100 volts.
+
+-   DNA lambda (pipetar 5 μL de cada + 1 μL de GelRed):
+
+    -   5 ng/μL -- 25 ng
+
+    -   10 ng/μL -- 50 ng
+
+    -   20 ng/μL -- 100 ng
+
+## Preparação por amostra
+
+### GelRed
+
+2 μL de DNA + 1 μL de loading + 1 μL de GelRed + 1 μL de água Milli-Q\*
+
+\*água Milli-Q é opcional
+
+### Safer
+
+X μL de DNA + X μL de Safer
+
+## Diluição do DNA para 5ng/μL
+
+$C1 * V1 = C2 * V2$
+
+**C1** -- concentração da amostra (inicial)
+
+**V1** -- quantidade de DNA necessária (descobrir)
+
+**C2** -- concentração para diluir (vai diluir para 5 ng)
+
+**V2** -- volume final total (50 μL)
+
+OBS: Quantidade de água Milli-Q é 50 μL menos a quantidade de DNA

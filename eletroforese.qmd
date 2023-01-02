@@ -1,0 +1,58 @@
+# Eletroforese
+
+## Gel agarose
+
+### Gel 1%
+
+| Cuba - 60 mL            |
+|-------------------------|
+| 0,6g de agarose         |
+| 12 mL de TBE            |
+| 48 mL de água destilada |
+
+| Cuba - 120 mL           |
+|-------------------------|
+| 1,2g de agarose         |
+| 24 mL de TBE            |
+| 96 mL de água destilada |
+
+### Gel 1,4%
+
+| Cuba - 120 mL           |
+|-------------------------|
+| 1,68g de agarose        |
+| 24 mL de TBE            |
+| 96 mL de água destilada |
+
+### Gel 3%
+
+| Cuba - 120 mL           |
+|-------------------------|
+| 3,6g de agarose         |
+| 24 mL de TBE            |
+| 96 mL de água destilada |
+
+## Protocolo para quantificação
+
+## Protocolo para amplificação
+
+## Protocolo para purificação
+
+
+## Etc
+
+### Ladder 100 pb
+
+2 μL de loading + 1 μL de GelRed + 2 μL de Ladder 100 pb
+
+### Por amostra
+
+2 μL de loading + 1 μL de GelRed + 3 μL da PCR
+
+### Observações
+
+-   Fio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).
+-   Gel agarose 1% (pode ser reutilizado).
+-   Correr a 90 volts, por aproximadamente 1 hora.
+-   Colocar o Ladder 100 pb no primeiro poço.
+

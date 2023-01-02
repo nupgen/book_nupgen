@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Laboratório de Genética Molecular - Nupgen - DBC/Nupélia</title>
+<title>Laboratório de Genética Molecular - Nupgen - DBC/Nupélia - 5&nbsp; Quantificação</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./lab.html" rel="next">
+<link href="./amplificacao.html" rel="next">
+<link href="./eletroforese.html" rel="prev">
 <link href="./favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -61,6 +62,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -70,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Laboratório de Genética Molecular - Nupgen - DBC/Nupélia</h1>
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Quantificação</span></h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -95,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">Início</a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">Início</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -128,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./quantificacao.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Quantificação</span></a>
+  <a href="./quantificacao.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Quantificação</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -212,7 +214,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#início" id="toc-início" class="nav-link active" data-scroll-target="#início">Início</a></li>
+  <li><a href="#preparação-por-amostra" id="toc-preparação-por-amostra" class="nav-link active" data-scroll-target="#preparação-por-amostra"><span class="toc-section-number">5.1</span>  Preparação por amostra</a>
+  <ul class="collapse">
+  <li><a href="#gelred" id="toc-gelred" class="nav-link" data-scroll-target="#gelred"><span class="toc-section-number">5.1.1</span>  GelRed</a></li>
+  <li><a href="#safer" id="toc-safer" class="nav-link" data-scroll-target="#safer"><span class="toc-section-number">5.1.2</span>  Safer</a></li>
+  </ul></li>
+  <li><a href="#diluição-do-dna-para-5ngμl" id="toc-diluição-do-dna-para-5ngμl" class="nav-link" data-scroll-target="#diluição-do-dna-para-5ngμl"><span class="toc-section-number">5.2</span>  Diluição do DNA para 5ng/μL</a></li>
   </ul>
 </nav>
     </div>
@@ -221,7 +228,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Laboratório de Genética Molecular - Nupgen - DBC/Nupélia</h1>
+<h1 class="title d-none d-lg-block"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Quantificação</span></h1>
 </div>
 
 
@@ -236,14 +243,36 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-
-<section id="início" class="level1 unnumbered">
-<p><img src="cover.png" title="Laboratório de Genética Molecular - Nupgen - DBC/Nupélia" class="quarto-cover-image img-fluid"></p><h1 class="unnumbered">Início</h1>
-<p>Este é o livro online do <strong>Nupgen</strong>, o <strong>Laboratório de Genética Molecular do Nupélia (DBC/Nupélia)</strong>. Aqui você poderá encontrar textos explicativos sobre nossa linha de pesquisa, as metodologias utilizadas em nosso laboratório, bem como os protocolos atualizados. Este é um material introdutório destinado principalmente aos alunos do laboratório e pode servir como guia para as tarefas mais técnicas. Esperamos que ele funcione como um Procedimento Operacional Padrão (POP) em nosso laboratório, mantendo as equipes alinhadas, elevando a produtividade e evitando o desperdício de recursos dentro do laboratório. Este livro não precisa ser lido de forma sequencial e cada capítulo é independente de outros, no entanto, organizamos os capítulos seguindo a lógica de trabalho no laboratório para tornar a leitura mais fluida.</p>
-<p>O objetivo deste livro não é substituir a colaboração entre alunos do laboratório, mas sim garantir que pequenos detalhes não sejam perdidos com o passar do tempo. Na verdade, esperamos que os tópicos deste livro sejam exaustivamente discutidos entre os alunos, a fim de melhorar este conteúdo e gerar novas perguntas que ajudem no desenvolvimento da pesquisa.</p>
-<p>Este livro foi escrito em <a href="https://quarto.org/">Quarto</a>.</p>
-<p>Organização: Bruno Mioto</p>
-<p>Autores: Adrian Silva, Bruno Mioto, Eloisa de Páris e Mayara Passere</p>
+<ul>
+<li><p>Gel agarose 1%.</p></li>
+<li><p>Correr por aproximadamente 40 minutos, a 100 volts.</p></li>
+<li><p>DNA lambda (pipetar 5 μL de cada + 1 μL de GelRed):</p>
+<ul>
+<li><p>5 ng/μL – 25 ng</p></li>
+<li><p>10 ng/μL – 50 ng</p></li>
+<li><p>20 ng/μL – 100 ng</p></li>
+</ul></li>
+</ul>
+<section id="preparação-por-amostra" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="preparação-por-amostra"><span class="header-section-number">5.1</span> Preparação por amostra</h2>
+<section id="gelred" class="level3" data-number="5.1.1">
+<h3 data-number="5.1.1" class="anchored" data-anchor-id="gelred"><span class="header-section-number">5.1.1</span> GelRed</h3>
+<p>2 μL de DNA + 1 μL de loading + 1 μL de GelRed + 1 μL de água Milli-Q*</p>
+<p>*água Milli-Q é opcional</p>
+</section>
+<section id="safer" class="level3" data-number="5.1.2">
+<h3 data-number="5.1.2" class="anchored" data-anchor-id="safer"><span class="header-section-number">5.1.2</span> Safer</h3>
+<p>X μL de DNA + X μL de Safer</p>
+</section>
+</section>
+<section id="diluição-do-dna-para-5ngμl" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="diluição-do-dna-para-5ngμl"><span class="header-section-number">5.2</span> Diluição do DNA para 5ng/μL</h2>
+<p><span class="math inline">\(C1 * V1 = C2 * V2\)</span></p>
+<p><strong>C1</strong> – concentração da amostra (inicial)</p>
+<p><strong>V1</strong> – quantidade de DNA necessária (descobrir)</p>
+<p><strong>C2</strong> – concentração para diluir (vai diluir para 5 ng)</p>
+<p><strong>V2</strong> – volume final total (50 μL)</p>
+<p>OBS: Quantidade de água Milli-Q é 50 μL menos a quantidade de DNA</p>
 
 
 </section>
@@ -384,10 +413,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./eletroforese.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Eletroforese</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./lab.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">O Laboratório</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./amplificacao.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Amplificação</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

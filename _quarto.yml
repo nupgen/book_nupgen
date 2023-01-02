@@ -2,16 +2,32 @@ project:
   type: book
 
 book:
-  title: "Laboratório de Genética Molecular - Nupgen - PEA/DBC"
-  author: "Bruno Mioto"
-  date: "02/01/2023"
+  title: "Laboratório de Genética Molecular - Nupgen - DBC/Nupélia"
+  cover-image: cover.png
+  favicon: favicon.png
+  output-file: "book-nupgen"
   chapters:
     - index.qmd
-    - intro.qmd
+    - lab.qmd
     - part: "Protocolos"
       chapters: 
+        - diluicoes.qmd
         - extracao.qmd
+        - eletroforese.qmd
+        - quantificacao.qmd
+        - amplificacao.qmd
         - purificacao.qmd
+        - sequenciamento.qmd
+    - part: "Análises"
+      chapters:
+        - bancos-geneticos.qmd
+        - edicao-sequencias.qmd
+        - alinhamento.qmd
+    - part: "Softwares"
+      chapters: 
+        - mega.qmd
+        - bioedit.qmd
+        - raxml.qmd
     - references.qmd
 
 bibliography: references.bib

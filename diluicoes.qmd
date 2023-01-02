@@ -1,0 +1,109 @@
+# Diluições
+
+As diluições são um procedimento comum em laboratório que consiste em misturar uma solução concentrada com uma solução diluente para produzir uma solução de concentração conhecida. Elas são utilizadas em diversas aplicações em laboratório, como preparação de amostras para análises químicas ou biológicas, padronização de soluções e muito mais.
+
+Para realizar uma diluição, é necessário conhecer a concentração da solução inicial e a quantidade de solução diluente que será adicionada. A concentração da solução final pode ser calculada usando a fórmula de diluição:
+
+$C1 * V1 = C2 * V2$
+
+Onde $C1$ é a concentração da solução inicial, $V1$ é o volume da solução inicial, $C2$ é a concentração da solução final e $V2$ é o volume da solução final.
+
+## Etanol
+
+### Etanol 70%
+
+Em um tubo tipo falcon, colocar:
+
+-   70 mL de etanol absoluto
+
+-   30 mL de água destilada
+
+### Etanol 80%
+
+Em um tubo tipo falcon, colocar:
+
+-   80 mL de etanol absoluto
+
+-   20 mL de água destilada
+
+## GelRed
+
+Em um tubo de 1,5 mL envolto com fita e papel alumínio, colocar:
+
+-   1 μL de GelRed (estoque)
+
+-   500 μL de água Milli-Q
+
+## Ladder 100pb
+
+Em um tubo de 1,5 mL, colocar:
+
+-   10 μL de Ladder (estoque)
+
+-   90 μL de água Milli-Q
+
+## Lambda
+
+### Lambda 5ng/μL (para 1000 μL)
+
+-   9,27 μL de lambda
+
+-   990,73 μL de água Milli-Q
+
+### Lambda 10ng/μL (para 1000 μL)
+
+-   18,56 μL de lambda
+
+-   981,44 μL de água Milli-Q
+
+### Lambda 20ng/μL (para 1000 μL)
+
+-   37,11 μL de lambda
+
+-   962,89 μL de água Milli-Q
+
+## Primer para uso (10 μM)
+
+Em um tubo, colocar:
+
+-   10 μL do primer estoque
+
+-   50 μL de água Milli-Q
+
+## Proteinase K 20 mg/mL
+
+-   20 mg de Proteinase K (estoque)
+
+-   1 mL de água Milli-Q
+
+**Modo de preparo:** lavar bem uma espátula, esterilizar com álcool 70% e pesar a Proteinase K em um microtubo novo (1,5 mL). Adicionar a água Milli-Q e ressuspender bem com a pipeta. Agitar a solução no vórtex para homogeneizar bem. Manter no freezer.
+
+## Tampão TBE 5x (estoque)
+
+-   54 g de Tris-Base
+
+-   27,5 g de Ácido Bórico
+
+-   20 mL de EDTA 0,5M pH 8,0
+
+Completar para 1000 mL com água destilada
+
+**Modo de preparo:** em um becker, colocar um pouco da água destilada. Colocar uma pulga no becker e utilizar o agitador para homogeneizar a solução. Ir adicionando aos poucos os reagentes. Ao final, utilizando uma proveta, completar o volume de água que falta e armazenar em frascos de vidro (tampa laranja). Etiquetar e autoclavar.
+
+## PEG 20% NaCl 2,5M (para 75 mL)
+
+-   15 g de Polietilenoglicol
+
+-   10,95 g de NaCl
+
+Completar para 75 mL com água Milli-Q
+
+**Modo de preparo:** colocar em um becker um pouco da água e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água que falta e com o auxílio de uma seringa passar a solução pelo filtro (0,2 µM -- azul). Ir colocando em tubos Falcon para autoclavar. Após autoclavada, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira.
+
+## Diluição primer liofilizado
+
+**Quantidade em nmol x 1000 / 60 = Quantidade de água Milli-Q**
+
+Acrescentar essa quantidade de água no tubo do primer
+
+Obs: 60 porque é a concentração utilizada para diluição dos primers no laboratório (= 60 µM)
