@@ -35,199 +35,262 @@
     "text": "1.4 Projetos do Nupgen\n\n1.4.1 Peixes\nIctiofaunas de reservatórios aquáticos podem ser formadas por organismos nativos e invasores. O estudo de populações nativas é importante para verificar a presença e interação desses organismos de determinada região. E invasores, quando presentes, modificam o habitat e o sistema onde foram introduzidos, podendo levar a perda de biodiversidade local e alterações genéticas. Assim, estudos moleculares permitem estimar a diversidade e verificar as alterações genéticas que ocorrem nestes animais.\n\n\n1.4.2 Macrófitas\nAs macrófitas aquáticas, quando invasoras, constituem uma ameaça em termos ecológicos e também econômicos. A correta identificação e a elucidação da diversidade genética desses organismos podem auxiliar na compreensão dos mecanismos de dispersão e colonização, como também no manejo adequado das espécies.\n\n\n1.4.3 Parasitos\nA relação parasito-hospedeiro possui grande importância nos ambientes naturais. O conhecimento da biodiversidade de parasitos contribui com o levantamento de espécies de hospedeiros no local, além de direcionar métodos de manejo para parasitos com potencial zoonótico.\n\n\n1.4.4 Microorganismos\nMesmo invisíveis a olho nu, os microorganismos possuem grande importância em ambientes aquáticos, servindo como níveis inferiores na cadeia alimentar. Alguns organismos podem influenciar na qualidade d’água, por isso conhecer a diversidade destes microorganismos é fundamental\n\n\n1.4.5 Genes opsins\nO estudo de proteínas visuais possibilita observar e comparar a influência de fatores ecológicos no processo evolutivo de diversas linhagens, identificando como as espécies se adaptam a diversas pressões seletivas existentes no habitat.\n\n\n1.4.6 DNA Ambiental\nA partir de amostras de água, é possível obter fragmentos de DNA de organismos que estiveram neste ambiente. Peixes, microorganismos, anfíbios, parasitos e muitos outros organismos deixam rastros genéticos e podemos estudá-los indiretamente a partir de técnicas de sequenciamento de nova geração."
   },
   {
+    "objectID": "genetica-e-marcadores.html#o-que-é-a-genética-molecular",
+    "href": "genetica-e-marcadores.html#o-que-é-a-genética-molecular",
+    "title": "2  Genética Molecular e Marcadores",
+    "section": "2.1 O que é a genética molecular?",
+    "text": "2.1 O que é a genética molecular?\nA Genética Molecular utiliza o DNA como objeto de estudo. O DNA (ácido desoxirribonucleico) é uma biomolécula capaz de armazenar a informação biológica e perpetuá-la pelo processo de auto replicação semiconservativa. Sua estrutura é uma dupla-fita helicoidal de nucleotídeos, que por sua vez é composta por um grupo fosfato, uma pentose e uma base nitrogenada. As duas fitas de DNA são unidas por meio de ligações de hidrogênio entre as bases nitrogenadas. Existem quatro bases nitrogenadas: Adenina (A), Timina (T), Citosina (C) e Guanina (G), sendo a Adenina complementar à Timina, e a Citosina complementar à Guanina. Portanto, uma fita de DNA consiste em uma sequência de nucleotídeos, cuja ordem das bases nitrogenadas (A, T, C, G) determinaram as características biológicas. Embora as células possuam um aparato enzimático complexo que garante uma alta fidelidade nas sequências nucleotídicas durante a replicação do DNA, alguns “erros de replicação” podem ser perpetuados. Esses “erros”, além de fatores ambientais (como a radiação, por exemplo), podem levar a mutações. As mutações são a fonte do polimorfismo genético, que consiste no principal objetivo que permeia as pesquisas na área da Biologia Molecular. Conhecer com profundidade os mecanismos moleculares envolvidos na estrutura e replicação do DNA é importante para garantir o entendimento dos protocolos e o domínio das análises feitas no laboratório, por isso, recomenda-se a leitura de livros-base na área da Biologia Molecular e Genética. Segue abaixo uma lista das principais referências na área:\nBruce Alberts et al. (2017)\nAnthony J. F. Griffiths et al. (2016)\nPeter Snustad and Michael J. Simmons (2017)"
+  },
+  {
+    "objectID": "genetica-e-marcadores.html#marcadores-moleculares",
+    "href": "genetica-e-marcadores.html#marcadores-moleculares",
+    "title": "2  Genética Molecular e Marcadores",
+    "section": "2.2 Marcadores Moleculares",
+    "text": "2.2 Marcadores Moleculares\n\n\n\n\nAnthony J. F. Griffiths, Susan R. Wessler, Sean B. Carroll, and John Doebley. 2016. Introdução à Genética. 11th ed. Guanabara Koogan.\n\n\nBruce Alberts, Alexander Johnson, Julian Lewis, David Morgan, Martin Raff, Keith Roberts, Peter Walter, John Wilson, and Tim Hunt. 2017. Biologia Molecular Da Célula. 6th ed. Porto Alegre: Artmed.\n\n\nPeter Snustad, and Michael J. Simmons. 2017. Fundamentos Da Genética. 7th ed. Rio de Janeiro: Guanabara Koogan."
+  },
+  {
     "objectID": "diluicoes.html#etanol",
     "href": "diluicoes.html#etanol",
-    "title": "2  Diluições",
-    "section": "2.1 Etanol",
-    "text": "2.1 Etanol\n\n2.1.1 Etanol 70%\nEm um tubo tipo falcon, colocar:\n\n70 mL de etanol absoluto\n30 mL de água destilada\n\n\n\n2.1.2 Etanol 80%\nEm um tubo tipo falcon, colocar:\n\n80 mL de etanol absoluto\n20 mL de água destilada"
+    "title": "3  Diluições",
+    "section": "3.1 Etanol",
+    "text": "3.1 Etanol\n\n3.1.1 Etanol 70%\nEm um tubo tipo falcon, colocar:\n\n70 mL de etanol absoluto\n30 mL de água destilada\n\n\n\n3.1.2 Etanol 80%\nEm um tubo tipo falcon, colocar:\n\n80 mL de etanol absoluto\n20 mL de água destilada"
   },
   {
     "objectID": "diluicoes.html#gelred",
     "href": "diluicoes.html#gelred",
-    "title": "2  Diluições",
-    "section": "2.2 GelRed",
-    "text": "2.2 GelRed\nEm um tubo de 1,5 mL envolto com fita e papel alumínio, colocar:\n\n1 μL de GelRed (estoque)\n500 μL de água Milli-Q"
+    "title": "3  Diluições",
+    "section": "3.2 GelRed",
+    "text": "3.2 GelRed\nEm um tubo de 1,5 mL envolto com fita e papel alumínio, colocar:\n\n1 μL de GelRed (estoque)\n500 μL de água Milli-Q"
   },
   {
     "objectID": "diluicoes.html#ladder-100pb",
     "href": "diluicoes.html#ladder-100pb",
-    "title": "2  Diluições",
-    "section": "2.3 Ladder 100pb",
-    "text": "2.3 Ladder 100pb\nEm um tubo de 1,5 mL, colocar:\n\n10 μL de Ladder (estoque)\n90 μL de água Milli-Q"
+    "title": "3  Diluições",
+    "section": "3.3 Ladder 100pb",
+    "text": "3.3 Ladder 100pb\nEm um tubo de 1,5 mL, colocar:\n\n10 μL de Ladder (estoque)\n90 μL de água Milli-Q"
   },
   {
     "objectID": "diluicoes.html#lambda",
     "href": "diluicoes.html#lambda",
-    "title": "2  Diluições",
-    "section": "2.4 Lambda",
-    "text": "2.4 Lambda\n\n2.4.1 Lambda 5ng/μL (para 1000 μL)\n\n9,27 μL de lambda\n990,73 μL de água Milli-Q\n\n\n\n2.4.2 Lambda 10ng/μL (para 1000 μL)\n\n18,56 μL de lambda\n981,44 μL de água Milli-Q\n\n\n\n2.4.3 Lambda 20ng/μL (para 1000 μL)\n\n37,11 μL de lambda\n962,89 μL de água Milli-Q"
+    "title": "3  Diluições",
+    "section": "3.4 Lambda",
+    "text": "3.4 Lambda\n\n3.4.1 Lambda 5ng/μL (para 1000 μL)\n\n9,27 μL de lambda\n990,73 μL de água Milli-Q\n\n\n\n3.4.2 Lambda 10ng/μL (para 1000 μL)\n\n18,56 μL de lambda\n981,44 μL de água Milli-Q\n\n\n\n3.4.3 Lambda 20ng/μL (para 1000 μL)\n\n37,11 μL de lambda\n962,89 μL de água Milli-Q"
   },
   {
     "objectID": "diluicoes.html#primer-para-uso-10-μm",
     "href": "diluicoes.html#primer-para-uso-10-μm",
-    "title": "2  Diluições",
-    "section": "2.5 Primer para uso (10 μM)",
-    "text": "2.5 Primer para uso (10 μM)\nEm um tubo, colocar:\n\n10 μL do primer estoque\n50 μL de água Milli-Q"
+    "title": "3  Diluições",
+    "section": "3.5 Primer para uso (10 μM)",
+    "text": "3.5 Primer para uso (10 μM)\nEm um tubo, colocar:\n\n10 μL do primer estoque\n50 μL de água Milli-Q"
   },
   {
     "objectID": "diluicoes.html#proteinase-k-20-mgml",
     "href": "diluicoes.html#proteinase-k-20-mgml",
-    "title": "2  Diluições",
-    "section": "2.6 Proteinase K 20 mg/mL",
-    "text": "2.6 Proteinase K 20 mg/mL\n\n20 mg de Proteinase K (estoque)\n1 mL de água Milli-Q\n\nModo de preparo: lavar bem uma espátula, esterilizar com álcool 70% e pesar a Proteinase K em um microtubo novo (1,5 mL). Adicionar a água Milli-Q e ressuspender bem com a pipeta. Agitar a solução no vórtex para homogeneizar bem. Manter no freezer."
+    "title": "3  Diluições",
+    "section": "3.6 Proteinase K 20 mg/mL",
+    "text": "3.6 Proteinase K 20 mg/mL\n\n20 mg de Proteinase K (estoque)\n1 mL de água Milli-Q\n\nModo de preparo: lavar bem uma espátula, esterilizar com álcool 70% e pesar a Proteinase K em um microtubo novo (1,5 mL). Adicionar a água Milli-Q e ressuspender bem com a pipeta. Agitar a solução no vórtex para homogeneizar bem. Manter no freezer."
   },
   {
     "objectID": "diluicoes.html#tampão-tbe-5x-estoque",
     "href": "diluicoes.html#tampão-tbe-5x-estoque",
-    "title": "2  Diluições",
-    "section": "2.7 Tampão TBE 5x (estoque)",
-    "text": "2.7 Tampão TBE 5x (estoque)\n\n54 g de Tris-Base\n27,5 g de Ácido Bórico\n20 mL de EDTA 0,5M pH 8,0\n\nCompletar para 1000 mL com água destilada\nModo de preparo: em um becker, colocar um pouco da água destilada. Colocar uma pulga no becker e utilizar o agitador para homogeneizar a solução. Ir adicionando aos poucos os reagentes. Ao final, utilizando uma proveta, completar o volume de água que falta e armazenar em frascos de vidro (tampa laranja). Etiquetar e autoclavar."
+    "title": "3  Diluições",
+    "section": "3.7 Tampão TBE 5x (estoque)",
+    "text": "3.7 Tampão TBE 5x (estoque)\n\n54 g de Tris-Base\n27,5 g de Ácido Bórico\n20 mL de EDTA 0,5M pH 8,0\n\nCompletar para 1000 mL com água destilada\nModo de preparo: em um becker, colocar um pouco da água destilada. Colocar uma pulga no becker e utilizar o agitador para homogeneizar a solução. Ir adicionando aos poucos os reagentes. Ao final, utilizando uma proveta, completar o volume de água que falta e armazenar em frascos de vidro (tampa laranja). Etiquetar e autoclavar."
   },
   {
     "objectID": "diluicoes.html#peg-20-nacl-25m-para-75-ml",
     "href": "diluicoes.html#peg-20-nacl-25m-para-75-ml",
-    "title": "2  Diluições",
-    "section": "2.8 PEG 20% NaCl 2,5M (para 75 mL)",
-    "text": "2.8 PEG 20% NaCl 2,5M (para 75 mL)\n\n15 g de Polietilenoglicol\n10,95 g de NaCl\n\nCompletar para 75 mL com água Milli-Q\nModo de preparo: colocar em um becker um pouco da água e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água que falta e com o auxílio de uma seringa passar a solução pelo filtro (0,2 µM – azul). Ir colocando em tubos Falcon para autoclavar. Após autoclavada, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira."
+    "title": "3  Diluições",
+    "section": "3.8 PEG 20% NaCl 2,5M (para 75 mL)",
+    "text": "3.8 PEG 20% NaCl 2,5M (para 75 mL)\n\n15 g de Polietilenoglicol\n10,95 g de NaCl\n\nCompletar para 75 mL com água Milli-Q\nModo de preparo: colocar em um becker um pouco da água e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água que falta e com o auxílio de uma seringa passar a solução pelo filtro (0,2 µM – azul). Ir colocando em tubos Falcon para autoclavar. Após autoclavada, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira."
   },
   {
     "objectID": "diluicoes.html#diluição-primer-liofilizado",
     "href": "diluicoes.html#diluição-primer-liofilizado",
-    "title": "2  Diluições",
-    "section": "2.9 Diluição primer liofilizado",
-    "text": "2.9 Diluição primer liofilizado\nQuantidade em nmol x 1000 / 60 = Quantidade de água Milli-Q\nAcrescentar essa quantidade de água no tubo do primer\nObs: 60 porque é a concentração utilizada para diluição dos primers no laboratório (= 60 µM)"
+    "title": "3  Diluições",
+    "section": "3.9 Diluição primer liofilizado",
+    "text": "3.9 Diluição primer liofilizado\nQuantidade em nmol x 1000 / 60 = Quantidade de água Milli-Q\nAcrescentar essa quantidade de água no tubo do primer\nObs: 60 porque é a concentração utilizada para diluição dos primers no laboratório (= 60 µM)"
   },
   {
     "objectID": "extracao.html#protocolo-de-extração-de-dna---promega-peixes",
     "href": "extracao.html#protocolo-de-extração-de-dna---promega-peixes",
-    "title": "3  Extração",
-    "section": "3.1 Protocolo de Extração de DNA - Promega Peixes",
-    "text": "3.1 Protocolo de Extração de DNA - Promega Peixes\n\nCom pinça e bisturi, fracionar aproximadamente 20 mg de músculo.\nAdicionar 400 μL de Nuclei Lysis Solution.\nIncubar por 30 minutos a 55ºC.\nAdicionar 10 μL de Proteinase K 20 mg/ml.\nIncubar a 55ºC overnight ou de 2-3 horas até ficar homogêneo.\nAdicionar 2 μL de RNAse Kit Solution e mexer a amostra por inversão.\nIncubar 30 minutos a 37ºC.\nDeixar em temperatura ambiente por 5 minutos.\nAdicionar 200 μL de Protein Precipitation Solution e agitar por 20 segundos.\nDeixar no gelo por 5 minutos.\nCentrifugar por 10 minutos a 12000 rpm.\nRemover o sobrenadante transferindo para um tubo novo – descartar o pellet.\nAdicionar 600 μL de isopropanol e agitar por inversão.\nCentrifugar por 2 minutos a 12000 rpm – descartar o sobrenadante.\nAdicionar 600 μL de etanol 70% a temperatura ambiente.\nCentrifugar por 2 minutos a 12000 rpm – descartar sobrenadante.\nDeixar secar – pode ser na estufa.\nRessuspender em 30 μL de DNA Rehidration Solution. Deixar por 1 hora no banho a 65ºC ou overnight a 4ºC."
+    "title": "4  Extração",
+    "section": "4.1 Protocolo de Extração de DNA - Promega Peixes",
+    "text": "4.1 Protocolo de Extração de DNA - Promega Peixes\n\nCom pinça e bisturi, fracionar aproximadamente 20 mg de músculo.\nAdicionar 400 μL de Nuclei Lysis Solution.\nIncubar por 30 minutos a 55º C.\nAdicionar 10 μL de Proteinase K 20 mg/ml.\nIncubar a 55º C overnight ou de 2-3 horas até ficar homogêneo.\nAdicionar 2 μL de RNAse Kit Solution e mexer a amostra por inversão.\nIncubar 30 minutos a 37º C.\nDeixar em temperatura ambiente por 5 minutos.\nAdicionar 200 μL de Protein Precipitation Solution e agitar por 20 segundos.\nDeixar no gelo por 5 minutos.\nCentrifugar por 10 minutos a 12.000 rpm.\nRemover o sobrenadante transferindo para um tubo novo – descartar o pellet.\nAdicionar 600 μL de isopropanol e agitar por inversão.\nCentrifugar por 2 minutos a 12.000 rpm – descartar o sobrenadante.\nAdicionar 600 μL de etanol 70% a temperatura ambiente.\nCentrifugar por 2 minutos a 12.000 rpm – descartar sobrenadante.\nDeixar secar – pode ser na estufa.\nRessuspender em 30 μL de DNA Rehidration Solution. Deixar por 1 hora no banho a 65º C ou overnight a 4º C."
   },
   {
     "objectID": "extracao.html#protocolo-de-extração-de-dna---promega-caramujos",
     "href": "extracao.html#protocolo-de-extração-de-dna---promega-caramujos",
-    "title": "3  Extração",
-    "section": "3.2 Protocolo de Extração de DNA - Promega Caramujos",
-    "text": "3.2 Protocolo de Extração de DNA - Promega Caramujos\n\nSeparar o tecido (0,5-1 cm) em um tubo de 1,5 ml.\nAdicionar 500 μl de Nuclei Lysis Solution.\nMacerar o tecido com um pistilo.\nAdicionar 17,5 μl de Proteinase K 20 mg/ml.\nMisturar com vórtex por 10 segundos.\nIncubar a 55ºC overnight OU incubar a 55ºC por 3 horas, misturando com vórtex a cada hora.\nAdicionar 3 μl de RNase Solution à solução e misturar por inversão do tubo 2-5 vezes.\nIncubar a 37oC por 30 minutos. Deixar as amostras esfriarem a temperatura ambiente por 5 minutos antes da próxima etapa.\nAdicionar 200 μl de Protein Precipitation Solution e misturar com o vórtex vigorosamente por 20 segundos.\nColocar as amostras no gelo por 5 minutos.\nCentrifugar a 12.000 rpm por 4 minutos. A proteína precipitada formará um pellet no fundo.\nRemover cuidadosamente o sobrenadante contendo o DNA (não retirar o pellet) e transferir para um novo tubo de 1,5 ml que já contenha 600 μl de isopropanol (temperatura ambiente).\nMisturar cuidadosamente a solução por inversão até os “fios” de DNA formarem uma massa visível.\nCentrifugar a 12.000 rpm por 1 minuto. O DNA ficará visível como um pequeno pellet branco. Descartar cuidadosamente o sobrenadante.\nAdicionar 600 μl de etanol 70% (temperatura ambiente) e misturar cuidadosamente a solução por inversão para lavar o DNA.\nCentrifugar a 12.000 rpm por 1 minuto.\nRetirar o etanol cuidadosamente com uma pipeta sem retirar o pellet.\nInverter os tubos em papel e deixar secar por 10-15 minutos.\nAdicionar 30 μL de DNA Rehydration Solution e reidratar o DNA incubando a 65ºC por 1 hora. Periodicamente misturar a solução com cuidado OU incubar a 4ºC overnight.\nGuardar o DNA extraído a 2-8ºC."
+    "title": "4  Extração",
+    "section": "4.2 Protocolo de Extração de DNA - Promega Caramujos",
+    "text": "4.2 Protocolo de Extração de DNA - Promega Caramujos\n\nSeparar o tecido (0,5-1 cm) em um tubo de 1,5 ml.\nAdicionar 500 μl de Nuclei Lysis Solution.\nMacerar o tecido com um pistilo.\nAdicionar 17,5 μl de Proteinase K 20 mg/ml.\nMisturar com vórtex por 10 segundos.\nIncubar a 55º C overnight OU incubar a 55º C por 3 horas, misturando com vórtex a cada hora.\nAdicionar 3 μl de RNase Solution à solução e misturar por inversão do tubo 2-5 vezes.\nIncubar a 37º C por 30 minutos. Deixar as amostras esfriarem a temperatura ambiente por 5 minutos antes da próxima etapa.\nAdicionar 200 μl de Protein Precipitation Solution e misturar com o vórtex vigorosamente por 20 segundos.\nColocar as amostras no gelo por 5 minutos.\nCentrifugar a 12.000 rpm por 4 minutos. A proteína precipitada formará um pellet no fundo.\nRemover cuidadosamente o sobrenadante contendo o DNA (não retirar o pellet) e transferir para um novo tubo de 1,5 ml que já contenha 600 μl de isopropanol (temperatura ambiente).\nMisturar cuidadosamente a solução por inversão até os “fios” de DNA formarem uma massa visível.\nCentrifugar a 12.000 rpm por 1 minuto. O DNA ficará visível como um pequeno pellet branco. Descartar cuidadosamente o sobrenadante.\nAdicionar 600 μl de etanol 70% (temperatura ambiente) e misturar cuidadosamente a solução por inversão para lavar o DNA.\nCentrifugar a 12.000 rpm por 1 minuto.\nRetirar o etanol cuidadosamente com uma pipeta sem retirar o pellet.\nInverter os tubos em papel e deixar secar por 10-15 minutos.\nAdicionar 30 μL de DNA Rehydration Solution e reidratar o DNA incubando a 65º C por 1 hora. Periodicamente misturar a solução com cuidado OU incubar a 4º C overnight.\nGuardar o DNA extraído a 2-8º C."
   },
   {
     "objectID": "extracao.html#protocolo-de-extração-de-dna---promega-macrófitas",
     "href": "extracao.html#protocolo-de-extração-de-dna---promega-macrófitas",
-    "title": "3  Extração",
-    "section": "3.3 Protocolo de Extração de DNA - Promega Macrófitas",
-    "text": "3.3 Protocolo de Extração de DNA - Promega Macrófitas\n\nTubos de 1,5 mL.\nAmostras + nitrogênio líquido (macerar).\nAdicionar 600 μl de Nuclei Lysis Solution (logo após macerar).\nBanho de 15 minutos a 65°C.\nAdicionar 3 μl de RNAse.\nVirar o tubo 5x.\nColocar no banho por 15 minutos a 37°C (pode segurar na mão).\nDeixar por 5 minutos em temperatura ambiente.\nAdicionar 200 μl de Protein Precipitation Solution.\nVórtex.\nCentrifugar por 3 minutos a 16000j ou 13000 rpm.\nSeparar sobrenadante e descartar o resto.\nAdicionar 600 μl de isopropanol ao sobrenadante.\nVirar 5x.\nCentrifugar por 1 minuto a 16000j ou 13000 rpm.\nDescartar sobrenadante.\nAdicionar 600 μl de etanol 70%.\nVirar 5x.\nCentrifugar por 1 minuto a 16000j ou 13000 rpm.\nDescartar sobrenadante.\nDeixar o tubo secar por 15 minutos na estufa.\nAdicionar 50 μl de DNA Rehydration Solution."
+    "title": "4  Extração",
+    "section": "4.3 Protocolo de Extração de DNA - Promega Macrófitas",
+    "text": "4.3 Protocolo de Extração de DNA - Promega Macrófitas\n\nTubos de 1,5 mL.\nAmostras + nitrogênio líquido (macerar).\nAdicionar 600 μl de Nuclei Lysis Solution (logo após macerar).\nBanho de 15 minutos a 65° C.\nAdicionar 3 μl de RNAse.\nVirar o tubo 5x.\nColocar no banho por 15 minutos a 37° C (pode segurar na mão).\nDeixar por 5 minutos em temperatura ambiente.\nAdicionar 200 μl de Protein Precipitation Solution.\nVórtex.\nCentrifugar por 3 minutos a 16.000 ou 13.000 rpm.\nSeparar sobrenadante e descartar o resto.\nAdicionar 600 μl de isopropanol ao sobrenadante.\nVirar 5x.\nCentrifugar por 1 minuto a 16.000 ou 13.000 rpm.\nDescartar sobrenadante.\nAdicionar 600 μl de etanol 70%.\nVirar 5x.\nCentrifugar por 1 minuto a 16.000 ou 13.000 rpm.\nDescartar sobrenadante.\nDeixar o tubo secar por 15 minutos na estufa.\nAdicionar 50 μl de DNA Rehydration Solution."
   },
   {
     "objectID": "extracao.html#protocolo-de-extração-de-dna-com-colunas---qiagen-parasitos",
     "href": "extracao.html#protocolo-de-extração-de-dna-com-colunas---qiagen-parasitos",
-    "title": "3  Extração",
-    "section": "3.4 Protocolo de Extração de DNA com Colunas - QIAGEN Parasitos",
-    "text": "3.4 Protocolo de Extração de DNA com Colunas - QIAGEN Parasitos\n\nDeixar o mínimo possível de líquido na amostra antes de começar.\nAdicionar 180 μL de Buffer ATL.\nAdicionar 20 μL de proteinase K. Misturar com vórtex e incubar a 56ºC até completa lise celular (30min - 2h). Misturar com vórtex ocasionalmente durante a incubação.\nMisturar com vórtex por 15 segundos.\nAdicionar 200 μL de Buffer AL. Misturar bem com vórtex.\nAdicionar 200 μL de etanol (96-100%). Misturar bem com vórtex.\nPipetar a mistura em uma coluna de centrifugação DNeasy Mini colocada em um tubo de coleta. Centrifugar a 8000 rpm (≥6000 x g) por 1 minuto. Descartar o líquido filtrado e o tubo de coleta.\nColocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW1.\n\nCentrifugar por 1 minuto a 8000 rpm. Descartar o líquido filtrado e o tubo de coleta.\n\nColocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW2. Centrifugar por 3 minutos a 14.000 rpm (≥20.000 x g). Descartar o líquido filtrado e o tubo de coleta.\nTransferir a coluna para um eppendorf de 1,5 mL.\nAdicionar 50 μL de Buffer AE no centro da membrana da coluna para a eluição do DNA. Incubar por 1 minuto a temperatura ambiente (15-25oC). Centrifugar por 1 minuto a 8000 rpm.\nDescartar a coluna e guardar o DNA extraído."
+    "title": "4  Extração",
+    "section": "4.4 Protocolo de Extração de DNA com Colunas - QIAGEN Parasitos",
+    "text": "4.4 Protocolo de Extração de DNA com Colunas - QIAGEN Parasitos\n\nDeixar o mínimo possível de líquido na amostra antes de começar.\nAdicionar 180 μL de Buffer ATL.\nAdicionar 20 μL de proteinase K. Misturar com vórtex e incubar a 56º C até completa lise celular (30min - 2h). Misturar com vórtex ocasionalmente durante a incubação.\nMisturar com vórtex por 15 segundos.\nAdicionar 200 μL de Buffer AL. Misturar bem com vórtex.\nAdicionar 200 μL de etanol (96-100%). Misturar bem com vórtex.\nPipetar a mistura em uma coluna de centrifugação DNeasy Mini colocada em um tubo de coleta. Centrifugar a 8.000 rpm (≥6.000 x g) por 1 minuto. Descartar o líquido filtrado e o tubo de coleta.\nColocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW1.\n\nCentrifugar por 1 minuto a 8.000 rpm. Descartar o líquido filtrado e o tubo de coleta.\n\nColocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW2. Centrifugar por 3 minutos a 14.000 rpm (≥20.000 x g). Descartar o líquido filtrado e o tubo de coleta.\nTransferir a coluna para um eppendorf de 1,5 mL.\nAdicionar 50 μL de Buffer AE no centro da membrana da coluna para a eluição do DNA. Incubar por 1 minuto a temperatura ambiente (15-25º C). Centrifugar por 1 minuto a 8.000 rpm.\nDescartar a coluna e guardar o DNA extraído."
+  },
+  {
+    "objectID": "eletroforese.html#ladder",
+    "href": "eletroforese.html#ladder",
+    "title": "5  Eletroforese",
+    "section": "5.1 Ladder",
+    "text": "5.1 Ladder"
+  },
+  {
+    "objectID": "eletroforese.html#lambda",
+    "href": "eletroforese.html#lambda",
+    "title": "5  Eletroforese",
+    "section": "5.2 Lambda",
+    "text": "5.2 Lambda"
   },
   {
     "objectID": "eletroforese.html#gel-agarose",
     "href": "eletroforese.html#gel-agarose",
-    "title": "4  Eletroforese",
-    "section": "4.1 Gel agarose",
-    "text": "4.1 Gel agarose\n\n4.1.1 Gel 1%\n\n\n\nCuba - 60 mL\n\n\n\n\n0,6g de agarose\n\n\n12 mL de TBE\n\n\n48 mL de água destilada\n\n\n\n\n\n\nCuba - 120 mL\n\n\n\n\n1,2g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada\n\n\n\n\n\n4.1.2 Gel 1,4%\n\n\n\nCuba - 120 mL\n\n\n\n\n1,68g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada\n\n\n\n\n\n4.1.3 Gel 3%\n\n\n\nCuba - 120 mL\n\n\n\n\n3,6g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada"
+    "title": "5  Eletroforese",
+    "section": "5.3 Gel agarose",
+    "text": "5.3 Gel agarose\n\n5.3.1 Gel 1%\n\n\n\nCuba - 60 mL\n\n\n\n\n0,6g de agarose\n\n\n12 mL de TBE\n\n\n48 mL de água destilada\n\n\n\n\n\n\nCuba - 120 mL\n\n\n\n\n1,2g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada\n\n\n\n\n\n5.3.2 Gel 1,4%\n\n\n\nCuba - 120 mL\n\n\n\n\n1,68g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada\n\n\n\n\n\n5.3.3 Gel 3%\n\n\n\nCuba - 120 mL\n\n\n\n\n3,6g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada"
   },
   {
     "objectID": "eletroforese.html#protocolo-para-quantificação",
     "href": "eletroforese.html#protocolo-para-quantificação",
-    "title": "4  Eletroforese",
-    "section": "4.2 Protocolo para quantificação",
-    "text": "4.2 Protocolo para quantificação"
+    "title": "5  Eletroforese",
+    "section": "5.4 Protocolo para quantificação",
+    "text": "5.4 Protocolo para quantificação"
   },
   {
     "objectID": "eletroforese.html#protocolo-para-amplificação",
     "href": "eletroforese.html#protocolo-para-amplificação",
-    "title": "4  Eletroforese",
-    "section": "4.3 Protocolo para amplificação",
-    "text": "4.3 Protocolo para amplificação"
+    "title": "5  Eletroforese",
+    "section": "5.5 Protocolo para amplificação",
+    "text": "5.5 Protocolo para amplificação"
   },
   {
     "objectID": "eletroforese.html#protocolo-para-purificação",
     "href": "eletroforese.html#protocolo-para-purificação",
-    "title": "4  Eletroforese",
-    "section": "4.4 Protocolo para purificação",
-    "text": "4.4 Protocolo para purificação"
+    "title": "5  Eletroforese",
+    "section": "5.6 Protocolo para purificação",
+    "text": "5.6 Protocolo para purificação"
   },
   {
     "objectID": "eletroforese.html#etc",
     "href": "eletroforese.html#etc",
-    "title": "4  Eletroforese",
-    "section": "4.5 Etc",
-    "text": "4.5 Etc\n\n4.5.1 Ladder 100 pb\n2 μL de loading + 1 μL de GelRed + 2 μL de Ladder 100 pb\n\n\n4.5.2 Por amostra\n2 μL de loading + 1 μL de GelRed + 3 μL da PCR\n\n\n4.5.3 Observações\n\nFio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).\nGel agarose 1% (pode ser reutilizado).\nCorrer a 90 volts, por aproximadamente 1 hora.\nColocar o Ladder 100 pb no primeiro poço."
+    "title": "5  Eletroforese",
+    "section": "5.7 Etc",
+    "text": "5.7 Etc\n\n5.7.1 Ladder 100 pb\n2 μL de loading + 1 μL de GelRed + 2 μL de Ladder 100 pb\n\n\n5.7.2 Por amostra\n2 μL de loading + 1 μL de GelRed + 3 μL da PCR\n\n\n5.7.3 Observações\n\nFio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).\nGel agarose 1% (pode ser reutilizado).\nCorrer a 90 volts, por aproximadamente 1 hora.\nColocar o Ladder 100 pb no primeiro poço."
   },
   {
     "objectID": "quantificacao.html#preparação-por-amostra",
     "href": "quantificacao.html#preparação-por-amostra",
-    "title": "5  Quantificação",
-    "section": "5.1 Preparação por amostra",
-    "text": "5.1 Preparação por amostra\n\n5.1.1 GelRed\n2 μL de DNA + 1 μL de loading + 1 μL de GelRed + 1 μL de água Milli-Q*\n*água Milli-Q é opcional\n\n\n5.1.2 Safer\nX μL de DNA + X μL de Safer"
+    "title": "6  Quantificação",
+    "section": "6.1 Preparação por amostra",
+    "text": "6.1 Preparação por amostra\n\nGel agarose 1%.\nCorrer por aproximadamente 40 minutos, a 100 volts.\nDNA lambda (pipetar 5 μL + 1 μL de GelRed em cada um):\n\n5 ng/μL – 25 ng\n10 ng/μL – 50 ng\n20 ng/μL – 100 ng\n\n\n\n6.1.1 GelRed\n2 μL de DNA + 1 μL de loading + 1 μL de GelRed + 1 μL de água Milli-Q*\n*água Milli-Q é opcional\n\n\n6.1.2 Safer\n3 μL de DNA + 1 μL de Safer + 2 μL de água Milli-Q"
   },
   {
     "objectID": "quantificacao.html#diluição-do-dna-para-5ngμl",
     "href": "quantificacao.html#diluição-do-dna-para-5ngμl",
-    "title": "5  Quantificação",
-    "section": "5.2 Diluição do DNA para 5ng/μL",
-    "text": "5.2 Diluição do DNA para 5ng/μL\n\\(C1 * V1 = C2 * V2\\)\nC1 – concentração da amostra (inicial)\nV1 – quantidade de DNA necessária (descobrir)\nC2 – concentração para diluir (vai diluir para 5 ng)\nV2 – volume final total (50 μL)\nOBS: Quantidade de água Milli-Q é 50 μL menos a quantidade de DNA"
+    "title": "6  Quantificação",
+    "section": "6.2 Diluição do DNA para 5ng/μL",
+    "text": "6.2 Diluição do DNA para 5ng/μL\n\\(C1 * V1 = C2 * V2\\)\nC1 – concentração da amostra (inicial)\nV1 – quantidade de DNA necessária (descobrir)\nC2 – concentração para diluir (vai diluir para 5 ng)\nV2 – volume final total (50 μL)\nOBS: Quantidade de água Milli-Q é: 50 μL - quantidade de DNA"
   },
   {
     "objectID": "purificacao.html#purificação-com-polietilenoglicol-peg",
     "href": "purificacao.html#purificação-com-polietilenoglicol-peg",
-    "title": "7  Purificação",
-    "section": "7.1 Purificação com Polietilenoglicol (PEG)",
-    "text": "7.1 Purificação com Polietilenoglicol (PEG)\n\nAdicionar 50 μL de PEG 20% NaCl 25m. em um tubo de 1,5 mL.\nTransferir a PCR para o tubo e misturar.\nIncubar o conteúdo do tubo a 37oC por 15 minutos.\nCentrifugar a reação + PEG por 15 minutos a 12000 rpm.\nRetirar o sobrenadante sem tocar na parede do tubo e descartar – usar pipeta.\nAdicionar 62,5 μL de etanol 80% (álcool Merck) gelado no tubo – colocar na parede.\nCentrifugar por 2 minutos.\nVirar o tubo, descartando o sobrenadante.\nDeixar secar até não ter mais gotas – pode ser na estufa.\nRessuspender com 10 μL de água Milli-Q lavando a parede do tubo de 5 a 6 vezes."
+    "title": "8  Purificação",
+    "section": "8.1 Purificação com Polietilenoglicol (PEG)",
+    "text": "8.1 Purificação com Polietilenoglicol (PEG)\n\nAdicionar 50 μL de PEG 20% NaCl 25m. em um tubo de 1,5 mL.\nTransferir a PCR para o tubo e misturar.\nIncubar o conteúdo do tubo a 37oC por 15 minutos.\nCentrifugar a reação + PEG por 15 minutos a 12000 rpm.\nRetirar o sobrenadante sem tocar na parede do tubo e descartar – usar pipeta.\nAdicionar 62,5 μL de etanol 80% (álcool Merck) gelado no tubo – colocar na parede.\nCentrifugar por 2 minutos.\nVirar o tubo, descartando o sobrenadante.\nDeixar secar até não ter mais gotas – pode ser na estufa.\nRessuspender com 10 μL de água Milli-Q lavando a parede do tubo de 5 a 6 vezes."
   },
   {
     "objectID": "bancos-geneticos.html#genbank",
     "href": "bancos-geneticos.html#genbank",
-    "title": "9  Bancos de Dados Genéticos",
-    "section": "9.1 GenBank",
-    "text": "9.1 GenBank\nLink: https://www.ncbi.nlm.nih.gov/genbank/\nO GenBank é um banco de dados de sequências de DNA mantido pelo National Center for Biotechnology Information (NCBI), um instituto do National Institutes of Health (NIH) dos Estados Unidos. Ele armazena sequências de DNA de diversas fontes, incluindo genomas, sequências de expressão gênica, sequências de proteínas e etc.\nO GenBank é um recurso valioso para os pesquisadores de genética molecular porque permite o acesso a uma ampla variedade de sequências de DNA, tornando mais fácil a realização de análises e pesquisas. Além disso, o GenBank permite a submissão de novas sequências de DNA pelos usuários, o que permite o compartilhamento de dados entre os pesquisadores.\nTodo trabalho ao ser publicado deve submeter as sequências utilizadas para o GenBank, dessa forma outros pesquisadores podem utilizar em suas próprias análises."
+    "title": "10  Bancos de Dados Genéticos",
+    "section": "10.1 GenBank",
+    "text": "10.1 GenBank\nLink: https://www.ncbi.nlm.nih.gov/genbank/\nO GenBank é um banco de dados de sequências de DNA mantido pelo National Center for Biotechnology Information (NCBI), um instituto do National Institutes of Health (NIH) dos Estados Unidos. Ele armazena sequências de DNA de diversas fontes, incluindo genomas, sequências de expressão gênica, sequências de proteínas e etc.\nO GenBank é um recurso valioso para os pesquisadores de genética molecular porque permite o acesso a uma ampla variedade de sequências de DNA, tornando mais fácil a realização de análises e pesquisas. Além disso, o GenBank permite a submissão de novas sequências de DNA pelos usuários, o que permite o compartilhamento de dados entre os pesquisadores.\nTodo trabalho ao ser publicado deve submeter as sequências utilizadas para o GenBank, dessa forma outros pesquisadores podem utilizar em suas próprias análises."
   },
   {
     "objectID": "bancos-geneticos.html#bold-systems",
     "href": "bancos-geneticos.html#bold-systems",
-    "title": "9  Bancos de Dados Genéticos",
-    "section": "9.2 BOLD Systems",
-    "text": "9.2 BOLD Systems\nLink: http://boldsystems.org/\nO BOLD Systems (Barcode of Life Data Systems) é um projeto de ciência cidadã que visa coletar e armazenar sequências de DNA barcodes (COI) de espécies de todo o mundo. O DNA barcode é um trecho curto de DNA que pode ser usado para identificar espécies de maneira rápida e precisa. Ele é amplamente utilizado em biologia evolutiva e conservação de espécies e é uma ferramenta valiosa para a identificação de espécies em ambientes complexos, como ecossistemas tropicais.\nO BOLD Systems é mantido pelo Instituto de Biodiversidade do Canadá e é uma iniciativa internacional que conta com a participação de cientistas, conservacionistas e cidadãos do mundo todo. Ele possui uma base de dados online que armazena as sequências de DNA barcodes coletadas e permite o acesso a essas sequências pelos usuários."
+    "title": "10  Bancos de Dados Genéticos",
+    "section": "10.2 BOLD Systems",
+    "text": "10.2 BOLD Systems\nLink: http://boldsystems.org/\nO BOLD Systems (Barcode of Life Data Systems) é um projeto de ciência cidadã que visa coletar e armazenar sequências de DNA barcodes (COI) de espécies de todo o mundo. O DNA barcode é um trecho curto de DNA que pode ser usado para identificar espécies de maneira rápida e precisa. Ele é amplamente utilizado em biologia evolutiva e conservação de espécies e é uma ferramenta valiosa para a identificação de espécies em ambientes complexos, como ecossistemas tropicais.\nO BOLD Systems é mantido pelo Instituto de Biodiversidade do Canadá e é uma iniciativa internacional que conta com a participação de cientistas, conservacionistas e cidadãos do mundo todo. Ele possui uma base de dados online que armazena as sequências de DNA barcodes coletadas e permite o acesso a essas sequências pelos usuários."
   },
   {
     "objectID": "bancos-geneticos.html#blast",
     "href": "bancos-geneticos.html#blast",
-    "title": "9  Bancos de Dados Genéticos",
-    "section": "9.3 BLAST",
-    "text": "9.3 BLAST\nLink: https://blast.ncbi.nlm.nih.gov/Blast.cgi\nO BLAST (Basic Local Alignment Search Tool) é uma ferramenta amplamente utilizada pelos pesquisadores de genética molecular para realizar buscas de sequências de DNA em bancos de dados de sequências. Ele é mantido pelo National Center for Biotechnology Information (NCBI) e está disponível gratuitamente na internet.\nO BLAST funciona comparando uma sequência de entrada com as sequências armazenadas em um banco de dados de referência e encontrando as sequências mais similares. Ele utiliza uma técnica de alinhamento de sequências chamada alinhamento local, que permite o alinhamento apenas de trechos similares das sequências, ignorando trechos com pouca similaridade.\nO BLAST é amplamente utilizado em diversas análises de genética molecular, como a identificação de genes e/ou espécies."
+    "title": "10  Bancos de Dados Genéticos",
+    "section": "10.3 BLAST",
+    "text": "10.3 BLAST\nLink: https://blast.ncbi.nlm.nih.gov/Blast.cgi\nO BLAST (Basic Local Alignment Search Tool) é uma ferramenta amplamente utilizada pelos pesquisadores de genética molecular para realizar buscas de sequências de DNA em bancos de dados de sequências. Ele é mantido pelo National Center for Biotechnology Information (NCBI) e está disponível gratuitamente na internet.\nO BLAST funciona comparando uma sequência de entrada com as sequências armazenadas em um banco de dados de referência e encontrando as sequências mais similares. Ele utiliza uma técnica de alinhamento de sequências chamada alinhamento local, que permite o alinhamento apenas de trechos similares das sequências, ignorando trechos com pouca similaridade.\nO BLAST é amplamente utilizado em diversas análises de genética molecular, como a identificação de genes e/ou espécies."
+  },
+  {
+    "objectID": "softwares.html#bioedit",
+    "href": "softwares.html#bioedit",
+    "title": "11  Softwares",
+    "section": "11.1 BioEdit",
+    "text": "11.1 BioEdit\nBioEdit é um editor de sequências de DNA e proteínas muito utilizado na genética molecular. Ele é especialmente útil na visualização de eletroferogramas, que são gráficos gerados por sequenciadores de DNA que mostram a sequência de base de uma amostra de DNA.\nO BioEdit permite a visualização de eletroferogramas de maneira fácil e rápida, além de fornecer uma ampla gama de ferramentas para análise de sequências, como alinhamento de sequências, análise de substituição de nucleotídeos e proteínas, e muito mais. Ele também possui uma interface intuitiva e é compatível com Windows, MacOS e Linux.\nAlém da visualização de eletroferogramas, o BioEdit é amplamente utilizado em diversas outras tarefas de genética molecular, como edição de sequências, anotação de genes e análise de expressão gênica.\nUsos\nPrós\nContras"
+  },
+  {
+    "objectID": "softwares.html#mega",
+    "href": "softwares.html#mega",
+    "title": "11  Softwares",
+    "section": "11.2 MEGA",
+    "text": "11.2 MEGA\nO MEGA (Molecular Evolutionary Genetics Analysis) é um software de análise de genética molecular utilizado para estudar a evolução e a relação filogenética entre sequências de DNA, RNA ou proteínas. Ele é amplamente utilizado por pesquisadores em diversas áreas da genética molecular, incluindo biologia evolutiva, genômica e epidemiologia de doenças.\nO MEGA possui uma ampla gama de recursos, incluindo alinhamento de sequências, inferência de árvores filogenéticas, análise de substituição de nucleotídeos e proteínas, e muito mais. Ele também permite a visualização e análise de dados de diversas maneiras, como gráficos e tabelas.\nEle um software fácil de usar, com uma interface intuitiva e uma ampla base de usuários e recursos on-line disponíveis. Ele é compatível com Windows, MacOS e Linux e está disponível para download gratuito em seu site oficial.\nAtualmente o MEGA está na versão 10, mas contém um ou outro bug que pode atrapalhar bastante\nFalar das versões (7 4ever)\nUsos\nPrós\nContras"
+  },
+  {
+    "objectID": "softwares.html#iqtree",
+    "href": "softwares.html#iqtree",
+    "title": "11  Softwares",
+    "section": "11.3 IQTree",
+    "text": "11.3 IQTree\nUsos\nPrós\nContras"
+  },
+  {
+    "objectID": "softwares.html#raxml",
+    "href": "softwares.html#raxml",
+    "title": "11  Softwares",
+    "section": "11.4 RAxML",
+    "text": "11.4 RAxML\nUsos\nPrós\nContras"
+  },
+  {
+    "objectID": "softwares.html#phyml",
+    "href": "softwares.html#phyml",
+    "title": "11  Softwares",
+    "section": "11.5 PhyML",
+    "text": "11.5 PhyML\nUsos\nPrós\nContras"
+  },
+  {
+    "objectID": "softwares.html#figtree",
+    "href": "softwares.html#figtree",
+    "title": "11  Softwares",
+    "section": "11.6 FigTree",
+    "text": "11.6 FigTree\nFigTree é um software de visualização de árvores filogenéticas utilizado para exibir árvores inferidas a partir de sequências de DNA, RNA ou proteínas. Ele é compatível com Windows, MacOS e Linux e permite a visualização de árvores filogenéticas de maneira clara e intuitiva, tornando mais fácil a interpretação dos resultados.\nO FigTree possui uma ampla gama de recursos de visualização, como opções de estilo de linha, rótulos de nós, legendas e muito mais. Ele também permite a exportação de árvores para vários formatos, incluindo imagens, PDF e arquivos Newick. Além disso, o FigTree possui uma interface intuitiva e é fácil de usar, mesmo para usuários sem experiência prévia em análises filogenéticas.\nPrós\nContras"
   },
   {
     "objectID": "edicao-sequencias.html#passo-a-passo-para-edição-de-sequências",
     "href": "edicao-sequencias.html#passo-a-passo-para-edição-de-sequências",
-    "title": "10  Edição de sequências",
-    "section": "10.1 Passo a passo para edição de sequências",
-    "text": "10.1 Passo a passo para edição de sequências\nPara realizar uma edição correta e livre de vieses, vamos utilizar papel e caneta além do BioEdit e MEGA. Peça ajuda para alguém que já fez isso antes.\n\nAbra o eletroferograma com o BioEdit e anote cada observação da sequência em um papel, destacando o início e final da sequência, junto da numeração do nucleotídeo e a modificação a ser feita, por exemplo:\n\n\nSeq1 - A04\n\nInício \n34\n----->\nATGCTA\n\npb      134 145 167\nAntes    Y   K   W\n         |   |   |\nAgora    C   G   A\n\nFim\n    673 \n----->\nTGCCTA\n\nFaça isso para a sequência inteira. O ideal é que você faça isso com todas as suas sequências de uma vez.\n\nAbra o MEGA e realize as edições na seguinte ordem: 1. Correções de pb, 2. Corte do final da sequência, 3. Corte do início da sequência. Isso vai garantir que os números relativos a cada nucleotídeo não mude durante a edição."
+    "title": "12  Edição de sequências",
+    "section": "12.1 Passo a passo para edição de sequências",
+    "text": "12.1 Passo a passo para edição de sequências\nPara realizar uma edição correta e livre de vieses, vamos utilizar papel e caneta além do BioEdit e MEGA. Peça ajuda para alguém que já fez isso antes.\n\nAbra o eletroferograma com o BioEdit e anote cada observação da sequência em um papel, destacando o início e final da sequência, junto da numeração do nucleotídeo e a modificação a ser feita, por exemplo:\n\n\nSeq1 - A04\n\nInício \n34\n----->\nATGCTA\n\npb      134 145 167\nAntes    Y   K   W\n         |   |   |\nAgora    C   G   A\n\nFim\n    673 \n----->\nTGCCTA\n\nFaça isso para a sequência inteira. O ideal é que você faça isso com todas as suas sequências de uma vez.\n\nAbra o MEGA e realize as edições na seguinte ordem: 1. Correções de pb, 2. Corte do final da sequência, 3. Corte do início da sequência. Isso vai garantir que os números relativos a cada nucleotídeo não mude durante a edição."
   },
   {
     "objectID": "alinhamento.html",
     "href": "alinhamento.html",
-    "title": "11  Alinhamento",
+    "title": "13  Alinhamento",
     "section": "",
     "text": "MEGA, raxML, phyML\nAdicionar referências para cada um\nMEGA 7:"
   },
   {
-    "objectID": "mega.html",
-    "href": "mega.html",
-    "title": "12  MEGA",
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Referências",
     "section": "",
-    "text": "Talvez isso aqui se torne o 1º (ou último) capítulo da seção Análises\nFalar das versões (7 4ever)\nPrós\nContras\nUsos"
-  },
-  {
-    "objectID": "bioedit.html",
-    "href": "bioedit.html",
-    "title": "13  BioEdit",
-    "section": "",
-    "text": "Prós\nContras\nUsos"
+    "text": "Anthony J. F. Griffiths, Susan R. Wessler, Sean B. Carroll, and John\nDoebley. 2016. Introdução à Genética. 11th ed. Guanabara\nKoogan.\n\n\nBruce Alberts, Alexander Johnson, Julian Lewis, David Morgan, Martin\nRaff, Keith Roberts, Peter Walter, John Wilson, and Tim Hunt. 2017.\nBiologia Molecular Da Célula. 6th ed. Porto Alegre: Artmed.\n\n\nPeter Snustad, and Michael J. Simmons. 2017. Fundamentos Da\nGenética. 7th ed. Rio de Janeiro: Guanabara Koogan."
   }
 ]

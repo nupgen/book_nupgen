@@ -1,0 +1,69 @@
+# Softwares
+
+## BioEdit 
+
+BioEdit é um editor de sequências de DNA e proteínas muito utilizado na genética molecular. Ele é especialmente útil na visualização de eletroferogramas, que são gráficos gerados por sequenciadores de DNA que mostram a sequência de base de uma amostra de DNA.
+
+O BioEdit permite a visualização de eletroferogramas de maneira fácil e rápida, além de fornecer uma ampla gama de ferramentas para análise de sequências, como alinhamento de sequências, análise de substituição de nucleotídeos e proteínas, e muito mais. Ele também possui uma interface intuitiva e é compatível com Windows, MacOS e Linux.
+
+Além da visualização de eletroferogramas, o BioEdit é amplamente utilizado em diversas outras tarefas de genética molecular, como edição de sequências, anotação de genes e análise de expressão gênica. 
+
+
+Usos
+
+Prós
+
+Contras
+
+## MEGA 
+
+O MEGA (Molecular Evolutionary Genetics Analysis) é um software de análise de genética molecular utilizado para estudar a evolução e a relação filogenética entre sequências de DNA, RNA ou proteínas. Ele é amplamente utilizado por pesquisadores em diversas áreas da genética molecular, incluindo biologia evolutiva, genômica e epidemiologia de doenças.
+
+O MEGA possui uma ampla gama de recursos, incluindo alinhamento de sequências, inferência de árvores filogenéticas, análise de substituição de nucleotídeos e proteínas, e muito mais. Ele também permite a visualização e análise de dados de diversas maneiras, como gráficos e tabelas.
+
+Ele um software fácil de usar, com uma interface intuitiva e uma ampla base de usuários e recursos on-line disponíveis. Ele é compatível com Windows, MacOS e Linux e está disponível para download gratuito em seu site oficial.
+
+Atualmente o MEGA está na versão 10, mas contém um ou outro bug que pode atrapalhar bastante
+
+Falar das versões (7 4ever)
+
+Usos
+
+Prós
+
+Contras
+
+## IQTree
+
+Usos
+
+Prós
+
+Contras
+
+## RAxML
+
+Usos
+
+Prós
+
+Contras
+
+## PhyML
+
+Usos
+
+Prós
+
+Contras
+
+## FigTree
+
+FigTree é um software de visualização de árvores filogenéticas utilizado para exibir árvores inferidas a partir de sequências de DNA, RNA ou proteínas. Ele é compatível com Windows, MacOS e Linux e permite a visualização de árvores filogenéticas de maneira clara e intuitiva, tornando mais fácil a interpretação dos resultados.
+
+O FigTree possui uma ampla gama de recursos de visualização, como opções de estilo de linha, rótulos de nós, legendas e muito mais. Ele também permite a exportação de árvores para vários formatos, incluindo imagens, PDF e arquivos Newick. Além disso, o FigTree possui uma interface intuitiva e é fácil de usar, mesmo para usuários sem experiência prévia em análises filogenéticas.
+
+
+Prós
+
+Contras

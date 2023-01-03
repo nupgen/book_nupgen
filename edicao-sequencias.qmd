@@ -4,7 +4,7 @@ Após enviar nossas amostras para o sequenciamento, recebemos um conjunto de arq
 
 Os arquivos geralmente são enviados em 2 formatos, um deles é responsável pela sequência de nucleotídeos de forma básica, geralmente no formato `.fasta`/`.fas` (é neste formato que baixamos as sequências do [GenBank](genbank-e-bancos-geneticos.qmd)) ou `.seq`, e o outro arquivo é o responsável pelos dados do eletroferograma, onde podemos observar os picos do sinal do detector do sequenciador, recebido geralmente em formato `.ab1`.
 
-Os arquivos FASTA podem ser abertos no programa [MEGA](mega.qmd) (ou mesmo no bloco de notas para uma edição rápida no nome das sequências, por exemplo), enquanto os eletroferogramas podem ser visualizados com o programa [BioEdit](bioedit.qmd).
+Os arquivos FASTA podem ser abertos no programa [MEGA](softwares.qmd#mega) (ou mesmo no bloco de notas para uma edição rápida no nome das sequências, por exemplo), enquanto os eletroferogramas podem ser visualizados com o programa [BioEdit](softwares.qmd#bioedit).
 
 ## Passo a passo para edição de sequências
 

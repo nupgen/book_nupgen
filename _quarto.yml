@@ -9,6 +9,7 @@ book:
   chapters:
     - index.qmd
     - lab.qmd
+    - genetica-e-marcadores.qmd
     - part: "Protocolos"
       chapters: 
         - diluicoes.qmd
@@ -21,13 +22,9 @@ book:
     - part: "Análises"
       chapters:
         - bancos-geneticos.qmd
+        - softwares.qmd
         - edicao-sequencias.qmd
         - alinhamento.qmd
-    - part: "Softwares"
-      chapters: 
-        - mega.qmd
-        - bioedit.qmd
-        - raxml.qmd
     - references.qmd
 
 bibliography: references.bib

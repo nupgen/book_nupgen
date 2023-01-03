@@ -1,5 +1,11 @@
 # Eletroforese
 
+Texto sobre eletroforese
+
+## Ladder
+
+## Lambda
+
 ## Gel agarose
 
 ### Gel 1%
@@ -38,7 +44,6 @@
 
 ## Protocolo para purificação
 
-
 ## Etc
 
 ### Ladder 100 pb
@@ -55,4 +60,3 @@
 -   Gel agarose 1% (pode ser reutilizado).
 -   Correr a 90 volts, por aproximadamente 1 hora.
 -   Colocar o Ladder 100 pb no primeiro poço.
-

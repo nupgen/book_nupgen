@@ -6,15 +6,15 @@
 
 2.  Adicionar 400 μL de Nuclei Lysis Solution.
 
-3.  Incubar por 30 minutos a 55ºC.
+3.  Incubar por 30 minutos a 55º C.
 
 4.  Adicionar 10 μL de Proteinase K 20 mg/ml.
 
-5.  Incubar a 55ºC overnight ou de 2-3 horas até ficar homogêneo.
+5.  Incubar a 55º C overnight ou de 2-3 horas até ficar homogêneo.
 
 6.  Adicionar 2 μL de RNAse Kit Solution e mexer a amostra por inversão.
 
-7.  Incubar 30 minutos a 37ºC.
+7.  Incubar 30 minutos a 37º C.
 
 8.  Deixar em temperatura ambiente por 5 minutos.
 
@@ -22,21 +22,21 @@
 
 10. Deixar no gelo por 5 minutos.
 
-11. Centrifugar por 10 minutos a 12000 rpm.
+11. Centrifugar por 10 minutos a 12.000 rpm.
 
 12. Remover o sobrenadante transferindo para um tubo novo -- descartar o pellet.
 
 13. Adicionar 600 μL de isopropanol e agitar por inversão.
 
-14. Centrifugar por 2 minutos a 12000 rpm -- descartar o sobrenadante.
+14. Centrifugar por 2 minutos a 12.000 rpm -- descartar o sobrenadante.
 
 15. Adicionar 600 μL de etanol 70% a temperatura ambiente.
 
-16. Centrifugar por 2 minutos a 12000 rpm -- descartar sobrenadante.
+16. Centrifugar por 2 minutos a 12.000 rpm -- descartar sobrenadante.
 
 17. Deixar secar -- pode ser na estufa.
 
-18. Ressuspender em 30 μL de DNA Rehidration Solution. Deixar por 1 hora no banho a 65ºC ou overnight a 4ºC.
+18. Ressuspender em 30 μL de DNA Rehidration Solution. Deixar por 1 hora no banho a 65º C ou overnight a 4º C.
 
 ## Protocolo de Extração de DNA - Promega **Caramujos**
 
@@ -50,11 +50,11 @@
 
 5.  Misturar com vórtex por 10 segundos.
 
-6.  Incubar a 55ºC overnight OU incubar a 55ºC por 3 horas, misturando com vórtex a cada hora.
+6.  Incubar a 55º C overnight OU incubar a 55º C por 3 horas, misturando com vórtex a cada hora.
 
 7.  Adicionar 3 μl de RNase Solution à solução e misturar por inversão do tubo 2-5 vezes.
 
-8.  Incubar a 37oC por 30 minutos. Deixar as amostras esfriarem a temperatura ambiente por 5 minutos antes da próxima etapa.
+8.  Incubar a 37º C por 30 minutos. Deixar as amostras esfriarem a temperatura ambiente por 5 minutos antes da próxima etapa.
 
 9.  Adicionar 200 μl de Protein Precipitation Solution e misturar com o vórtex vigorosamente por 20 segundos.
 
@@ -76,9 +76,9 @@
 
 18. Inverter os tubos em papel e deixar secar por 10-15 minutos.
 
-19. Adicionar 30 μL de DNA Rehydration Solution e reidratar o DNA incubando a 65ºC por 1 hora. Periodicamente misturar a solução com cuidado OU incubar a 4ºC overnight.
+19. Adicionar 30 μL de DNA Rehydration Solution e reidratar o DNA incubando a 65º C por 1 hora. Periodicamente misturar a solução com cuidado OU incubar a 4º C overnight.
 
-20. Guardar o DNA extraído a 2-8ºC.
+20. Guardar o DNA extraído a 2-8º C.
 
 ## Protocolo de Extração de DNA - Promega **Macrófitas**
 
@@ -88,13 +88,13 @@
 
 3.  Adicionar 600 μl de Nuclei Lysis Solution (logo após macerar).
 
-4.  Banho de 15 minutos a 65°C.
+4.  Banho de 15 minutos a 65° C.
 
 5.  Adicionar 3 μl de RNAse.
 
 6.  Virar o tubo 5x.
 
-7.  Colocar no banho por 15 minutos a 37°C (pode segurar na mão).
+7.  Colocar no banho por 15 minutos a 37° C (pode segurar na mão).
 
 8.  Deixar por 5 minutos em temperatura ambiente.
 
@@ -102,7 +102,7 @@
 
 10. Vórtex.
 
-11. Centrifugar por 3 minutos a 16000j ou 13000 rpm.
+11. Centrifugar por 3 minutos a 16.000 ou 13.000 rpm.
 
 12. Separar sobrenadante e descartar o resto.
 
@@ -110,7 +110,7 @@
 
 14. Virar 5x.
 
-15. Centrifugar por 1 minuto a 16000j ou 13000 rpm.
+15. Centrifugar por 1 minuto a 16.000 ou 13.000 rpm.
 
 16. Descartar sobrenadante.
 
@@ -118,7 +118,7 @@
 
 18. Virar 5x.
 
-19. Centrifugar por 1 minuto a 16000j ou 13000 rpm.
+19. Centrifugar por 1 minuto a 16.000 ou 13.000 rpm.
 
 20. Descartar sobrenadante.
 
@@ -132,7 +132,7 @@
 
 2.  Adicionar 180 μL de Buffer ATL.
 
-3.  Adicionar 20 μL de proteinase K. Misturar com vórtex e incubar a 56ºC até completa lise celular (30min - 2h). Misturar com vórtex ocasionalmente durante a incubação.
+3.  Adicionar 20 μL de proteinase K. Misturar com vórtex e incubar a 56º C até completa lise celular (30min - 2h). Misturar com vórtex ocasionalmente durante a incubação.
 
 4.  Misturar com vórtex por 15 segundos.
 
@@ -140,16 +140,16 @@
 
 6.  Adicionar 200 μL de etanol (96-100%). Misturar bem com vórtex.
 
-7.  Pipetar a mistura em uma coluna de centrifugação DNeasy Mini colocada em um tubo de coleta. Centrifugar a 8000 rpm (≥6000 x g) por 1 minuto. Descartar o líquido filtrado e o tubo de coleta.
+7.  Pipetar a mistura em uma coluna de centrifugação DNeasy Mini colocada em um tubo de coleta. Centrifugar a 8.000 rpm (≥6.000 x g) por 1 minuto. Descartar o líquido filtrado e o tubo de coleta.
 
 8.  Colocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW1.
 
-Centrifugar por 1 minuto a 8000 rpm. Descartar o líquido filtrado e o tubo de coleta.
+Centrifugar por 1 minuto a 8.000 rpm. Descartar o líquido filtrado e o tubo de coleta.
 
 9.  Colocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW2. Centrifugar por 3 minutos a 14.000 rpm (≥20.000 x g). Descartar o líquido filtrado e o tubo de coleta.
 
 10. Transferir a coluna para um eppendorf de 1,5 mL.
 
-11. Adicionar 50 μL de Buffer AE no centro da membrana da coluna para a eluição do DNA. Incubar por 1 minuto a temperatura ambiente (15-25oC). Centrifugar por 1 minuto a 8000 rpm.
+11. Adicionar 50 μL de Buffer AE no centro da membrana da coluna para a eluição do DNA. Incubar por 1 minuto a temperatura ambiente (15-25º C). Centrifugar por 1 minuto a 8.000 rpm.
 
 12. Descartar a coluna e guardar o DNA extraído.
