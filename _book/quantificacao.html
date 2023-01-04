@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.2.280">
@@ -50,15 +50,15 @@ ul.task-list li input[type="checkbox"] {
   "type": "textbox",
   "limit": 20,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-no-results-text": "Nenhum resultado",
+    "search-matching-documents-text": "documentos correspondentes",
+    "search-copy-link-title": "Copiar link para a busca",
+    "search-hide-matches-text": "Esconder correspondências adicionais",
+    "search-more-match-text": "mais correspondência neste documento",
+    "search-more-matches-text": "mais correspondências neste documento",
+    "search-clear-button-title": "Limpar",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar"
   }
 }</script>
 
@@ -196,7 +196,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
+    <h2 id="toc-title">Índice</h2>
    
   <ul>
   <li><a href="#preparação-por-amostra" id="toc-preparação-por-amostra" class="nav-link active" data-scroll-target="#preparação-por-amostra"><span class="toc-section-number">6.1</span>  Preparação por amostra</a>
@@ -232,7 +232,20 @@ ul.task-list li input[type="checkbox"] {
 <p>A quantificação irá fornecer informações sobre a concentração de DNA extraído, assim como a integridade das amostras que serão trabalhadas. Na quantificação utilizando gel de agarose, um gel com concentração de 1% é preparado e as amostras de DNA são aplicadas juntamente com amostras de concentrações conhecidas. Para essa finalidade, o DNA do bacteriófago <strong>Lambda</strong> é comumente utilizado como padrão. O gel é normalmente submetido a eletroforese e é realizada uma estimativa visual através da comparação com o DNA padrão para determinar a concentração de DNA em cada amostra, analisando a fluorescência e espessura das bandas, obtendo valores aproximados. Além disso, as amostras consideradas de boa qualidade irão formar bandas íntegras, enquanto amostras degradadas ou com presença de moléculas de RNA apresentarão rastros ao longo do gel.</p>
 <p>Por outro lado, a quantificação em espectrofotômetros, como por exemplo o <strong>NanoDrop</strong>, fornece dados um pouco mais exatos sobre a concentração de DNA presente nas amostras. Entretanto, ainda são valores baseados em um calibrante, tomado como padrão, além de ser necessário adquirir aparelhos específicos para realizar a quantificação do DNA, tendo um custo elevado quando comparado à quantificação em gel. Essa quantificação é baseada na medição da quantidade de luz absorvida pelo DNA em solução no comprimento de onda de 260 nm. Quanto maior for a absorção de luz nesse comprimento de onda, maior a concentração de DNA extraído na amostra.</p>
 <p>Já o fluorímetro é um dos métodos mais sensíveis e geralmente utilizado para amostras com pouca concentração de DNA ou que tenham contaminantes que absorvem comprimentos de onda de 260 nm. Essa análise acontece pela luz emitida de moléculas fluorogênicas, sendo um método alternativo para avaliar a concentração de DNA e RNA marcando a amostra com um marcador fluorescente (corante fluorescente). Porém, também é um método com um custo elevado e demanda um tempo maior para preparação das amostras.</p>
+<div class="callout-note callout callout-style-simple callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Como fazemos
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <p>O método de quantificação geralmente utilizado pelos pesquisadores do Nupgen é a <strong>eletroforese em gel de agarose 1%</strong>, visto que tem dado certo para a maioria dos grupos trabalhados no laboratório, exceto parasitas que não passam por essa etapa, indo diretamente para a PCR devido a baixa concentração de DNA obtida nas amostras. Na quantificação são utilizadas três concentrações diferentes de DNA Lambda, sendo elas: 5, 10 e 20 ng/μL.</p>
+</div>
+</div>
+<p>A quantificação irá mostrar se as amostras de DNA extraídas precisam ser <a href="./diluicoes.html">diluídas</a> para a realização da PCR, pois é preciso ter uma concentração ideal. Dessa forma, quando as amostras forem quantificadas com valores superiores a 5 ng/μL, elas precisam ser diluídas. A fórmula utilizada para isso é <span class="math inline">\(C1 * V1 = C2 * V2\)</span>, onde serão encontradas as quantidades de DNA e água Milli-Q necessárias para que o DNA fique na concentração final de 5 ng/μL.</p>
 <section id="preparação-por-amostra" class="level2" data-number="6.1">
 <h2 data-number="6.1" class="anchored" data-anchor-id="preparação-por-amostra"><span class="header-section-number">6.1</span> Preparação por amostra</h2>
 <ul>
@@ -308,12 +321,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copiada");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copiada");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",

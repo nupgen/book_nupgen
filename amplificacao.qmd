@@ -1,2 +1,15 @@
 # Amplificação
 
+Amplificação é o nome dado ao processo de replicação de uma região específica do DNA alvo de um estudo de modo que seja possível produzir um grande número de cópias desse mesmo segmento.
+
+A técnica utilizada para a amplificação é a reação em cadeia da polimerase (**PCR**), para a execução dessa técnica é preciso primeiramente fazer a seleção do [marcador molecular](genetica-e-marcadores.qmd#marcadores-moleculares) que será utilizado, ou seja, a região do DNA de interesse a ser replicada, isso irá variar conforme as necessidades do estudo em questão. Com base nessa escolha, serão utilizados um par de oligonucleotídeos iniciadores, os chamados primers, sendo um reverse e um forward. Eles irão se ligar na região que deve ser amplificada e permitir a ação de uma enzima polimerizadora denominada como DNA polimerase (Taq). Normalmente a enzima utilizada nas reações PCR é proveniente da bactéria **T**hermus **aq**uaticus (por isso **Taq**), uma espécie termófila adaptada a viver em águas de alta temperatura, dessa forma, a enzima advinda dela é termoestável e consequentemente resistente às altas temperaturas da PCR sem sofrer desnaturação.
+
+Além desses componentes são utilizadas bases nitrogenadas livres, os desoxirribonucleotídeos (dNTPs); tampão de reação (MgCl~2~^-^), importante para agir como cofator da DNA polimerase; água MilliQ e o DNA extraído. A mistura desses componentes é levada ao termociclador, um aparelho com a capacidade de aquecer e resfriar as amostras, isso é importante porque são temperaturas específicas que permitem a abertura das fitas, anelamento dos primers e a ação da enzima DNA-polimerase. Comumente, dividimos a PCR em três etapas, são elas:
+
+1.  **Desnaturação:** Nesse momento as fitas de DNA, configuradas em dupla-hélice, terão suas ligações de hidrogênio quebradas, sendo assim separadas. Essa etapa ocorre graças à elevação da temperatura do termociclador a temperaturas acima de 90° C.
+
+2.  **Anelamento:** Com as fitas já desnaturadas, a temperatura do aparelho é reduzida comumente para valores entre 45° C e 65° C e o par de primers, chamados de iniciadores, se ligam com as suas sequências complementares na fita molde.
+
+3.  **Polimerização:** O termociclador regula a sua temperatura para 72° C, atingindo a temperatura ótima para a ação da enzima DNA polimerase, que começa a síntese de novas fitas utilizando as dNTPs livres como matéria prima. A síntese só é possível graças à disponibilidade de extremidades 3'OH livres pertencentes aos primers.
+
+As três etapas citadas anteriormente são repetidas em cerca de 20 a 30 ciclos, possibilitando que até bilhões de cópias da região selecionada sejam produzidas.

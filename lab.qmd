@@ -4,7 +4,7 @@
 
 O Nupgen é o **Laboratório de Genética Molecular do Nupélia** (Núcleo de Pesquisas em Limnologia, Ictiologia e Aquicultura), na **Universidade Estadual de Maringá** (UEM), Paraná, Brasil. Coordenado pela Professora Dra. **Alessandra Valéria de Oliveira**, o Nupgen conta com pesquisadores, alunos de graduação e de pós-graduação que desenvolvem pesquisas objetivando detectar polimorfismos genéticos em populações naturais.
 
-## 
+![](figures/lab.jpeg)
 
 ## Linhas de Pesquisa
 

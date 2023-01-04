@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.2.280">
@@ -19,6 +19,25 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
+}
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
 }
 </style>
 
@@ -50,15 +69,15 @@ ul.task-list li input[type="checkbox"] {
   "type": "textbox",
   "limit": 20,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-no-results-text": "Nenhum resultado",
+    "search-matching-documents-text": "documentos correspondentes",
+    "search-copy-link-title": "Copiar link para a busca",
+    "search-hide-matches-text": "Esconder correspondências adicionais",
+    "search-more-match-text": "mais correspondência neste documento",
+    "search-more-matches-text": "mais correspondências neste documento",
+    "search-clear-button-title": "Limpar",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar"
   }
 }</script>
 
@@ -195,7 +214,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
+    <h2 id="toc-title">Índice</h2>
    
   <ul>
   <li><a href="#purificação-com-polietilenoglicol-peg" id="toc-purificação-com-polietilenoglicol-peg" class="nav-link active" data-scroll-target="#purificação-com-polietilenoglicol-peg"><span class="toc-section-number">8.1</span>  Purificação com Polietilenoglicol (PEG)</a></li>
@@ -222,6 +241,29 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>A purificação de DNA após a amplificação é um passo importante na produção de DNA suficientemente puro para aplicações posteriores, como sequenciamento ou clonagem. A amplificação do DNA, como a reação em cadeia da polimerase (PCR), geralmente produz quantidades muito grandes de DNA, mas também gera muitos contaminantes, como primers, cofator de PCR e outros produtos de reação. Portanto, é importante purificar o DNA amplificado antes de usá-lo em outras aplicações.</p>
+<p>Existem várias técnicas de purificação de DNA, como centrifugação em colunas de diálise, precipitação com etanol ou acetato de sódio, extração com fenol-clorofórmio ou precipitação com polietilenoglicol (PEG). Cada método tem suas próprias vantagens e desvantagens e o método ideal dependerá da aplicação específica.</p>
+<p>Após confirmar a amplificação do fragmento de interesse, é realizada a purificação das amostras para remover o excesso de primer, nucleotídeos e fragmentos de PCR incompletos de baixo peso molecular.</p>
+<div class="callout-note callout callout-style-simple callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Como fazemos
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>No Nupgen, essa purificação é realizada por meio de uma etapa de precipitação com polietilenoglicol (PEG), protocolo descrito a princípio por <span class="citation" data-cites="rosenthal1993">Rosenthal, Coutelle, e Craxton (<a href="references.html#ref-rosenthal1993" role="doc-biblioref">1993</a>)</span> . A mistura de PEG precipita seletivamente DNA de 100 bp a 150 pb, deixando primers residuais, nucleotídeos e produtos de PCR incompletos no sobrenadante. Dessa maneira, o sobrenadante é removido, ficando precipitado apenas o DNA amplificado.</p>
+</div>
+</div>
+<p>Por fim, é feita uma eletroforese em gel de agarose para verificar se a purificação foi bem-sucedida e se as amostras podem ser utilizadas para o sequenciamento.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="gel_purificacao.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Foto de um gel de purificação</figcaption><p></p>
+</figure>
+</div>
 <section id="purificação-com-polietilenoglicol-peg" class="level2" data-number="8.1">
 <h2 data-number="8.1" class="anchored" data-anchor-id="purificação-com-polietilenoglicol-peg"><span class="header-section-number">8.1</span> Purificação com Polietilenoglicol (PEG)</h2>
 <ol type="1">
@@ -238,6 +280,11 @@ ul.task-list li input[type="checkbox"] {
 </ol>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography" style="display: none">
+<div id="ref-rosenthal1993" class="csl-entry" role="doc-biblioentry">
+Rosenthal, André, Oliver Coutelle, e Molly Craxton. 1993. <span>"Large-scale production of DNA sequencing templates by microtitre format PCR"</span>. <em>Nucleic acids research</em> 21 (1): 173–74. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8441614">http://www.ncbi.nlm.nih.gov/pubmed/8441614</a>.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -281,12 +328,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copiada");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copiada");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",

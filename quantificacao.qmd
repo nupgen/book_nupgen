@@ -8,7 +8,13 @@ Por outro lado, a quantificação em espectrofotômetros, como por exemplo o **N
 
 Já o fluorímetro é um dos métodos mais sensíveis e geralmente utilizado para amostras com pouca concentração de DNA ou que tenham contaminantes que absorvem comprimentos de onda de 260 nm. Essa análise acontece pela luz emitida de moléculas fluorogênicas, sendo um método alternativo para avaliar a concentração de DNA e RNA marcando a amostra com um marcador fluorescente (corante fluorescente). Porém, também é um método com um custo elevado e demanda um tempo maior para preparação das amostras.
 
+::: {.callout-note appearance="simple"}
+## Como fazemos
+
 O método de quantificação geralmente utilizado pelos pesquisadores do Nupgen é a **eletroforese em gel de agarose 1%**, visto que tem dado certo para a maioria dos grupos trabalhados no laboratório, exceto parasitas que não passam por essa etapa, indo diretamente para a PCR devido a baixa concentração de DNA obtida nas amostras. Na quantificação são utilizadas três concentrações diferentes de DNA Lambda, sendo elas: 5, 10 e 20 ng/μL.
+:::
+
+A quantificação irá mostrar se as amostras de DNA extraídas precisam ser [diluídas](diluicoes.qmd) para a realização da PCR, pois é preciso ter uma concentração ideal. Dessa forma, quando as amostras forem quantificadas com valores superiores a 5 ng/μL, elas precisam ser diluídas. A fórmula utilizada para isso é $C1 * V1 = C2 * V2$, onde serão encontradas as quantidades de DNA e água Milli-Q necessárias para que o DNA fique na concentração final de 5 ng/μL.
 
 ## Preparação por amostra
 

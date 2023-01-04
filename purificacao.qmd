@@ -1,23 +1,40 @@
 # Purificação
 
+A purificação de DNA após a amplificação é um passo importante na produção de DNA suficientemente puro para aplicações posteriores, como sequenciamento ou clonagem. A amplificação do DNA, como a reação em cadeia da polimerase (PCR), geralmente produz quantidades muito grandes de DNA, mas também gera muitos contaminantes, como primers, cofator de PCR e outros produtos de reação. Portanto, é importante purificar o DNA amplificado antes de usá-lo em outras aplicações.
+
+Existem várias técnicas de purificação de DNA, como centrifugação em colunas de diálise, precipitação com etanol ou acetato de sódio, extração com fenol-clorofórmio ou precipitação com polietilenoglicol (PEG). Cada método tem suas próprias vantagens e desvantagens e o método ideal dependerá da aplicação específica.
+
+Após confirmar a amplificação do fragmento de interesse, é realizada a purificação das amostras para remover o excesso de primer, nucleotídeos e fragmentos de PCR incompletos de baixo peso molecular.
+
+::: {.callout-note appearance="simple"}
+## Como fazemos
+
+No Nupgen, essa purificação é realizada por meio de uma etapa de precipitação com polietilenoglicol (PEG), protocolo descrito a princípio por @rosenthal1993 . A mistura de PEG precipita seletivamente DNA de 100 bp a 150 pb, deixando primers residuais, nucleotídeos e produtos de PCR incompletos no sobrenadante. Dessa maneira, o sobrenadante é removido, ficando precipitado apenas o DNA amplificado.
+
+:::
+
+Por fim, é feita uma eletroforese em gel de agarose para verificar se a purificação foi bem-sucedida e se as amostras podem ser utilizadas para o sequenciamento.
+
+![Foto de um gel de purificação](gel_purificacao.jpg)
+
 ## Purificação com Polietilenoglicol (PEG)
 
-1. Adicionar 50 μL de PEG 20% NaCl 25m. em um tubo de 1,5 mL.
+1.  Adicionar 50 μL de PEG 20% NaCl 25m. em um tubo de 1,5 mL.
 
-2. Transferir a PCR para o tubo e misturar.
+2.  Transferir a PCR para o tubo e misturar.
 
-3. Incubar o conteúdo do tubo a 37oC por 15 minutos.
+3.  Incubar o conteúdo do tubo a 37oC por 15 minutos.
 
-4. Centrifugar a reação + PEG por 15 minutos a 12000 rpm.
+4.  Centrifugar a reação + PEG por 15 minutos a 12000 rpm.
 
-5. Retirar o sobrenadante sem tocar na parede do tubo e descartar – usar pipeta.
+5.  Retirar o sobrenadante sem tocar na parede do tubo e descartar -- usar pipeta.
 
-6. Adicionar 62,5 μL de etanol 80% (álcool Merck) gelado no tubo – colocar na parede.
+6.  Adicionar 62,5 μL de etanol 80% (álcool Merck) gelado no tubo -- colocar na parede.
 
-7. Centrifugar por 2 minutos.
+7.  Centrifugar por 2 minutos.
 
-8. Virar o tubo, descartando o sobrenadante.
+8.  Virar o tubo, descartando o sobrenadante.
 
-9. Deixar secar até não ter mais gotas – pode ser na estufa.
+9.  Deixar secar até não ter mais gotas -- pode ser na estufa.
 
 10. Ressuspender com 10 μL de água Milli-Q lavando a parede do tubo de 5 a 6 vezes.

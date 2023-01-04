@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.2.280">
@@ -50,15 +50,15 @@ ul.task-list li input[type="checkbox"] {
   "type": "textbox",
   "limit": 20,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-no-results-text": "Nenhum resultado",
+    "search-matching-documents-text": "documentos correspondentes",
+    "search-copy-link-title": "Copiar link para a busca",
+    "search-hide-matches-text": "Esconder correspondências adicionais",
+    "search-more-match-text": "mais correspondência neste documento",
+    "search-more-matches-text": "mais correspondências neste documento",
+    "search-clear-button-title": "Limpar",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar"
   }
 }</script>
 
@@ -195,7 +195,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
+    <h2 id="toc-title">Índice</h2>
    
   <ul>
   <li><a href="#bioedit" id="toc-bioedit" class="nav-link active" data-scroll-target="#bioedit"><span class="toc-section-number">11.1</span>  BioEdit</a></li>
@@ -204,6 +204,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#raxml" id="toc-raxml" class="nav-link" data-scroll-target="#raxml"><span class="toc-section-number">11.4</span>  RAxML</a></li>
   <li><a href="#phyml" id="toc-phyml" class="nav-link" data-scroll-target="#phyml"><span class="toc-section-number">11.5</span>  PhyML</a></li>
   <li><a href="#figtree" id="toc-figtree" class="nav-link" data-scroll-target="#figtree"><span class="toc-section-number">11.6</span>  FigTree</a></li>
+  <li><a href="#pacote-nupgen-r" id="toc-pacote-nupgen-r" class="nav-link" data-scroll-target="#pacote-nupgen-r"><span class="toc-section-number">11.7</span>  Pacote nupgen (R)</a></li>
   </ul>
 </nav>
     </div>
@@ -261,9 +262,19 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="phyml" class="level2" data-number="11.5">
 <h2 data-number="11.5" class="anchored" data-anchor-id="phyml"><span class="header-section-number">11.5</span> PhyML</h2>
-<p>Usos</p>
-<p>Prós</p>
-<p>Contras</p>
+<p>Link: <a href="">http://www.atgc-montpellier.fr/phyml/</a></p>
+<p>Phylogenetic Maximum Likelihood (PhyML) é um servidor online para gerar inferências filogenéticas pelo método de máxima verossimilhança. O servidor é intuitivo, portanto, de fácil uso. Para gerar uma árvore filogenética no PhyML, é preciso fornecer um arquivo de alinhamento no formato PHYLIP (é possível exportar alinhamentos neste formato na versão do MEGA 10). Após o término das análises, o PhyML fornece um arquivo zip que contém, além da árvore, outros relatórios estatísticos (como a lista dos modelos evolutivos, por exemplo)</p>
+<p><strong>Prós:</strong></p>
+<ul>
+<li><p>Fácil uso;</p></li>
+<li><p>Permite realizar várias customizações nos parâmetros estatísticos que não são possíveis de personalizar em outros softwares, como o MEGA;</p></li>
+<li><p>Não requer uso de memória do computador, ele roda em servidor.</p></li>
+</ul>
+<p><strong>Contras:</strong></p>
+<ul>
+<li><p>Utiliza o formato PHYLIP, diferente de outros que utilizam FASTA, por isso é possível que o usuário tenha que formatar os terminais da árvore, um trabalho manual desgastante. Recomendamos o uso do pacote <a href="./softwares.html#pacote-nupgen-r">nupgen</a> no R para corrigir este problema;</p></li>
+<li><p>As análises demoram em média 8 horas (podendo variar de acordo com a quantidade de sequências). Por isso, preste atenção antes de rodar as análises.</p></li>
+</ul>
 </section>
 <section id="figtree" class="level2" data-number="11.6">
 <h2 data-number="11.6" class="anchored" data-anchor-id="figtree"><span class="header-section-number">11.6</span> FigTree</h2>
@@ -271,6 +282,25 @@ ul.task-list li input[type="checkbox"] {
 <p>O FigTree possui uma ampla gama de recursos de visualização, como opções de estilo de linha, rótulos de nós, legendas e muito mais. Ele também permite a exportação de árvores para vários formatos, incluindo imagens, PDF e arquivos Newick. Além disso, o FigTree possui uma interface intuitiva e é fácil de usar, mesmo para usuários sem experiência prévia em análises filogenéticas.</p>
 <p>Prós</p>
 <p>Contras</p>
+</section>
+<section id="pacote-nupgen-r" class="level2" data-number="11.7">
+<h2 data-number="11.7" class="anchored" data-anchor-id="pacote-nupgen-r"><span class="header-section-number">11.7</span> Pacote nupgen (R)</h2>
+<p>Link: <a href="">https://brunomioto.github.io/nupgen/</a></p>
+<p>Este é um pacote em R criado com algumas funções internas do nosso laboratório, são elas:</p>
+<ul>
+<li><p>Renomear arquivos <a href="./softwares.html#phyml">PHYLIP</a> com <code>label_phy()</code></p></li>
+<li><p>Obter informações de sequências do <a href="./bancos-geneticos.html#genbank">GenBank</a> com <code>info_genbank()</code></p>
+<p>As informações buscadas são:</p>
+<ul>
+<li><p>Código do GenBank</p></li>
+<li><p>Nome do organismo</p></li>
+<li><p>País de origem (pode conter mais informações)</p></li>
+<li><p>Latitude</p></li>
+<li><p>Longitude</p></li>
+<li><p>Gene</p></li>
+</ul></li>
+<li><p>Formatar resultados da <a href="">Delimitação de Espécies</a> do PTP (ou bPTP) com <code>ptp_results()</code></p></li>
+</ul>
 
 
 </section>
@@ -316,12 +346,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copiada");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copiada");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",

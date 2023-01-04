@@ -1,13 +1,12 @@
 # Softwares
 
-## BioEdit 
+## BioEdit
 
 BioEdit é um editor de sequências de DNA e proteínas muito utilizado na genética molecular. Ele é especialmente útil na visualização de eletroferogramas, que são gráficos gerados por sequenciadores de DNA que mostram a sequência de base de uma amostra de DNA.
 
 O BioEdit permite a visualização de eletroferogramas de maneira fácil e rápida, além de fornecer uma ampla gama de ferramentas para análise de sequências, como alinhamento de sequências, análise de substituição de nucleotídeos e proteínas, e muito mais. Ele também possui uma interface intuitiva e é compatível com Windows, MacOS e Linux.
 
-Além da visualização de eletroferogramas, o BioEdit é amplamente utilizado em diversas outras tarefas de genética molecular, como edição de sequências, anotação de genes e análise de expressão gênica. 
-
+Além da visualização de eletroferogramas, o BioEdit é amplamente utilizado em diversas outras tarefas de genética molecular, como edição de sequências, anotação de genes e análise de expressão gênica.
 
 Usos
 
@@ -15,7 +14,7 @@ Prós
 
 Contras
 
-## MEGA 
+## MEGA
 
 O MEGA (Molecular Evolutionary Genetics Analysis) é um software de análise de genética molecular utilizado para estudar a evolução e a relação filogenética entre sequências de DNA, RNA ou proteínas. Ele é amplamente utilizado por pesquisadores em diversas áreas da genética molecular, incluindo biologia evolutiva, genômica e epidemiologia de doenças.
 
@@ -51,11 +50,23 @@ Contras
 
 ## PhyML
 
-Usos
+Link: [http://www.atgc-montpellier.fr/phyml/]()
 
-Prós
+Phylogenetic Maximum Likelihood (PhyML) é um servidor online para gerar inferências filogenéticas pelo método de máxima verossimilhança. O servidor é intuitivo, portanto, de fácil uso. Para gerar uma árvore filogenética no PhyML, é preciso fornecer um arquivo de alinhamento no formato PHYLIP (é possível exportar alinhamentos neste formato na versão do MEGA 10). Após o término das análises, o PhyML fornece um arquivo zip que contém, além da árvore, outros relatórios estatísticos (como a lista dos modelos evolutivos, por exemplo)
 
-Contras
+**Prós:**
+
+-   Fácil uso;
+
+-   Permite realizar várias customizações nos parâmetros estatísticos que não são possíveis de personalizar em outros softwares, como o MEGA;
+
+-   Não requer uso de memória do computador, ele roda em servidor.
+
+**Contras:**
+
+-   Utiliza o formato PHYLIP, diferente de outros que utilizam FASTA, por isso é possível que o usuário tenha que formatar os terminais da árvore, um trabalho manual desgastante. Recomendamos o uso do pacote [nupgen](softwares.qmd#pacote-nupgen-r) no R para corrigir este problema;
+
+-   As análises demoram em média 8 horas (podendo variar de acordo com a quantidade de sequências). Por isso, preste atenção antes de rodar as análises.
 
 ## FigTree
 
@@ -63,7 +74,32 @@ FigTree é um software de visualização de árvores filogenéticas utilizado pa
 
 O FigTree possui uma ampla gama de recursos de visualização, como opções de estilo de linha, rótulos de nós, legendas e muito mais. Ele também permite a exportação de árvores para vários formatos, incluindo imagens, PDF e arquivos Newick. Além disso, o FigTree possui uma interface intuitiva e é fácil de usar, mesmo para usuários sem experiência prévia em análises filogenéticas.
 
-
 Prós
 
 Contras
+
+## Pacote nupgen (R)
+
+Link: [https://brunomioto.github.io/nupgen/]()
+
+Este é um pacote em R criado com algumas funções internas do nosso laboratório, são elas:
+
+-   Renomear arquivos [PHYLIP](softwares.qmd#phyml) com `label_phy()`
+
+-   Obter informações de sequências do [GenBank](bancos-geneticos.qmd#genbank) com `info_genbank()`
+
+    As informações buscadas são:
+
+    -   Código do GenBank
+
+    -   Nome do organismo
+
+    -   País de origem (pode conter mais informações)
+
+    -   Latitude
+
+    -   Longitude
+
+    -   Gene
+
+-   Formatar resultados da [Delimitação de Espécies]() do PTP (ou bPTP) com `ptp_results()`

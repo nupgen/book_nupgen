@@ -1,12 +1,46 @@
 # Eletroforese
 
-Texto sobre eletroforese
+A eletroforese consiste em um método de separação de macromoléculas, como o DNA, por meio da aplicação de corrente elétrica. Como as moléculas de DNA apresentam carga negativa, quando são submetidas a um campo elétrico, elas migram para o polo positivo, sendo este o princípio da eletroforese, ou seja, moléculas com cargas distintas irão migrar pelo gel de um polo a outro. Além disso, quanto menor for o tamanho da molécula de DNA (menor a quantidade de nucleotídeos), mais rápido será o seu deslocamento e consequentemente maior será a distância percorrida.
+
+Existem duas maneiras para realizar uma eletroforese em gel, podendo ser vertical ou horizontal. A eletroforese vertical é feita com géis de poliacrilamida e cada polo da cuba está em um recipiente com tampão de corrida (o polo negativo encontra-se acima e o polo positivo abaixo). Já a eletroforese horizontal é realizada geralmente com géis de agarose que pode ser de diferentes concentrações, com uma cuba sendo um recipiente único, ou seja, o tampão preenche todo o recipiente, polos negativo e positivo, inclusive cobrindo o gel. Em ambos os casos a corrente elétrica irá atravessar o gel e induzir a migração das moléculas de DNA do polo negativo para o polo positivo.
+
+A escolha por uma eletroforese vertical ou horizontal vai depender do objetivo que deseja atingir. Géis de poliacrilamida são ideais para fragmentos que necessitam de uma maior resolução, visto que são mais sensíveis quando comparados aos géis de agarose e permitem a separação de moléculas com variações de até 1 pb em seu tamanho. Géis de agarose embora não apresentem uma resolução tão boa para separação de fragmentos com pouca diferença de tamanho, são ideais para separar moléculas e fragmentos com diferenças de tamanho maiores de acordo com a concentração do gel utilizado.
+
+Para a eletroforese horizontal em gel de agarose, o gel é preparado de acordo com a concentração desejada (no laboratório geralmente é utilizada a concentração de **1%**), misturando a quantidade correta de agarose, tampão TBE 5x (**T**ris, Ácido **B**órico e **E**DTA) e água destilada. Para que a agarose seja completamente dissolvida é preciso aquecer em microondas até a solução ficar completamente translúcida. Posteriormente, o gel é colocado em um suporte apropriado com os pentes com a finalidade de formar as cavidades (poços) onde as amostras serão aplicadas. Após preparação e aplicação das amostras nas cavidades do gel, este será colocado na cuba juntamente com o tampão de corrida (TBE 1x) e a cuba será ligada por meio de fios em uma fonte de energia, escolhendo a voltagem e o tempo de corrida.
+
+Depois que a corrida é finalizada, os cabos são desligados e o gel pode ser visualizado em um equipamento chamado transiluminador. A visualização é possível devido a corantes que são adicionados no momento da preparação das amostras (como GelRed e Safer), além de determinar qual o tipo de equipamento que deve ser utilizado (transiluminador UV ou LED). A análise do gel irá depender do objetivo (quantificação, verificar a amplificação ou purificação), apesar dos procedimentos empregados serem os mesmos.
+
+::: {.callout-note appearance="simple"}
+## Como fazemos
+
+É importante lembrar que o tempo de migração das amostras e a voltagem escolhida são parâmetros importantes na eletroforese. Quanto maior o tempo de migração, maior será a separação dos fragmentos. Quanto maior a voltagem, mais rápida será a migração das moléculas no gel. No Nupgen geralmente utiliza-se a voltagem em torno de **90V por aproximadamente uma hora**.
+:::
+
+![Equipamento utilizado na eletroforese](figures/eletroforese.jpg)
 
 ## Ladder
 
+O Ladder é um marcador de peso molecular utilizado para determinar o tamanho dos fragmentos após a amplificação do DNA. É composto por produtos de PCR e plasmídeos digeridos com enzimas de restrição, sendo ideal para uso como padrão de peso molecular conhecido para eletroforese em gel de agarose. O Ladder apresenta bandas de maior intensidade que irão servir como pontos de referência (geralmente duas bandas para o Ladder **100 pb** e três bandas para o Ladder **1 Kb**).
+
+::: {.callout-note appearance="simple"}
+## Como fazemos
+
+No Nupgen há duas opções de Ladder para serem utilizados como padrão, o Ladder 100 pb e o Ladder 1 Kb. O marcador DNA Ladder 100 pb é o mais utilizado nos protocolos do laboratório e consiste em múltiplas repetições de fragmentos de DNA (12 fragmentos), separados a cada 100 pb até 1 Kb, com dois fragmentos adicionais de 1500 e 2072 pb. Já o marcador de peso molecular DNA Ladder 1 Kb contém 14 fragmentos facilmente identificáveis, comumente utilizado para a identificação de massa molecular de fragmentos de DNA entre 250 bp a 10 Kb.
+:::
+
+![](figures/ladder1000pb.jpg){width="145"}
+
 ## Lambda
 
+::: {.callout-caution}
+
+O **Ladder** é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação. Enquanto o DNA fago **Lambda** é utilizado para a quantificação em diferentes concentrações.
+
+:::
+
 ## Gel agarose
+
+texto texto
 
 ### Gel 1%
 
@@ -40,23 +74,31 @@ Texto sobre eletroforese
 
 ## Protocolo para quantificação
 
+texto
+
 ## Protocolo para amplificação
+
+texto
 
 ## Protocolo para purificação
 
-## Etc
+texto
+
+## Preparação para eletroforese
 
 ### Ladder 100 pb
 
-2 μL de loading + 1 μL de GelRed + 2 μL de Ladder 100 pb
+2 μL de loading + 1 μL de GelRed + **2 μL de Ladder 100 pb**
 
 ### Por amostra
 
-2 μL de loading + 1 μL de GelRed + 3 μL da PCR
+2 μL de loading + 1 μL de GelRed + **3 μL da PCR**
 
-### Observações
+::: {.callout-important}
 
 -   Fio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).
 -   Gel agarose 1% (pode ser reutilizado).
 -   Correr a 90 volts, por aproximadamente 1 hora.
 -   Colocar o Ladder 100 pb no primeiro poço.
+
+:::

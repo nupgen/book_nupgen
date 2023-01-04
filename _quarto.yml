@@ -1,6 +1,8 @@
 project:
   type: book
 
+lang: "pt-BR"
+
 book:
   title: "Laboratório de Genética Molecular - Nupgen - DBC/Nupélia"
   cover-image: cover.png
@@ -32,6 +34,7 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    #embed-resources: true
   pdf:
     documentclass: scrreprt
 

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.2.280">
@@ -50,15 +50,15 @@ ul.task-list li input[type="checkbox"] {
   "type": "textbox",
   "limit": 20,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-no-results-text": "Nenhum resultado",
+    "search-matching-documents-text": "documentos correspondentes",
+    "search-copy-link-title": "Copiar link para a busca",
+    "search-hide-matches-text": "Esconder correspondências adicionais",
+    "search-more-match-text": "mais correspondência neste documento",
+    "search-more-matches-text": "mais correspondências neste documento",
+    "search-clear-button-title": "Limpar",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar"
   }
 }</script>
 
@@ -216,6 +216,15 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>Amplificação é o nome dado ao processo de replicação de uma região específica do DNA alvo de um estudo de modo que seja possível produzir um grande número de cópias desse mesmo segmento.</p>
+<p>A técnica utilizada para a amplificação é a reação em cadeia da polimerase (<strong>PCR</strong>), para a execução dessa técnica é preciso primeiramente fazer a seleção do <a href="./genetica-e-marcadores.html#marcadores-moleculares">marcador molecular</a> que será utilizado, ou seja, a região do DNA de interesse a ser replicada, isso irá variar conforme as necessidades do estudo em questão. Com base nessa escolha, serão utilizados um par de oligonucleotídeos iniciadores, os chamados primers, sendo um reverse e um forward. Eles irão se ligar na região que deve ser amplificada e permitir a ação de uma enzima polimerizadora denominada como DNA polimerase (Taq). Normalmente a enzima utilizada nas reações PCR é proveniente da bactéria <strong>T</strong>hermus <strong>aq</strong>uaticus (por isso <strong>Taq</strong>), uma espécie termófila adaptada a viver em águas de alta temperatura, dessa forma, a enzima advinda dela é termoestável e consequentemente resistente às altas temperaturas da PCR sem sofrer desnaturação.</p>
+<p>Além desses componentes são utilizadas bases nitrogenadas livres, os desoxirribonucleotídeos (dNTPs); tampão de reação (MgCl<sub>2</sub><sup>-</sup>), importante para agir como cofator da DNA polimerase; água MilliQ e o DNA extraído. A mistura desses componentes é levada ao termociclador, um aparelho com a capacidade de aquecer e resfriar as amostras, isso é importante porque são temperaturas específicas que permitem a abertura das fitas, anelamento dos primers e a ação da enzima DNA-polimerase. Comumente, dividimos a PCR em três etapas, são elas:</p>
+<ol type="1">
+<li><p><strong>Desnaturação:</strong> Nesse momento as fitas de DNA, configuradas em dupla-hélice, terão suas ligações de hidrogênio quebradas, sendo assim separadas. Essa etapa ocorre graças à elevação da temperatura do termociclador a temperaturas acima de 90° C.</p></li>
+<li><p><strong>Anelamento:</strong> Com as fitas já desnaturadas, a temperatura do aparelho é reduzida comumente para valores entre 45° C e 65° C e o par de primers, chamados de iniciadores, se ligam com as suas sequências complementares na fita molde.</p></li>
+<li><p><strong>Polimerização:</strong> O termociclador regula a sua temperatura para 72° C, atingindo a temperatura ótima para a ação da enzima DNA polimerase, que começa a síntese de novas fitas utilizando as dNTPs livres como matéria prima. A síntese só é possível graças à disponibilidade de extremidades 3’OH livres pertencentes aos primers.</p></li>
+</ol>
+<p>As três etapas citadas anteriormente são repetidas em cerca de 20 a 30 ciclos, possibilitando que até bilhões de cópias da região selecionada sejam produzidas.</p>
 
 
 
@@ -260,12 +269,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copiada");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copiada");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
