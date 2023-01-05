@@ -27,4 +27,3 @@ O BLAST (Basic Local Alignment Search Tool) é uma ferramenta amplamente utiliza
 O BLAST funciona comparando uma sequência de entrada com as sequências armazenadas em um banco de dados de referência e encontrando as sequências mais similares. Ele utiliza uma técnica de alinhamento de sequências chamada alinhamento local, que permite o alinhamento apenas de trechos similares das sequências, ignorando trechos com pouca similaridade.
 
 O BLAST é amplamente utilizado em diversas análises de genética molecular, como a identificação de genes e/ou espécies.
-

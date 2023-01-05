@@ -2,7 +2,7 @@
 
 Após enviar nossas amostras para o sequenciamento, recebemos um conjunto de arquivos com os resultados. Mas antes de utilizá-los em análises, precisamos garantir a qualidade dos dados recebidos. É normal e esperado que sejam encontrados erros de leitura do sequenciador, mas devemos tomar cuidado para tornar esse processo livre de vieses e erros de interpretação.
 
-Os arquivos geralmente são enviados em 2 formatos, um deles é responsável pela sequência de nucleotídeos de forma básica, geralmente no formato `.fasta`/`.fas` (é neste formato que baixamos as sequências do [GenBank](genbank-e-bancos-geneticos.qmd)) ou `.seq`, e o outro arquivo é o responsável pelos dados do eletroferograma, onde podemos observar os picos do sinal do detector do sequenciador, recebido geralmente em formato `.ab1`.
+Os arquivos geralmente são enviados em 2 formatos, um deles é responsável pela sequência de nucleotídeos de forma básica, geralmente no formato `.fasta`/`.fas` (é neste formato que baixamos as sequências do [GenBank](bancos-geneticos.qmd#genbank)) ou `.seq`, e o outro arquivo é o responsável pelos dados do eletroferograma, onde podemos observar os picos do sinal do detector do sequenciador, recebido geralmente em formato `.ab1`.
 
 Os arquivos FASTA podem ser abertos no programa [MEGA](softwares.qmd#mega) (ou mesmo no bloco de notas para uma edição rápida no nome das sequências, por exemplo), enquanto os eletroferogramas podem ser visualizados com o programa [BioEdit](softwares.qmd#bioedit).
 

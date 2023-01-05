@@ -100,6 +100,8 @@ Atualmente no Nupgen são utilizados dois kits de extração diferentes: **Wizar
 
 ## Protocolo de Extração de DNA - Promega **Macrófitas**
 
+![](figures/extracao-macrofitas.JPG)
+
 1.  Tubos de 1,5 mL.
 
 2.  Amostras + nitrogênio líquido (macerar).

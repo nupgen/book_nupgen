@@ -91,18 +91,25 @@
     "text": "3.7 Tampão TBE 5x (estoque)\n\n54 g de Tris-Base\n27,5 g de Ácido Bórico\n20 mL de EDTA 0,5M pH 8,0\n\nCompletar para 1000 mL com água destilada\nModo de preparo: em um becker, colocar um pouco da água destilada. Colocar uma pulga no becker e utilizar o agitador para homogeneizar a solução. Ir adicionando aos poucos os reagentes. Ao final, utilizando uma proveta, completar o volume de água que falta e armazenar em frascos de vidro (tampa laranja). Etiquetar e autoclavar."
   },
   {
+    "objectID": "diluicoes.html#tampão-tbe-1x-corrida",
+    "href": "diluicoes.html#tampão-tbe-1x-corrida",
+    "title": "3  Diluições",
+    "section": "3.8 Tampão TBE 1x (corrida)",
+    "text": "3.8 Tampão TBE 1x (corrida)\n\\(C1 * V1 = C2 * V2\\)\n5(estoque) * V1 = 1 * 1000 mL\nV1 = 1000/5\nV1 = 200 mL de TBE 5x\nCompletar para 1000 mL de água destilada (= 800 mL)"
+  },
+  {
     "objectID": "diluicoes.html#peg-20-nacl-25m-para-75-ml",
     "href": "diluicoes.html#peg-20-nacl-25m-para-75-ml",
     "title": "3  Diluições",
-    "section": "3.8 PEG 20% NaCl 2,5M (para 75 mL)",
-    "text": "3.8 PEG 20% NaCl 2,5M (para 75 mL)\n\n15 g de Polietilenoglicol\n10,95 g de NaCl\n\nCompletar para 75 mL com água Milli-Q\nModo de preparo: colocar em um becker um pouco da água e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água que falta e com o auxílio de uma seringa passar a solução pelo filtro (0,2 µM – azul). Ir colocando em tubos Falcon para autoclavar. Após autoclavada, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira."
+    "section": "3.9 PEG 20% NaCl 2,5M (para 75 mL)",
+    "text": "3.9 PEG 20% NaCl 2,5M (para 75 mL)\n\n15 g de Polietilenoglicol\n10,95 g de NaCl\n\nCompletar para 75 mL com água Milli-Q\nModo de preparo: colocar em um becker um pouco da água e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água que falta e com o auxílio de uma seringa passar a solução pelo filtro (0,2 µM – azul). Ir colocando em tubos Falcon para autoclavar. Após autoclavada, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira."
   },
   {
     "objectID": "diluicoes.html#diluição-primer-liofilizado",
     "href": "diluicoes.html#diluição-primer-liofilizado",
     "title": "3  Diluições",
-    "section": "3.9 Diluição primer liofilizado",
-    "text": "3.9 Diluição primer liofilizado\nQuantidade em nmol x 1000 / 60 = Quantidade de água Milli-Q\nAcrescentar essa quantidade de água no tubo do primer\nObs: 60 porque é a concentração utilizada para diluição dos primers no laboratório (= 60 µM)"
+    "section": "3.10 Diluição primer liofilizado",
+    "text": "3.10 Diluição primer liofilizado\nQuantidade em nmol x 1000 / 60 = Quantidade de água Milli-Q\nAcrescentar essa quantidade de água no tubo do primer\nObs: 60 porque é a concentração utilizada para diluição dos primers no laboratório (= 60 µM)"
   },
   {
     "objectID": "extracao.html#protocolo-de-extração-de-dna---promega-peixes",
@@ -123,7 +130,7 @@
     "href": "extracao.html#protocolo-de-extração-de-dna---promega-macrófitas",
     "title": "4  Extração",
     "section": "4.3 Protocolo de Extração de DNA - Promega Macrófitas",
-    "text": "4.3 Protocolo de Extração de DNA - Promega Macrófitas\n\nTubos de 1,5 mL.\nAmostras + nitrogênio líquido (macerar).\nAdicionar 600 μl de Nuclei Lysis Solution (logo após macerar).\nBanho de 15 minutos a 65° C.\nAdicionar 3 μl de RNAse.\nVirar o tubo 5x.\nColocar no banho por 15 minutos a 37° C (pode segurar na mão).\nDeixar por 5 minutos em temperatura ambiente.\nAdicionar 200 μl de Protein Precipitation Solution.\nVórtex.\nCentrifugar por 3 minutos a 16.000 ou 13.000 rpm.\nSeparar sobrenadante e descartar o resto.\nAdicionar 600 μl de isopropanol ao sobrenadante.\nVirar 5x.\nCentrifugar por 1 minuto a 16.000 ou 13.000 rpm.\nDescartar sobrenadante.\nAdicionar 600 μl de etanol 70%.\nVirar 5x.\nCentrifugar por 1 minuto a 16.000 ou 13.000 rpm.\nDescartar sobrenadante.\nDeixar o tubo secar por 15 minutos na estufa.\nAdicionar 50 μl de DNA Rehydration Solution."
+    "text": "4.3 Protocolo de Extração de DNA - Promega Macrófitas\n\n\nTubos de 1,5 mL.\nAmostras + nitrogênio líquido (macerar).\nAdicionar 600 μl de Nuclei Lysis Solution (logo após macerar).\nBanho de 15 minutos a 65° C.\nAdicionar 3 μl de RNAse.\nVirar o tubo 5x.\nColocar no banho por 15 minutos a 37° C (pode segurar na mão).\nDeixar por 5 minutos em temperatura ambiente.\nAdicionar 200 μl de Protein Precipitation Solution.\nVórtex.\nCentrifugar por 3 minutos a 16.000 ou 13.000 rpm.\nSeparar sobrenadante e descartar o resto.\nAdicionar 600 μl de isopropanol ao sobrenadante.\nVirar 5x.\nCentrifugar por 1 minuto a 16.000 ou 13.000 rpm.\nDescartar sobrenadante.\nAdicionar 600 μl de etanol 70%.\nVirar 5x.\nCentrifugar por 1 minuto a 16.000 ou 13.000 rpm.\nDescartar sobrenadante.\nDeixar o tubo secar por 15 minutos na estufa.\nAdicionar 50 μl de DNA Rehydration Solution."
   },
   {
     "objectID": "extracao.html#protocolo-de-extração-de-dna-com-colunas---qiagen-parasitos",
@@ -144,7 +151,7 @@
     "href": "eletroforese.html#lambda",
     "title": "5  Eletroforese",
     "section": "5.2 Lambda",
-    "text": "5.2 Lambda\n\n\n\n\n\n\nCuidado\n\n\n\nO Ladder é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação. Enquanto o DNA fago Lambda é utilizado para a quantificação em diferentes concentrações."
+    "text": "5.2 Lambda\nLambda é um bacteriófago de Escherichia coli e seu DNA contém 48.502 pares de nucleotídeos. É utilizado como DNA padrão com concentrações conhecidas (por exemplo 5, 10 e 20 ng/μL) para quantificar o DNA extraído de amostras alvo de estudos por meio da comparação visual pela fluorescência e espessura das bandas. O DNA fago Lambda é adquirido de empresas com uma concentração estoque específica e para ser utilizado na rotina do laboratório é preciso realizar a diluição com base nas concentrações desejadas. \n\n\n\n\n\n\nCuidado\n\n\n\nO DNA fago Lambda é utilizado para a quantificação em diferentes concentrações, enquanto o Ladder é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação."
   },
   {
     "objectID": "eletroforese.html#gel-agarose",
@@ -200,7 +207,7 @@
     "href": "amplificacao.html",
     "title": "7  Amplificação",
     "section": "",
-    "text": "Amplificação é o nome dado ao processo de replicação de uma região específica do DNA alvo de um estudo de modo que seja possível produzir um grande número de cópias desse mesmo segmento.\nA técnica utilizada para a amplificação é a reação em cadeia da polimerase (PCR), para a execução dessa técnica é preciso primeiramente fazer a seleção do marcador molecular que será utilizado, ou seja, a região do DNA de interesse a ser replicada, isso irá variar conforme as necessidades do estudo em questão. Com base nessa escolha, serão utilizados um par de oligonucleotídeos iniciadores, os chamados primers, sendo um reverse e um forward. Eles irão se ligar na região que deve ser amplificada e permitir a ação de uma enzima polimerizadora denominada como DNA polimerase (Taq). Normalmente a enzima utilizada nas reações PCR é proveniente da bactéria Thermus aquaticus (por isso Taq), uma espécie termófila adaptada a viver em águas de alta temperatura, dessa forma, a enzima advinda dela é termoestável e consequentemente resistente às altas temperaturas da PCR sem sofrer desnaturação.\nAlém desses componentes são utilizadas bases nitrogenadas livres, os desoxirribonucleotídeos (dNTPs); tampão de reação (MgCl2-), importante para agir como cofator da DNA polimerase; água MilliQ e o DNA extraído. A mistura desses componentes é levada ao termociclador, um aparelho com a capacidade de aquecer e resfriar as amostras, isso é importante porque são temperaturas específicas que permitem a abertura das fitas, anelamento dos primers e a ação da enzima DNA-polimerase. Comumente, dividimos a PCR em três etapas, são elas:\n\nDesnaturação: Nesse momento as fitas de DNA, configuradas em dupla-hélice, terão suas ligações de hidrogênio quebradas, sendo assim separadas. Essa etapa ocorre graças à elevação da temperatura do termociclador a temperaturas acima de 90° C.\nAnelamento: Com as fitas já desnaturadas, a temperatura do aparelho é reduzida comumente para valores entre 45° C e 65° C e o par de primers, chamados de iniciadores, se ligam com as suas sequências complementares na fita molde.\nPolimerização: O termociclador regula a sua temperatura para 72° C, atingindo a temperatura ótima para a ação da enzima DNA polimerase, que começa a síntese de novas fitas utilizando as dNTPs livres como matéria prima. A síntese só é possível graças à disponibilidade de extremidades 3’OH livres pertencentes aos primers.\n\nAs três etapas citadas anteriormente são repetidas em cerca de 20 a 30 ciclos, possibilitando que até bilhões de cópias da região selecionada sejam produzidas."
+    "text": "Amplificação é o nome dado ao processo de replicação de uma região específica do DNA alvo de um estudo de modo que seja possível produzir um grande número de cópias desse mesmo segmento.\nA técnica utilizada para a amplificação é a reação em cadeia da polimerase (PCR), para a execução dessa técnica é preciso primeiramente fazer a seleção do marcador molecular que será utilizado, ou seja, a região do DNA de interesse a ser replicada, isso irá variar conforme as necessidades do estudo em questão. Com base nessa escolha, serão utilizados um par de oligonucleotídeos iniciadores, os chamados primers, sendo um reverse e um forward. Eles irão se ligar na região que deve ser amplificada e permitir a ação de uma enzima polimerizadora denominada como DNA polimerase (Taq). Normalmente a enzima utilizada nas reações PCR é proveniente da bactéria Thermus aquaticus (por isso Taq), uma espécie termófila adaptada a viver em águas de alta temperatura, dessa forma, a enzima advinda dela é termoestável e consequentemente resistente às altas temperaturas da PCR sem sofrer desnaturação.\nAlém desses componentes são utilizadas bases nitrogenadas livres, os desoxirribonucleotídeos (dNTPs); tampão de reação (MgCl2-), importante para agir como cofator da DNA polimerase; água MilliQ; uma solução tampão e o DNA extraído.\n\nA mistura desses componentes é levada ao termociclador, um aparelho com a capacidade de aquecer e resfriar as amostras, isso é importante porque são temperaturas específicas que permitem a abertura das fitas, anelamento dos primers e a ação da enzima DNA-polimerase. Comumente, dividimos a PCR em três etapas, são elas:\n\nDesnaturação: Nesse momento as fitas de DNA, configuradas em dupla-hélice, terão suas ligações de hidrogênio quebradas, sendo assim separadas. Essa etapa ocorre graças à elevação da temperatura do termociclador a temperaturas acima de 90° C.\nAnelamento: Com as fitas já desnaturadas, a temperatura do aparelho é reduzida comumente para valores entre 45° C e 65° C e o par de primers, chamados de iniciadores, se ligam com as suas sequências complementares na fita molde.\nPolimerização: O termociclador regula a sua temperatura para 72° C, atingindo a temperatura ótima para a ação da enzima DNA polimerase, que começa a síntese de novas fitas utilizando as dNTPs livres como matéria prima. A síntese só é possível graças à disponibilidade de extremidades 3’OH livres pertencentes aos primers.\n\nAs três etapas citadas anteriormente são repetidas em cerca de 20 a 30 ciclos, possibilitando que até bilhões de cópias da região selecionada sejam produzidas."
   },
   {
     "objectID": "purificacao.html#purificação-com-polietilenoglicol-peg",
@@ -235,49 +242,84 @@
     "href": "softwares.html#bioedit",
     "title": "11  Softwares",
     "section": "11.1 BioEdit",
-    "text": "11.1 BioEdit\nBioEdit é um editor de sequências de DNA e proteínas muito utilizado na genética molecular. Ele é especialmente útil na visualização de eletroferogramas, que são gráficos gerados por sequenciadores de DNA que mostram a sequência de base de uma amostra de DNA.\nO BioEdit permite a visualização de eletroferogramas de maneira fácil e rápida, além de fornecer uma ampla gama de ferramentas para análise de sequências, como alinhamento de sequências, análise de substituição de nucleotídeos e proteínas, e muito mais. Ele também possui uma interface intuitiva e é compatível com Windows, MacOS e Linux.\nAlém da visualização de eletroferogramas, o BioEdit é amplamente utilizado em diversas outras tarefas de genética molecular, como edição de sequências, anotação de genes e análise de expressão gênica.\nUsos\nPrós\nContras"
+    "text": "11.1 BioEdit\nÚtil para: Edição\nBioEdit é um editor de sequências de DNA e proteínas muito utilizado na genética molecular. Ele é especialmente útil na visualização de eletroferogramas, que são gráficos gerados por sequenciadores de DNA que mostram a sequência de base de uma amostra de DNA.\nO BioEdit permite a visualização de eletroferogramas de maneira fácil e rápida, além de fornecer uma ampla gama de ferramentas para análise de sequências, como alinhamento de sequências, análise de substituição de nucleotídeos e proteínas, e muito mais. Ele também possui uma interface intuitiva e é compatível com Windows, MacOS e Linux.\nAlém da visualização de eletroferogramas, o BioEdit é amplamente utilizado em diversas outras tarefas de genética molecular, como edição de sequências, anotação de genes e análise de expressão gênica.\nUsos\nPrós\nContras\n\nA última versão disponível é de 2005."
   },
   {
     "objectID": "softwares.html#mega",
     "href": "softwares.html#mega",
     "title": "11  Softwares",
     "section": "11.2 MEGA",
-    "text": "11.2 MEGA\nO MEGA (Molecular Evolutionary Genetics Analysis) é um software de análise de genética molecular utilizado para estudar a evolução e a relação filogenética entre sequências de DNA, RNA ou proteínas. Ele é amplamente utilizado por pesquisadores em diversas áreas da genética molecular, incluindo biologia evolutiva, genômica e epidemiologia de doenças.\nO MEGA possui uma ampla gama de recursos, incluindo alinhamento de sequências, inferência de árvores filogenéticas, análise de substituição de nucleotídeos e proteínas, e muito mais. Ele também permite a visualização e análise de dados de diversas maneiras, como gráficos e tabelas.\nEle um software fácil de usar, com uma interface intuitiva e uma ampla base de usuários e recursos on-line disponíveis. Ele é compatível com Windows, MacOS e Linux e está disponível para download gratuito em seu site oficial.\nAtualmente o MEGA está na versão 10, mas contém um ou outro bug que pode atrapalhar bastante\nFalar das versões (7 4ever)\nUsos\nPrós\nContras"
+    "text": "11.2 MEGA\nÚtil para: Edição / Alinhamento / Modelo / Árvore\nO MEGA (Molecular Evolutionary Genetics Analysis) é um software de análise de genética molecular utilizado para estudar a evolução e a relação filogenética entre sequências de DNA, RNA ou proteínas. Ele é amplamente utilizado por pesquisadores em diversas áreas da genética molecular, incluindo biologia evolutiva, genômica e epidemiologia de doenças.\nO MEGA possui uma ampla gama de recursos, incluindo alinhamento de sequências, inferência de árvores filogenéticas, análise de substituição de nucleotídeos e proteínas, e muito mais. Ele também permite a visualização e análise de dados de diversas maneiras, como gráficos e tabelas.\nEle um software fácil de usar, com uma interface intuitiva e uma ampla base de usuários e recursos on-line disponíveis. Ele é compatível com Windows, MacOS e Linux e está disponível para download gratuito em seu site oficial.\n\n\n\n\n\n\nAviso\n\n\n\nAtualmente o MEGA está na versão 10, mas contém um ou outro bug que pode atrapalhar bastante. O MEGA 7 possui quase todas as ferramentas que precisamos e é mais estável. Recomendamos usar essa versão.\n\n\nUsos\nPrós\nContras"
   },
   {
     "objectID": "softwares.html#iqtree",
     "href": "softwares.html#iqtree",
     "title": "11  Softwares",
     "section": "11.3 IQTree",
-    "text": "11.3 IQTree\nUsos\nPrós\nContras"
+    "text": "11.3 IQTree\nÚtil para: Modelo / Árvore\nUsos\nPrós\nContras"
+  },
+  {
+    "objectID": "softwares.html#jmodeltest",
+    "href": "softwares.html#jmodeltest",
+    "title": "11  Softwares",
+    "section": "11.4 jModelTest",
+    "text": "11.4 jModelTest\nÚtil para: Modelo\nUsos\nPrós\n\nBastante reconhecido e utilizado em outros trabalhos.\n\nContras\n\nÉ bem demorado."
   },
   {
     "objectID": "softwares.html#raxml",
     "href": "softwares.html#raxml",
     "title": "11  Softwares",
-    "section": "11.4 RAxML",
-    "text": "11.4 RAxML\nUsos\nPrós\nContras"
+    "section": "11.5 RAxML",
+    "text": "11.5 RAxML\nÚtil para: Árvore\nLink: https://raxml-ng.vital-it.ch\nUsos\nPrós\nContras"
   },
   {
     "objectID": "softwares.html#phyml",
     "href": "softwares.html#phyml",
     "title": "11  Softwares",
-    "section": "11.5 PhyML",
-    "text": "11.5 PhyML\nLink: http://www.atgc-montpellier.fr/phyml/\nPhylogenetic Maximum Likelihood (PhyML) é um servidor online para gerar inferências filogenéticas pelo método de máxima verossimilhança. O servidor é intuitivo, portanto, de fácil uso. Para gerar uma árvore filogenética no PhyML, é preciso fornecer um arquivo de alinhamento no formato PHYLIP (é possível exportar alinhamentos neste formato na versão do MEGA 10). Após o término das análises, o PhyML fornece um arquivo zip que contém, além da árvore, outros relatórios estatísticos (como a lista dos modelos evolutivos, por exemplo)\nPrós:\n\nFácil uso;\nPermite realizar várias customizações nos parâmetros estatísticos que não são possíveis de personalizar em outros softwares, como o MEGA;\nNão requer uso de memória do computador, ele roda em servidor.\n\nContras:\n\nUtiliza o formato PHYLIP, diferente de outros que utilizam FASTA, por isso é possível que o usuário tenha que formatar os terminais da árvore, um trabalho manual desgastante. Recomendamos o uso do pacote nupgen no R para corrigir este problema;\nAs análises demoram em média 8 horas (podendo variar de acordo com a quantidade de sequências). Por isso, preste atenção antes de rodar as análises."
+    "section": "11.6 PhyML",
+    "text": "11.6 PhyML\nÚtil para: Modelo / Árvore\nLink: http://www.atgc-montpellier.fr/phyml/\nPhylogenetic Maximum Likelihood (PhyML) é um servidor online para gerar inferências filogenéticas pelo método de máxima verossimilhança. O servidor é intuitivo, portanto, de fácil uso. Para gerar uma árvore filogenética no PhyML, é preciso fornecer um arquivo de alinhamento no formato PHYLIP (é possível exportar alinhamentos neste formato na versão do MEGA 10). Após o término das análises, o PhyML fornece um arquivo zip que contém, além da árvore, outros relatórios estatísticos (como a lista dos modelos evolutivos, por exemplo)\nPrós:\n\nFácil uso;\nPermite realizar várias customizações nos parâmetros estatísticos que não são possíveis de personalizar em outros softwares, como o MEGA;\nNão requer uso de memória do computador, ele roda em servidor.\n\nContras:\n\nUtiliza o formato PHYLIP, diferente de outros que utilizam FASTA, por isso é possível que o usuário tenha que formatar os terminais da árvore, um trabalho manual desgastante. Recomendamos o uso do pacote nupgen no R para corrigir este problema;\nAs análises demoram em média 8 horas (podendo variar de acordo com a quantidade de sequências). Por isso, preste atenção antes de rodar as análises."
+  },
+  {
+    "objectID": "softwares.html#dnasp",
+    "href": "softwares.html#dnasp",
+    "title": "11  Softwares",
+    "section": "11.7 DNAsp",
+    "text": "11.7 DNAsp\nÚtil para: Haplótipos"
+  },
+  {
+    "objectID": "softwares.html#delimitadores-de-espécies",
+    "href": "softwares.html#delimitadores-de-espécies",
+    "title": "11  Softwares",
+    "section": "11.8 Delimitadores de espécies",
+    "text": "11.8 Delimitadores de espécies\nÚtil para: Delim. Espécies\nTexto texto\nComo estes são métodos complementares, serão apresentados em conjunto.\n\n11.8.1 PTP\nLink: https://species.h-its.org/ptp/\ntexto\nO arquivo gerado pode ser convertido em tabela utilizando o pacote nupgen.\n\n\n11.8.2 ABGD\nLink: https://bioinfo.mnhn.fr/abi/public/abgd/abgdweb.html\ntexto\n\n\n11.8.3 ASAP\nLink: https://bioinfo.mnhn.fr/abi/public/asap/\ntexto\n\n\n11.8.4 GMYC\nLink: https://species.h-its.org/gmyc/\ntexto\nOs resultados são gerados utilizando um servidor que apenas roda um código em R na nuvem. Como o site não permite mais baixar os resultados em forma de tabela, fizemos um aplicativo em Shiny para uso interno que permite isso: https://brunomioto.shinyapps.io/shiny_gmyc/"
   },
   {
     "objectID": "softwares.html#figtree",
     "href": "softwares.html#figtree",
     "title": "11  Softwares",
-    "section": "11.6 FigTree",
-    "text": "11.6 FigTree\nFigTree é um software de visualização de árvores filogenéticas utilizado para exibir árvores inferidas a partir de sequências de DNA, RNA ou proteínas. Ele é compatível com Windows, MacOS e Linux e permite a visualização de árvores filogenéticas de maneira clara e intuitiva, tornando mais fácil a interpretação dos resultados.\nO FigTree possui uma ampla gama de recursos de visualização, como opções de estilo de linha, rótulos de nós, legendas e muito mais. Ele também permite a exportação de árvores para vários formatos, incluindo imagens, PDF e arquivos Newick. Além disso, o FigTree possui uma interface intuitiva e é fácil de usar, mesmo para usuários sem experiência prévia em análises filogenéticas.\nPrós\nContras"
+    "section": "11.9 FigTree",
+    "text": "11.9 FigTree\nÚtil para: Árvore - Edição\nFigTree é um software de visualização de árvores filogenéticas utilizado para exibir árvores inferidas a partir de sequências de DNA, RNA ou proteínas. Ele é compatível com Windows, MacOS e Linux e permite a visualização de árvores filogenéticas de maneira clara e intuitiva, tornando mais fácil a interpretação dos resultados.\nO FigTree possui uma ampla gama de recursos de visualização, como opções de estilo de linha, rótulos de nós, legendas e muito mais. Ele também permite a exportação de árvores para vários formatos, incluindo imagens, PDF e arquivos Newick. Além disso, o FigTree possui uma interface intuitiva e é fácil de usar, mesmo para usuários sem experiência prévia em análises filogenéticas.\nPrós\nContras"
+  },
+  {
+    "objectID": "softwares.html#itol",
+    "href": "softwares.html#itol",
+    "title": "11  Softwares",
+    "section": "11.10 iTOL",
+    "text": "11.10 iTOL\nÚtil para: Árvore - Edição\nLink: https://itol.embl.de/\nPrós\nContras"
+  },
+  {
+    "objectID": "softwares.html#popart",
+    "href": "softwares.html#popart",
+    "title": "11  Softwares",
+    "section": "11.11 PopArt",
+    "text": "11.11 PopArt\nÚtil para: Haplótipos / Árvore - Edição"
   },
   {
     "objectID": "softwares.html#pacote-nupgen-r",
     "href": "softwares.html#pacote-nupgen-r",
     "title": "11  Softwares",
-    "section": "11.7 Pacote nupgen (R)",
-    "text": "11.7 Pacote nupgen (R)\nLink: https://brunomioto.github.io/nupgen/\nEste é um pacote em R criado com algumas funções internas do nosso laboratório, são elas:\n\nRenomear arquivos PHYLIP com label_phy()\nObter informações de sequências do GenBank com info_genbank()\nAs informações buscadas são:\n\nCódigo do GenBank\nNome do organismo\nPaís de origem (pode conter mais informações)\nLatitude\nLongitude\nGene\n\nFormatar resultados da Delimitação de Espécies do PTP (ou bPTP) com ptp_results()"
+    "section": "11.12 Pacote nupgen (R)",
+    "text": "11.12 Pacote nupgen (R)\nLink: https://brunomioto.github.io/nupgen/\nEste é um pacote em R criado com algumas funções internas do nosso laboratório, são elas:\n\nRenomear arquivos PHYLIP com label_phy()\nObter informações de sequências do GenBank com info_genbank()\nAs informações buscadas são:\n\nCódigo do GenBank\nNome do organismo\nPaís de origem (pode conter mais informações)\nLatitude\nLongitude\nGene\n\nFormatar resultados da Delimitação de Espécies do PTP (ou bPTP) com ptp_results()"
   },
   {
     "objectID": "edicao-sequencias.html#passo-a-passo-para-edição-de-sequências",

@@ -90,6 +90,18 @@ Completar para 1000 mL com água destilada
 
 **Modo de preparo:** em um becker, colocar um pouco da água destilada. Colocar uma pulga no becker e utilizar o agitador para homogeneizar a solução. Ir adicionando aos poucos os reagentes. Ao final, utilizando uma proveta, completar o volume de água que falta e armazenar em frascos de vidro (tampa laranja). Etiquetar e autoclavar.
 
+## Tampão TBE 1x (corrida)
+
+$C1 * V1 = C2 * V2$
+
+5(estoque) * V1 = 1 * 1000 mL
+
+V1 = 1000/5
+
+V1 = 200 mL de TBE 5x
+
+Completar para 1000 mL de água destilada (= 800 mL)
+
 ## PEG 20% NaCl 2,5M (para 75 mL)
 
 -   15 g de Polietilenoglicol

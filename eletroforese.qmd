@@ -16,7 +16,11 @@ Depois que a corrida é finalizada, os cabos são desligados e o gel pode ser vi
 É importante lembrar que o tempo de migração das amostras e a voltagem escolhida são parâmetros importantes na eletroforese. Quanto maior o tempo de migração, maior será a separação dos fragmentos. Quanto maior a voltagem, mais rápida será a migração das moléculas no gel. No Nupgen geralmente utiliza-se a voltagem em torno de **90V por aproximadamente uma hora**.
 :::
 
+::: {layout-ncol="2"}
 ![Equipamento utilizado na eletroforese](figures/eletroforese.jpg)
+
+![Equipamento do Nupegen](figures/eletroforese-lab.JPG)
+:::
 
 ## Ladder
 
@@ -32,10 +36,10 @@ No Nupgen há duas opções de Ladder para serem utilizados como padrão, o Ladd
 
 ## Lambda
 
-::: {.callout-caution}
+Lambda é um bacteriófago de *Escherichia coli* e seu DNA contém 48.502 pares de nucleotídeos. É utilizado como DNA padrão com concentrações conhecidas (por exemplo 5, 10 e 20 ng/μL) para quantificar o DNA extraído de amostras alvo de estudos por meio da comparação visual pela fluorescência e espessura das bandas. O DNA fago Lambda é adquirido de empresas com uma concentração estoque específica e para ser utilizado na rotina do laboratório é preciso realizar a diluição com base nas concentrações desejadas. 
 
-O **Ladder** é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação. Enquanto o DNA fago **Lambda** é utilizado para a quantificação em diferentes concentrações.
-
+::: callout-caution
+O DNA fago **Lambda** é utilizado para a quantificação em diferentes concentrações, enquanto o **Ladder** é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação.
 :::
 
 ## Gel agarose
@@ -94,11 +98,9 @@ texto
 
 2 μL de loading + 1 μL de GelRed + **3 μL da PCR**
 
-::: {.callout-important}
-
+::: callout-important
 -   Fio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).
 -   Gel agarose 1% (pode ser reutilizado).
 -   Correr a 90 volts, por aproximadamente 1 hora.
 -   Colocar o Ladder 100 pb no primeiro poço.
-
 :::
