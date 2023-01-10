@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 
+/_book/
 /.quarto/
 .Rdata
 .httr-oauth
