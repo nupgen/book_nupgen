@@ -35,3 +35,5 @@ A mistura desses componentes é levada ao termociclador, um aparelho com a capac
 3.  **Polimerização:** O termociclador regula a sua temperatura para 72° C, atingindo a temperatura ótima para a ação da enzima DNA polimerase, que começa a síntese de novas fitas utilizando as dNTPs livres como matéria prima. A síntese só é possível graças à disponibilidade de extremidades 3'OH livres pertencentes aos primers.
 
 As três etapas citadas anteriormente são repetidas em cerca de 20 a 30 ciclos, possibilitando que até bilhões de cópias da região selecionada sejam produzidas.
+
+![](figures/PCR.jpg)
