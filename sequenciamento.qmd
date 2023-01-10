@@ -1,6 +1,6 @@
 # Sequenciamento
 
-Depois de realizada a purificação, o fragmento purificado pode ser sequenciado. O sequenciamento de DNA consiste no processo de determinação da sequência de nucleotídeos (**A, T, C e G**) em um fragmento de DNA. A informação contida nessas sequências de nucleotídeos possibilita diversos tipos de aplicações, como, por exemplo, identificar o organismo ao qual pertence uma amostra, diagnosticar uma doença genética, aplicar em estudos de filogenia e diversidade genética, entre outros.
+Depois de realizada a purificação, o fragmento purificado pode ser sequenciado. O sequenciamento de DNA consiste no processo de determinação da sequência de nucleotídeos (**A, T, G e C**) em um fragmento de DNA. A informação contida nessas sequências de nucleotídeos possibilita diversos tipos de aplicações, como, por exemplo, identificar o organismo ao qual pertence uma amostra, diagnosticar uma doença genética, aplicar em estudos de filogenia e diversidade genética, entre outros.
 
 ::: callout-tip
 ## Aprendendo
