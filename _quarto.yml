@@ -8,6 +8,8 @@ book:
   cover-image: cover.png
   favicon: favicon.png
   output-file: "book-nupgen"
+  repo-url: https://github.com/nupgen/book_nupgen
+  repo-actions: [issue]
   chapters:
     - index.qmd
     - lab.qmd
@@ -37,6 +39,7 @@ execute:
 
 format:
   html:
+    toc: true
     theme: 
       - cosmo
       - book_nupgen.scss
