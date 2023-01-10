@@ -1,0 +1,129 @@
+# Pacotes R
+
+Ao realizar pesquisas ecológicas, acabamos nos deparando com quantidades absurdas de dados, com planilhas e mais planilhas. Por esse motivo, é muito comum utilizarmos a linguagem de programação **R** em pesquisas ecológicas.
+
+Utilizamos o R para organizar dados, tratar tabelas, criar índices, realizar testes estatísticos e finalizar com lindos gráficos. Tudo isso é possível através do uso das ferramentas certas, que geralmente são distribuídas em **pacotes**, que nada mais são que conjuntos de funções específicas.
+
+Obviamente é inviável e até foge do escopo deste livro trazer uma introdução ao R e ecologia quantitativa, mas recentemente foi lançado um livro on-line escrito por pesquisadores brasileiros com toda uma introdução neste tópico, é o livro [Análises Ecológicas no R](https://analises-ecologicas.netlify.app/) (que foi escrito no R como este aqui). Caso precise de ajuda com o R ou afins, estamos à disposição para ajudar (praticamente todos os laboratórios do Nupélia utilizam o R para análises).
+
+Para a pesquisa com Genética Molecular, existem alguns pacotes que podem ajudar.
+
+## Pacote nupgen (R)
+
+**Link: [https://brunomioto.github.io/nupgen/](https://brunomioto.github.io/nupgen/)**
+
+Este é um pacote criado com algumas funções internas do nosso laboratório, são elas:
+
+-   Renomear arquivos [PHYLIP](softwares.qmd#phyml) com `label_phy()`
+
+-   Obter informações de sequências do [GenBank](bancos-geneticos.qmd#genbank) com `info_genbank()`
+
+    As informações buscadas são:
+
+    -   Código do GenBank
+
+    -   Nome do organismo
+
+    -   País de origem (pode conter mais informações)
+
+    -   Latitude
+
+    -   Longitude
+
+    -   Gene
+
+-   Formatar resultados da [Delimitação de Espécies](softwares.qmd#delimitadores-de-especies) do PTP (ou bPTP) com `ptp_results()`
+
+**Instalação**
+```{r, eval=FALSE}
+if (!requireNamespace("remotes", quietly = TRUE)){
+    install.packages("remotes")
+  }
+remotes::install_github("brunomioto/nupgen")
+```
+
+
+## Rocc
+
+**Link: [https://docs.ropensci.org/bold/](https://docs.ropensci.org/bold/)**
+
+Baixa dados do specieslink
+
+**Instalação**
+```{r, eval=FALSE}
+if (!requireNamespace("remotes", quietly = TRUE)){
+    install.packages("remotes")
+  }
+remotes::install_github("liibre/Rocc")
+```
+
+
+## bold
+
+**Link: [https://docs.ropensci.org/bold/](https://docs.ropensci.org/bold/)**
+
+Baixa dados do bold
+
+**Instalação**
+```{r, eval=FALSE}
+install.packages("bold")
+```
+
+
+## refdb
+
+**Link: [https://fkeck.github.io/refdb/index.html](https://fkeck.github.io/refdb/index.html)**
+
+Baixa dados do genbank
+
+**Instalação**
+```{r, eval=FALSE}
+if (!requireNamespace("remotes", quietly = TRUE)){
+    install.packages("remotes")
+  }
+remotes::install_github("fkeck/refdb")
+```
+
+
+## Herodotools
+
+**Link: [https://gabrielnakamura.github.io/Herodotools/index.html](https://gabrielnakamura.github.io/Herodotools/index.html)**
+
+Biogeografia
+
+**Instalação**
+```{r, eval=FALSE}
+if (!requireNamespace("remotes", quietly = TRUE)){
+    install.packages("remotes")
+  }
+remotes::install_github("GabrielNakamura/Herodotools")
+```
+
+
+## ggtree
+
+**Link: [https://guangchuangyu.github.io/ggtree-book/chapter-ggtree.html](https://guangchuangyu.github.io/ggtree-book/chapter-ggtree.html)**
+
+Edição de árvores
+
+**Instalação**
+
+```{r, eval=FALSE}
+install.packages("ggtree")
+```
+
+
+## ggmsa
+
+**Link: [http://yulab-smu.top/ggmsa/](http://yulab-smu.top/ggmsa/)**
+
+Visualização de sequências
+
+**Instalação**
+
+```{r, eval=FALSE}
+if (!requireNamespace("remotes", quietly = TRUE)){
+    install.packages("remotes")
+  }
+remotes::install_github("YuLab-SMU/ggmsa")
+```

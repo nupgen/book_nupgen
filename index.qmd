@@ -6,6 +6,6 @@ O objetivo deste livro não é substituir a colaboração entre alunos do labora
 
 Este livro foi escrito em [Quarto](https://quarto.org/).
 
-Organização: Bruno Mioto
+**Organização: Bruno Mioto**
 
-Autores: Adrian Silva, Bruno Mioto, Eloisa de Páris e Mayara Passere
+**Autores: Adrian Silva, Bárbara Scorsim, Bruno Mioto, Eloisa de Páris e Mayara Passere**

@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./edicao-sequencias.html" rel="next">
+<link href="./pacotes-r.html" rel="next">
 <link href="./bancos-geneticos.html" rel="prev">
 <link href="./favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -174,12 +174,17 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./edicao-sequencias.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Edição de sequências</span></a>
+  <a href="./pacotes-r.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Pacotes R</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./alinhamento.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Alinhamento</span></a>
+  <a href="./edicao-sequencias.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Edição de sequências</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./alinhamento.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Alinhamento</span></a>
   </div>
 </li>
       </ul>
@@ -215,7 +220,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#figtree" id="toc-figtree" class="nav-link" data-scroll-target="#figtree"><span class="toc-section-number">11.9</span>  FigTree</a></li>
   <li><a href="#itol" id="toc-itol" class="nav-link" data-scroll-target="#itol"><span class="toc-section-number">11.10</span>  iTOL</a></li>
   <li><a href="#popart" id="toc-popart" class="nav-link" data-scroll-target="#popart"><span class="toc-section-number">11.11</span>  PopArt</a></li>
-  <li><a href="#pacote-nupgen-r" id="toc-pacote-nupgen-r" class="nav-link" data-scroll-target="#pacote-nupgen-r"><span class="toc-section-number">11.12</span>  Pacote nupgen (R)</a></li>
   </ul>
 </nav>
     </div>
@@ -239,6 +243,9 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>Em nosso laboratório dependemos bastante do uso de diversos softwares para realizar diferentes análises. Enquanto o início dos trabalhos é feito com aparelhos em nosso laboratório, após receber os resultados do sequenciamento, dependemos de análises realizadas no próprio computador.</p>
+<p>Para isso, precisamos entender como as análises funcionam e também qual a melhor forma que realizá-las, evitando dores de cabeça por resultados que não refletem a realidade.</p>
+<p>A seguir vamos apresentar os principais softwares utilizados, bem como algumas dicas que podem facilitar o trabalho. Lembre-se, é muito mais fácil aprender com outros alunos do que apenas com os manuais de cada programa. Peça ajuda, principalmente com as análises, que podem gerar resultados errados e atrapalhar toda sua pesquisa.</p>
 <section id="bioedit" class="level2" data-number="11.1">
 <h2 data-number="11.1" class="anchored" data-anchor-id="bioedit"><span class="header-section-number">11.1</span> BioEdit</h2>
 <p><strong>Útil para: <span style="background-color: #f1f1f1; color: #e31a1c;">Edição</span></strong></p>
@@ -268,12 +275,18 @@ Aviso
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Atualmente o MEGA está na versão <strong>10</strong>, mas contém um ou outro bug que pode atrapalhar bastante. O MEGA <strong>7</strong> possui quase todas as ferramentas que precisamos e é mais estável. Recomendamos usar essa versão.</p>
+<p>Atualmente o MEGA está na versão <strong>11</strong>, mas contém um ou outro bug que pode atrapalhar bastante. O MEGA <strong>7</strong> possui quase todas as ferramentas que precisamos e é mais estável. Recomendamos usar essa versão para coisas básicas.</p>
 </div>
 </div>
 <p>Usos</p>
 <p><strong>Prós</strong></p>
+<ul>
+<li>É simples e fácil de aprender.</li>
+</ul>
 <p><strong>Contras</strong></p>
+<ul>
+<li>Roda no computador e algumas análises (como árvores ML) podem ser bem demoradas.</li>
+</ul>
 </section>
 <section id="iqtree" class="level2" data-number="11.3">
 <h2 data-number="11.3" class="anchored" data-anchor-id="iqtree"><span class="header-section-number">11.3</span> IQTree</h2>
@@ -298,25 +311,34 @@ Aviso
 <section id="raxml" class="level2" data-number="11.5">
 <h2 data-number="11.5" class="anchored" data-anchor-id="raxml"><span class="header-section-number">11.5</span> RAxML</h2>
 <p><strong>Útil para: <span style="background-color: #f1f1f1; color: #238b45;">Árvore</span></strong></p>
-<p><strong>Link: <a href="">https://raxml-ng.vital-it.ch</a></strong></p>
-<p>Usos</p>
+<p><strong>Link: <a href="https://raxml-ng.vital-it.ch" class="uri">https://raxml-ng.vital-it.ch</a></strong></p>
+<p>RAxML (Randomized Axelerated Maximum Likelihood) é um software de análise filogenética utilizado para inferir árvores filogenéticas a partir de sequências de DNA, RNA ou proteínas. Ele é especialmente útil para análises com grandes conjuntos de dados, pois é capaz de processar grandes quantidades de dados de maneira rápida e eficiente.</p>
+<p>O RAxML possui vários métodos de inferência de árvores filogenéticas, como o método de máxima verossimilhança (ML) e o método de Bayesiano. Ele também permite a realização de análises bootstrap, que são usadas para avaliar a confiabilidade das árvores filogenéticas inferidas.</p>
 <p><strong>Prós</strong></p>
+<ul>
+<li><p>Fácil uso;</p></li>
+<li><p>Não requer uso de memória do computador, ele roda em servidor.</p></li>
+</ul>
 <p><strong>Contras</strong></p>
+<ul>
+<li>Tem um limite de bootstrap de 100</li>
+</ul>
 </section>
 <section id="phyml" class="level2" data-number="11.6">
 <h2 data-number="11.6" class="anchored" data-anchor-id="phyml"><span class="header-section-number">11.6</span> PhyML</h2>
 <p><strong>Útil para: <span style="background-color: #f1f1f1; color: #ae017e;">Modelo</span> / <span style="background-color: #f1f1f1; color: #238b45;">Árvore</span></strong></p>
-<p><strong>Link: <a href="">http://www.atgc-montpellier.fr/phyml/</a></strong></p>
-<p>Phylogenetic Maximum Likelihood (PhyML) é um servidor online para gerar inferências filogenéticas pelo método de máxima verossimilhança. O servidor é intuitivo, portanto, de fácil uso. Para gerar uma árvore filogenética no PhyML, é preciso fornecer um arquivo de alinhamento no formato PHYLIP (é possível exportar alinhamentos neste formato na versão do MEGA 10). Após o término das análises, o PhyML fornece um arquivo zip que contém, além da árvore, outros relatórios estatísticos (como a lista dos modelos evolutivos, por exemplo)</p>
+<p><strong>Link: <a href="http://www.atgc-montpellier.fr/phyml/" class="uri">http://www.atgc-montpellier.fr/phyml/</a></strong></p>
+<p>Phylogenetic Maximum Likelihood (PhyML) é um servidor online para gerar inferências filogenéticas pelo método de máxima verossimilhança. O servidor é intuitivo, portanto, de fácil uso. Para gerar uma árvore filogenética no PhyML, é preciso fornecer um arquivo de alinhamento no formato PHYLIP (é possível exportar alinhamentos neste formato na versão do MEGA <strong>10</strong>). Após o término das análises, o PhyML fornece um arquivo zip que contém, além da árvore, outros relatórios estatísticos (como a lista dos modelos evolutivos, por exemplo)</p>
 <p><strong>Prós:</strong></p>
 <ul>
 <li><p>Fácil uso;</p></li>
 <li><p>Permite realizar várias customizações nos parâmetros estatísticos que não são possíveis de personalizar em outros softwares, como o MEGA;</p></li>
+<li><p>Possui bootstrap de 1000;</p></li>
 <li><p>Não requer uso de memória do computador, ele roda em servidor.</p></li>
 </ul>
 <p><strong>Contras:</strong></p>
 <ul>
-<li><p>Utiliza o formato PHYLIP, diferente de outros que utilizam FASTA, por isso é possível que o usuário tenha que formatar os terminais da árvore, um trabalho manual desgastante. Recomendamos o uso do pacote <a href="./softwares.html#pacote-nupgen-r">nupgen</a> no R para corrigir este problema;</p></li>
+<li><p>Utiliza o formato PHYLIP, diferente de outros que utilizam FASTA, por isso é possível que o usuário tenha que formatar os terminais da árvore, um trabalho manual desgastante. Recomendamos o uso do pacote <a href="./pacotes-r.html#pacote-nupgen-r">nupgen</a> no R para corrigir este problema;</p></li>
 <li><p>As análises demoram em média 8 horas (podendo variar de acordo com a quantidade de sequências). Por isso, preste atenção antes de rodar as análises.</p></li>
 </ul>
 </section>
@@ -327,29 +349,45 @@ Aviso
 <section id="delimitadores-de-espécies" class="level2" data-number="11.8">
 <h2 data-number="11.8" class="anchored" data-anchor-id="delimitadores-de-espécies"><span class="header-section-number">11.8</span> Delimitadores de espécies</h2>
 <p><strong>Útil para: <span style="background-color: #f1f1f1; color: #000000;">Delim. Espécies</span></strong></p>
-<p>Texto texto</p>
+<p>Análises de delimitação de espécies são utilizadas para determinar os limites entre espécies e definir a diversidade de espécies em um determinado grupo. Elas são muito importantes em biologia evolutiva e conservação de espécies, pois permitem o entendimento da distribuição de espécies e como elas se relacionam entre si.</p>
+<p>Existem várias abordagens para realizar análises de delimitação de espécies, como análises de distância genética, análises de diferenças genéticas e análises filogenéticas. Cada método tem suas próprias vantagens e desvantagens, e o método ideal dependerá da aplicação específica. Além disso, é importante lembrar que a delimitação de espécies é um campo em constante evolução e novas abordagens são desenvolvidas constantemente.</p>
 <p>Como estes são métodos complementares, serão apresentados em conjunto.</p>
 <section id="ptp" class="level3" data-number="11.8.1">
 <h3 data-number="11.8.1" class="anchored" data-anchor-id="ptp"><span class="header-section-number">11.8.1</span> PTP</h3>
-<p><strong>Link: <a href="">https://species.h-its.org/ptp/</a></strong></p>
+<p><strong>Link: <a href="https://species.h-its.org/ptp/" class="uri">https://species.h-its.org/ptp/</a></strong></p>
 <p>texto</p>
-<p>O arquivo gerado pode ser convertido em tabela utilizando o pacote <a href="./softwares.html#pacote-nupgen-r">nupgen</a>.</p>
+<p>O arquivo gerado pode ser convertido em tabela utilizando o pacote <a href="./pacotes-r.html#pacote-nupgen-r">nupgen</a>.</p>
 </section>
 <section id="abgd" class="level3" data-number="11.8.2">
 <h3 data-number="11.8.2" class="anchored" data-anchor-id="abgd"><span class="header-section-number">11.8.2</span> ABGD</h3>
-<p><strong>Link: <a href="">https://bioinfo.mnhn.fr/abi/public/abgd/abgdweb.html</a></strong></p>
+<p><strong>Link: <a href="https://bioinfo.mnhn.fr/abi/public/abgd/abgdweb.html" class="uri">https://bioinfo.mnhn.fr/abi/public/abgd/abgdweb.html</a></strong></p>
+<p><strong>Artigo:</strong> <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05239.x"><strong>https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05239.x</strong></a></p>
 <p>texto</p>
+<div class="callout-important callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Importante
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>“The <strong>ASAP</strong> analysis uses pairwise genetic distance to automatically find the barcode gap to divide the dataset into a list of several partitions ranked by a score. This new algorithm overcomes the limitations of its predecessor, <strong>ABGD</strong> (<a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05239.x">Puillandre et al., 2012</a>), by selecting the best partition using the ‘ASAP score’ calculated by the probabilities of groups to be panmictic species and the barcode gap widths.” (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9487">Mendoza-Ramírez et al., 2022</a>)</p>
+</div>
+</div>
 </section>
 <section id="asap" class="level3" data-number="11.8.3">
 <h3 data-number="11.8.3" class="anchored" data-anchor-id="asap"><span class="header-section-number">11.8.3</span> ASAP</h3>
-<p><strong>Link: <a href="">https://bioinfo.mnhn.fr/abi/public/asap/</a></strong></p>
+<p><strong>Link: <a href="https://bioinfo.mnhn.fr/abi/public/asap/" class="uri">https://bioinfo.mnhn.fr/abi/public/asap/</a></strong></p>
+<p><strong>Artigo: <a href="https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13281" class="uri">https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13281</a></strong></p>
 <p>texto</p>
 </section>
 <section id="gmyc" class="level3" data-number="11.8.4">
 <h3 data-number="11.8.4" class="anchored" data-anchor-id="gmyc"><span class="header-section-number">11.8.4</span> GMYC</h3>
-<p><strong>Link: <a href="">https://species.h-its.org/gmyc/</a></strong></p>
+<p><strong>Link: <a href="https://species.h-its.org/gmyc/" class="uri">https://species.h-its.org/gmyc/</a></strong></p>
 <p>texto</p>
-<p>Os resultados são gerados utilizando um servidor que apenas roda um código em R na nuvem. Como o site não permite mais baixar os resultados em forma de tabela, fizemos um aplicativo em Shiny para uso interno que permite isso: <a href="">https://brunomioto.shinyapps.io/shiny_gmyc/</a></p>
+<p>Os resultados são gerados utilizando um servidor que apenas roda um código em R na nuvem. Como o site não permite mais baixar os resultados em forma de tabela, fizemos um aplicativo em Shiny para uso interno que permite isso: <a href="https://brunomioto.shinyapps.io/shiny_gmyc/" class="uri">https://brunomioto.shinyapps.io/shiny_gmyc/</a></p>
 </section>
 </section>
 <section id="figtree" class="level2" data-number="11.9">
@@ -363,33 +401,16 @@ Aviso
 <section id="itol" class="level2" data-number="11.10">
 <h2 data-number="11.10" class="anchored" data-anchor-id="itol"><span class="header-section-number">11.10</span> iTOL</h2>
 <p><strong>Útil para: <span style="background-color: #f1f1f1; color: #238b45;">Árvore - Edição</span></strong></p>
-<p><strong>Link: <a href="">https://itol.embl.de/</a></strong></p>
+<p><strong>Link: <a href="https://itol.embl.de/" class="uri">https://itol.embl.de/</a></strong></p>
 <p><strong>Prós</strong></p>
 <p><strong>Contras</strong></p>
 </section>
 <section id="popart" class="level2" data-number="11.11">
 <h2 data-number="11.11" class="anchored" data-anchor-id="popart"><span class="header-section-number">11.11</span> PopArt</h2>
 <p><strong>Útil para: <span style="background-color: #f1f1f1; color: #2171b5;">Haplótipos</span> / <span style="background-color: #f1f1f1; color: #238b45;">Árvore - Edição</span></strong></p>
+<p>A capacidade de análise de milhões de regiões de sequência de DNA em uma só vez é exigida em diversas disciplinas, tais como genômica populacional e ecologia molecular. Para tanto, o DnaSP, derivado do inglês “DNA Sequence Polymorphism” (Polimorfismo de Sequência de DNA) é uma ferramenta bioinformática concebida para a análise abrangente da variação dos dados da sequência de DNA, utilizando uma interface gráfica de utilizador de fácil uso. A versão 6 do software apresenta um PDF disponível para consulta disponibilizado no próprio site e pode ser acessado pelo link: <a href="http://www.ub.edu/dnasp/DnaSP6_Documentation_6.12.pdf" class="uri">http://www.ub.edu/dnasp/DnaSP6_Documentation_6.12.pdf</a>.</p>
+<p>O programa permite a caracterização detalhada dos níveis e padrões de variação da sequência de DNA em diferentes escalas de tempo, utilizando variantes polimórficas (dados intra-específicos), dados de divergência (dados interespecíficos ou interpopulação), ou uma combinação de ambos. É possível calcular diversidade haplotípica, nucleotídica, bem como a quantidade distintas de haplótipos (quando analisadas duas ou mais sequências de DNA).</p>
 <hr>
-</section>
-<section id="pacote-nupgen-r" class="level2" data-number="11.12">
-<h2 data-number="11.12" class="anchored" data-anchor-id="pacote-nupgen-r"><span class="header-section-number">11.12</span> Pacote nupgen (R)</h2>
-<p><strong>Link: <a href="">https://brunomioto.github.io/nupgen/</a></strong></p>
-<p>Este é um pacote em R criado com algumas funções internas do nosso laboratório, são elas:</p>
-<ul>
-<li><p>Renomear arquivos <a href="./softwares.html#phyml">PHYLIP</a> com <code>label_phy()</code></p></li>
-<li><p>Obter informações de sequências do <a href="./bancos-geneticos.html#genbank">GenBank</a> com <code>info_genbank()</code></p>
-<p>As informações buscadas são:</p>
-<ul>
-<li><p>Código do GenBank</p></li>
-<li><p>Nome do organismo</p></li>
-<li><p>País de origem (pode conter mais informações)</p></li>
-<li><p>Latitude</p></li>
-<li><p>Longitude</p></li>
-<li><p>Gene</p></li>
-</ul></li>
-<li><p>Formatar resultados da <a href="./softwares.html#delimitadores-de-especies">Delimitação de Espécies</a> do PTP (ou bPTP) com <code>ptp_results()</code></p></li>
-</ul>
 
 
 </section>
@@ -526,6 +547,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 <nav class="page-navigation">
@@ -535,8 +572,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./edicao-sequencias.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Edição de sequências</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./pacotes-r.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Pacotes R</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

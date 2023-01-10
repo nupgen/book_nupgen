@@ -174,12 +174,17 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./edicao-sequencias.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Edição de sequências</span></a>
+  <a href="./pacotes-r.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Pacotes R</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./alinhamento.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Alinhamento</span></a>
+  <a href="./edicao-sequencias.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Edição de sequências</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./alinhamento.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Alinhamento</span></a>
   </div>
 </li>
       </ul>
@@ -216,6 +221,67 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>Depois de realizada a purificação, o fragmento purificado pode ser sequenciado. O sequenciamento de DNA consiste no processo de determinação da sequência de nucleotídeos (<strong>A, T, C e G</strong>) em um fragmento de DNA. A informação contida nessas sequências de nucleotídeos possibilita diversos tipos de aplicações, como, por exemplo, identificar o organismo ao qual pertence uma amostra, diagnosticar uma doença genética, aplicar em estudos de filogenia e diversidade genética, entre outros.</p>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Aprendendo
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Existem vários métodos para o sequenciamento do DNA, tais como:</p>
+<ul>
+<li><p>O método enzimático (<strong>1ª Geração</strong>) de Frederik Sanger (1980);</p></li>
+<li><p>O método de pirosequenciamento (<strong>2ª Geração</strong>) de Mostafa Ronaghi (1996);</p></li>
+<li><p>O de <strong>3ª Geração</strong>, Single Molecule Real Time (SMRT) - DNA Sequencing;</p></li>
+<li><p>Métodos mais modernos conhecidos como <strong>Sequenciamento de Nova Geração (NGS)</strong>.</p></li>
+</ul>
+</div>
+</div>
+<p>A técnica desenvolvida por Sanger e colaboradores possibilitou a determinação da sequência nucleotídica e se tornou mais acessível devido aos avanços recentes na fabricação de equipamentos automatizados. Além disso, é um dos métodos mais utilizados (inclusive nos trabalhos do Nupgen) e consiste na adição de um reagente único: <strong>os didesoxirribonucleotídeos trifosfatados (ddNTPs)</strong>. É realizada uma reação de sequenciamento, contendo os mesmos reagentes utilizados na <a href="./amplificacao.html">Reação em Cadeia da Polimerase</a>, com a presença dos ddNTPS, ou seja, terminadores de cadeia para os quatro nucleotídeos (<strong>ddATP, ddTTP, ddCTP, ddGTP</strong>), cada um deles marcado com um corante fluorescente de cores diferentes.</p>
+<p><img src="figures/ddNTPs.jpg" class="img-fluid"></p>
+<p>A variação no tamanho dos fragmentos acontece por essa adição de nucleotídeos modificados (ddNTPs) juntamente com nucleotídeos normais (dNTPs). Os ddNTPS não possuem o radical hidroxila (OH) no carbono 3’ da ribose, então ao serem incorporados na fita que está sendo sintetizada, haverá a interrupção dessa síntese. É uma adição aleatória e produzirá fragmentos terminados em cada uma das posições dos nucleotídeos da sequência de DNA que se deseja analisar. Dessa maneira, o método de Sanger consiste na produção de fragmentos de DNA com tamanhos que diferem em um nucleotídeo, utilizando como molde uma fita simples de DNA.</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="figures/Seq1.jpg" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="figures/Seq2.jpg" class="img-fluid"></p>
+</div>
+</div>
+</div>
+<p>Os equipamentos automatizados utilizados hoje em dia para o sequenciamento possuem capilares extremamente finos que por meio da migração por eletroforese capilar, irão alinhar os fragmentos com base em seu tamanho (do menor para o maior), detectando por um feixe de laser a marcação de cada um dos quatro ddNTPs com a molécula fluorescente. Isso permite identificar qual foi o nucleotídeo adicionado em cada posição terminal dos fragmentos, construindo a sequência da molécula de DNA alvo dos estudos. Essa técnica é geralmente utilizada para o sequenciamento de moléculas com aproximadamente 100 e 1000 pb. Como resultado do sequenciamento, são obtidos os <strong>eletroferogramas</strong>, que apresentam picos representando cada um dos nucleotídeos e consequentemente a sequência do fragmento de interesse.</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/eletroferograma.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Eletroferograma</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="callout-note callout callout-style-simple callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Como fazemos
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Atualmente, o Nupgen envia as amostras para o sequenciamento para a empresa ACTGene Análises Moleculares LTDA que utilizada o sequenciador automatizado Applied Biosystems® AB 3500 Genetic Analyzer (sequenciamento de Sanger). Essa empresa é do Rio Grande do Sul, então as amostras são preparadas e devidamente acondicionadas para serem enviadas pelos correios.</p>
+<p>Site da ACTGene: <a href="https://actgene.com.br/" class="uri">https://actgene.com.br/</a></p>
+<p>Informações sobre envio/preparo das amostras: <a href="https://actgene.com.br/wp-content/uploads/2022/06/ACTGene_Guia-preparo-de-amostras.pdf" class="uri">https://actgene.com.br/wp-content/uploads/2022/06/ACTGene_Guia-preparo-de-amostras.pdf</a></p>
+</div>
+</div>
 
 
 
@@ -351,6 +417,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 <nav class="page-navigation">

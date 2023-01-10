@@ -173,12 +173,17 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./edicao-sequencias.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Edição de sequências</span></a>
+  <a href="./pacotes-r.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Pacotes R</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./alinhamento.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Alinhamento</span></a>
+  <a href="./edicao-sequencias.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Edição de sequências</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./alinhamento.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Alinhamento</span></a>
   </div>
 </li>
       </ul>
@@ -227,8 +232,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Este é o livro online do <strong>Nupgen</strong>, o <strong>Laboratório de Genética Molecular do Nupélia (DBC/Nupélia)</strong>. Aqui você poderá encontrar textos explicativos sobre nossa linha de pesquisa, as metodologias utilizadas em nosso laboratório, bem como os protocolos atualizados. Este é um material introdutório destinado principalmente aos alunos do laboratório e pode servir como guia para as tarefas mais técnicas. Esperamos que ele funcione como um Procedimento Operacional Padrão (POP) em nosso laboratório, mantendo as equipes alinhadas, elevando a produtividade e evitando o desperdício de recursos dentro do laboratório. Este livro não precisa ser lido de forma sequencial e cada capítulo é independente de outros, no entanto, organizamos os capítulos seguindo a lógica de trabalho no laboratório para tornar a leitura mais fluida.</p>
 <p>O objetivo deste livro não é substituir a colaboração entre alunos do laboratório, mas sim garantir que pequenos detalhes não sejam perdidos com o passar do tempo. Na verdade, esperamos que os tópicos deste livro sejam exaustivamente discutidos entre os alunos, a fim de melhorar este conteúdo e gerar novas perguntas que ajudem no desenvolvimento da pesquisa.</p>
 <p>Este livro foi escrito em <a href="https://quarto.org/">Quarto</a>.</p>
-<p>Organização: Bruno Mioto</p>
-<p>Autores: Adrian Silva, Bruno Mioto, Eloisa de Páris e Mayara Passere</p>
+<p><strong>Organização: Bruno Mioto</strong></p>
+<p><strong>Autores: Adrian Silva, Bárbara Scorsim, Bruno Mioto, Eloisa de Páris e Mayara Passere</strong></p>
 
 
 </section>
@@ -365,6 +370,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 <nav class="page-navigation">
