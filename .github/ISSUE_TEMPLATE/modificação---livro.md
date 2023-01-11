@@ -11,6 +11,10 @@ assignees: brunomioto
 Escreva qual capítulo você gostaria de alterar
 
 **Selecione o que você gostaria de fazer**
-- [ ] Adicionar texto
+- [X] Adicionar texto
 - [ ] Adicionar figura
 - [ ] Corrigir texto
+- [ ] Adicionar fontes
+
+**Adicione o máximo de detalhes possível**
+Explique a motivação da alteração, fontes de informação, etc
