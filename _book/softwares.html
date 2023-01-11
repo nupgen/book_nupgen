@@ -85,6 +85,9 @@ ul.task-list li input[type="checkbox"] {
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Laboratório de Genética Molecular - Nupgen - DBC/Nupélia</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/nupgen/book_nupgen" title="Source Code" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+</div>
     </div>
       </div>
       <div class="mt-2 flex-shrink-0 align-items-center">
@@ -212,16 +215,16 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#dnasp" id="toc-dnasp" class="nav-link" data-scroll-target="#dnasp"><span class="toc-section-number">11.7</span>  DNAsp</a></li>
   <li><a href="#delimitadores-de-espécies" id="toc-delimitadores-de-espécies" class="nav-link" data-scroll-target="#delimitadores-de-espécies"><span class="toc-section-number">11.8</span>  Delimitadores de espécies</a>
   <ul class="collapse">
-  <li><a href="#ptp" id="toc-ptp" class="nav-link" data-scroll-target="#ptp"><span class="toc-section-number">11.8.1</span>  PTP</a></li>
-  <li><a href="#abgd" id="toc-abgd" class="nav-link" data-scroll-target="#abgd"><span class="toc-section-number">11.8.2</span>  ABGD</a></li>
-  <li><a href="#asap" id="toc-asap" class="nav-link" data-scroll-target="#asap"><span class="toc-section-number">11.8.3</span>  ASAP</a></li>
-  <li><a href="#gmyc" id="toc-gmyc" class="nav-link" data-scroll-target="#gmyc"><span class="toc-section-number">11.8.4</span>  GMYC</a></li>
+  <li><a href="#ptp" id="toc-ptp" class="nav-link" data-scroll-target="#ptp">PTP</a></li>
+  <li><a href="#abgd" id="toc-abgd" class="nav-link" data-scroll-target="#abgd">ABGD</a></li>
+  <li><a href="#asap" id="toc-asap" class="nav-link" data-scroll-target="#asap">ASAP</a></li>
+  <li><a href="#gmyc" id="toc-gmyc" class="nav-link" data-scroll-target="#gmyc">GMYC</a></li>
   </ul></li>
   <li><a href="#figtree" id="toc-figtree" class="nav-link" data-scroll-target="#figtree"><span class="toc-section-number">11.9</span>  FigTree</a></li>
   <li><a href="#itol" id="toc-itol" class="nav-link" data-scroll-target="#itol"><span class="toc-section-number">11.10</span>  iTOL</a></li>
   <li><a href="#popart" id="toc-popart" class="nav-link" data-scroll-target="#popart"><span class="toc-section-number">11.11</span>  PopArt</a></li>
   </ul>
-</nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/nupgen/book_nupgen/issues/new" class="toc-action">Sugerir modificação</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -248,6 +251,7 @@ ul.task-list li input[type="checkbox"] {
 <p>A seguir vamos apresentar os principais softwares utilizados, bem como algumas dicas que podem facilitar o trabalho. Lembre-se, é muito mais fácil aprender com outros alunos do que apenas com os manuais de cada programa. Peça ajuda, principalmente com as análises, que podem gerar resultados errados e atrapalhar toda sua pesquisa.</p>
 <section id="bioedit" class="level2" data-number="11.1">
 <h2 data-number="11.1" class="anchored" data-anchor-id="bioedit"><span class="header-section-number">11.1</span> BioEdit</h2>
+<p><img src="./figures/bioedit.png" align="right" height="138"></p>
 <p><strong>Útil para: <span style="background-color: #f1f1f1; color: #e31a1c;">Edição</span></strong></p>
 <p>BioEdit é um editor de sequências de DNA e proteínas muito utilizado na genética molecular. Ele é especialmente útil na visualização de eletroferogramas, que são gráficos gerados por sequenciadores de DNA que mostram a sequência de base de uma amostra de DNA.</p>
 <p>O BioEdit permite a visualização de eletroferogramas de maneira fácil e rápida, além de fornecer uma ampla gama de ferramentas para análise de sequências, como alinhamento de sequências, análise de substituição de nucleotídeos e proteínas, e muito mais. Ele também possui uma interface intuitiva e é compatível com Windows, MacOS e Linux.</p>
@@ -290,6 +294,7 @@ Aviso
 </section>
 <section id="iqtree" class="level2" data-number="11.3">
 <h2 data-number="11.3" class="anchored" data-anchor-id="iqtree"><span class="header-section-number">11.3</span> IQTree</h2>
+<p><img src="./figures/iqtree.png" align="right" height="138"></p>
 <p><strong>Útil para: <span style="background-color: #f1f1f1; color: #ae017e;">Modelo</span> / <span style="background-color: #f1f1f1; color: #238b45;">Árvore</span></strong></p>
 <p>Usos</p>
 <p><strong>Prós</strong></p>
@@ -344,7 +349,10 @@ Aviso
 </section>
 <section id="dnasp" class="level2" data-number="11.7">
 <h2 data-number="11.7" class="anchored" data-anchor-id="dnasp"><span class="header-section-number">11.7</span> DNAsp</h2>
+<p><img src="./figures/DnaSP.png" align="right" height="138"></p>
 <p><strong>Útil para: <span style="background-color: #f1f1f1; color: #2171b5;">Haplótipos</span></strong></p>
+<p>A capacidade de análise de milhões de regiões de sequência de DNA em uma só vez é exigida em diversas disciplinas, tais como genômica populacional e ecologia molecular. Para tanto, o DnaSP, derivado do inglês “DNA Sequence Polymorphism” (Polimorfismo de Sequência de DNA) é uma ferramenta bioinformática concebida para a análise abrangente da variação dos dados da sequência de DNA, utilizando uma interface gráfica de utilizador de fácil uso. A versão 6 do software apresenta um PDF disponível para consulta disponibilizado no próprio site e pode ser acessado pelo link: <a href="http://www.ub.edu/dnasp/DnaSP6_Documentation_6.12.pdf" class="uri">http://www.ub.edu/dnasp/DnaSP6_Documentation_6.12.pdf</a>.</p>
+<p>O programa permite a caracterização detalhada dos níveis e padrões de variação da sequência de DNA em diferentes escalas de tempo, utilizando variantes polimórficas (dados intra-específicos), dados de divergência (dados interespecíficos ou interpopulação), ou uma combinação de ambos. É possível calcular diversidade haplotípica, nucleotídica, bem como a quantidade distintas de haplótipos (quando analisadas duas ou mais sequências de DNA).</p>
 </section>
 <section id="delimitadores-de-espécies" class="level2" data-number="11.8">
 <h2 data-number="11.8" class="anchored" data-anchor-id="delimitadores-de-espécies"><span class="header-section-number">11.8</span> Delimitadores de espécies</h2>
@@ -352,14 +360,14 @@ Aviso
 <p>Análises de delimitação de espécies são utilizadas para determinar os limites entre espécies e definir a diversidade de espécies em um determinado grupo. Elas são muito importantes em biologia evolutiva e conservação de espécies, pois permitem o entendimento da distribuição de espécies e como elas se relacionam entre si.</p>
 <p>Existem várias abordagens para realizar análises de delimitação de espécies, como análises de distância genética, análises de diferenças genéticas e análises filogenéticas. Cada método tem suas próprias vantagens e desvantagens, e o método ideal dependerá da aplicação específica. Além disso, é importante lembrar que a delimitação de espécies é um campo em constante evolução e novas abordagens são desenvolvidas constantemente.</p>
 <p>Como estes são métodos complementares, serão apresentados em conjunto.</p>
-<section id="ptp" class="level3" data-number="11.8.1">
-<h3 data-number="11.8.1" class="anchored" data-anchor-id="ptp"><span class="header-section-number">11.8.1</span> PTP</h3>
+<section id="ptp" class="level3">
+<h3 class="anchored" data-anchor-id="ptp">PTP</h3>
 <p><strong>Link: <a href="https://species.h-its.org/ptp/" class="uri">https://species.h-its.org/ptp/</a></strong></p>
 <p>texto</p>
 <p>O arquivo gerado pode ser convertido em tabela utilizando o pacote <a href="./pacotes-r.html#pacote-nupgen-r">nupgen</a>.</p>
 </section>
-<section id="abgd" class="level3" data-number="11.8.2">
-<h3 data-number="11.8.2" class="anchored" data-anchor-id="abgd"><span class="header-section-number">11.8.2</span> ABGD</h3>
+<section id="abgd" class="level3">
+<h3 class="anchored" data-anchor-id="abgd">ABGD</h3>
 <p><strong>Link: <a href="https://bioinfo.mnhn.fr/abi/public/abgd/abgdweb.html" class="uri">https://bioinfo.mnhn.fr/abi/public/abgd/abgdweb.html</a></strong></p>
 <p><strong>Artigo:</strong> <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05239.x"><strong>https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05239.x</strong></a></p>
 <p>texto</p>
@@ -377,14 +385,14 @@ Importante
 </div>
 </div>
 </section>
-<section id="asap" class="level3" data-number="11.8.3">
-<h3 data-number="11.8.3" class="anchored" data-anchor-id="asap"><span class="header-section-number">11.8.3</span> ASAP</h3>
+<section id="asap" class="level3">
+<h3 class="anchored" data-anchor-id="asap">ASAP</h3>
 <p><strong>Link: <a href="https://bioinfo.mnhn.fr/abi/public/asap/" class="uri">https://bioinfo.mnhn.fr/abi/public/asap/</a></strong></p>
 <p><strong>Artigo: <a href="https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13281" class="uri">https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13281</a></strong></p>
 <p>texto</p>
 </section>
-<section id="gmyc" class="level3" data-number="11.8.4">
-<h3 data-number="11.8.4" class="anchored" data-anchor-id="gmyc"><span class="header-section-number">11.8.4</span> GMYC</h3>
+<section id="gmyc" class="level3">
+<h3 class="anchored" data-anchor-id="gmyc">GMYC</h3>
 <p><strong>Link: <a href="https://species.h-its.org/gmyc/" class="uri">https://species.h-its.org/gmyc/</a></strong></p>
 <p>texto</p>
 <p>Os resultados são gerados utilizando um servidor que apenas roda um código em R na nuvem. Como o site não permite mais baixar os resultados em forma de tabela, fizemos um aplicativo em Shiny para uso interno que permite isso: <a href="https://brunomioto.shinyapps.io/shiny_gmyc/" class="uri">https://brunomioto.shinyapps.io/shiny_gmyc/</a></p>
@@ -392,6 +400,7 @@ Importante
 </section>
 <section id="figtree" class="level2" data-number="11.9">
 <h2 data-number="11.9" class="anchored" data-anchor-id="figtree"><span class="header-section-number">11.9</span> FigTree</h2>
+<p><img src="./figures/figtree.png" align="right" height="138"></p>
 <p><strong>Útil para: <span style="background-color: #f1f1f1; color: #238b45;">Árvore - Edição</span></strong></p>
 <p>FigTree é um software de visualização de árvores filogenéticas utilizado para exibir árvores inferidas a partir de sequências de DNA, RNA ou proteínas. Ele é compatível com Windows, MacOS e Linux e permite a visualização de árvores filogenéticas de maneira clara e intuitiva, tornando mais fácil a interpretação dos resultados.</p>
 <p>O FigTree possui uma ampla gama de recursos de visualização, como opções de estilo de linha, rótulos de nós, legendas e muito mais. Ele também permite a exportação de árvores para vários formatos, incluindo imagens, PDF e arquivos Newick. Além disso, o FigTree possui uma interface intuitiva e é fácil de usar, mesmo para usuários sem experiência prévia em análises filogenéticas.</p>
@@ -400,6 +409,7 @@ Importante
 </section>
 <section id="itol" class="level2" data-number="11.10">
 <h2 data-number="11.10" class="anchored" data-anchor-id="itol"><span class="header-section-number">11.10</span> iTOL</h2>
+<p><img src="./figures/itol.png" align="right" height="138"></p>
 <p><strong>Útil para: <span style="background-color: #f1f1f1; color: #238b45;">Árvore - Edição</span></strong></p>
 <p><strong>Link: <a href="https://itol.embl.de/" class="uri">https://itol.embl.de/</a></strong></p>
 <p><strong>Prós</strong></p>
@@ -407,9 +417,8 @@ Importante
 </section>
 <section id="popart" class="level2" data-number="11.11">
 <h2 data-number="11.11" class="anchored" data-anchor-id="popart"><span class="header-section-number">11.11</span> PopArt</h2>
+<p><img src="./figures/popart.png" align="right" height="138"></p>
 <p><strong>Útil para: <span style="background-color: #f1f1f1; color: #2171b5;">Haplótipos</span> / <span style="background-color: #f1f1f1; color: #238b45;">Árvore - Edição</span></strong></p>
-<p>A capacidade de análise de milhões de regiões de sequência de DNA em uma só vez é exigida em diversas disciplinas, tais como genômica populacional e ecologia molecular. Para tanto, o DnaSP, derivado do inglês “DNA Sequence Polymorphism” (Polimorfismo de Sequência de DNA) é uma ferramenta bioinformática concebida para a análise abrangente da variação dos dados da sequência de DNA, utilizando uma interface gráfica de utilizador de fácil uso. A versão 6 do software apresenta um PDF disponível para consulta disponibilizado no próprio site e pode ser acessado pelo link: <a href="http://www.ub.edu/dnasp/DnaSP6_Documentation_6.12.pdf" class="uri">http://www.ub.edu/dnasp/DnaSP6_Documentation_6.12.pdf</a>.</p>
-<p>O programa permite a caracterização detalhada dos níveis e padrões de variação da sequência de DNA em diferentes escalas de tempo, utilizando variantes polimórficas (dados intra-específicos), dados de divergência (dados interespecíficos ou interpopulação), ou uma combinação de ambos. É possível calcular diversidade haplotípica, nucleotídica, bem como a quantidade distintas de haplótipos (quando analisadas duas ou mais sequências de DNA).</p>
 <hr>
 
 

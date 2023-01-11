@@ -2,13 +2,18 @@ project:
   type: book
 
 lang: "pt-BR"
+language:
+  pt:
+    repo-action-links-issue: "Sugerir modificação"
 
 book:
   title: "Laboratório de Genética Molecular - Nupgen - DBC/Nupélia"
   cover-image: cover.png
   favicon: favicon.png
   output-file: "book-nupgen"
+  repo-url: https://github.com/nupgen/book_nupgen
   repo-actions: [issue]
+  #sidebar: 
   chapters:
     - index.qmd
     - lab.qmd
@@ -39,6 +44,7 @@ execute:
 format:
   html:
     toc: true
+    number-depth: 2
     theme: 
       - cosmo
       - book_nupgen.scss

@@ -8,6 +8,8 @@ A seguir vamos apresentar os principais softwares utilizados, bem como algumas d
 
 ## BioEdit
 
+<img src="/figures/bioedit.png" align="right" height="138"/>
+
 **Útil para: [Edição]{style="background-color: #f1f1f1; color: #e31a1c;"}**
 
 BioEdit é um editor de sequências de DNA e proteínas muito utilizado na genética molecular. Ele é especialmente útil na visualização de eletroferogramas, que são gráficos gerados por sequenciadores de DNA que mostram a sequência de base de uma amostra de DNA.
@@ -49,6 +51,8 @@ Usos
 -   Roda no computador e algumas análises (como árvores ML) podem ser bem demoradas.
 
 ## IQTree
+
+<img src="/figures/iqtree.png" align="right" height="138"/>
 
 **Útil para: [Modelo]{style="background-color: #f1f1f1; color: #ae017e;"} / [Árvore]{style="background-color: #f1f1f1; color: #238b45;"}**
 
@@ -118,7 +122,13 @@ Phylogenetic Maximum Likelihood (PhyML) é um servidor online para gerar inferê
 
 ## DNAsp
 
+<img src="/figures/DnaSP.png" align="right" height="138"/>
+
 **Útil para: [Haplótipos]{style="background-color: #f1f1f1; color: #2171b5;"}**
+
+A capacidade de análise de milhões de regiões de sequência de DNA em uma só vez é exigida em diversas disciplinas, tais como genômica populacional e ecologia molecular. Para tanto, o DnaSP, derivado do inglês "DNA Sequence Polymorphism" (Polimorfismo de Sequência de DNA) é uma ferramenta bioinformática concebida para a análise abrangente da variação dos dados da sequência de DNA, utilizando uma interface gráfica de utilizador de fácil uso. A versão 6 do software apresenta um PDF disponível para consulta disponibilizado no próprio site e pode ser acessado pelo link: <http://www.ub.edu/dnasp/DnaSP6_Documentation_6.12.pdf>.
+
+O programa permite a caracterização detalhada dos níveis e padrões de variação da sequência de DNA em diferentes escalas de tempo, utilizando variantes polimórficas (dados intra-específicos), dados de divergência (dados interespecíficos ou interpopulação), ou uma combinação de ambos. É possível calcular diversidade haplotípica, nucleotídica, bem como a quantidade distintas de haplótipos (quando analisadas duas ou mais sequências de DNA).
 
 ## Delimitadores de espécies
 
@@ -168,6 +178,8 @@ Os resultados são gerados utilizando um servidor que apenas roda um código em 
 
 ## FigTree
 
+<img src="/figures/figtree.png" align="right" height="138"/>
+
 **Útil para: [Árvore - Edição]{style="background-color: #f1f1f1; color: #238b45;"}**
 
 FigTree é um software de visualização de árvores filogenéticas utilizado para exibir árvores inferidas a partir de sequências de DNA, RNA ou proteínas. Ele é compatível com Windows, MacOS e Linux e permite a visualização de árvores filogenéticas de maneira clara e intuitiva, tornando mais fácil a interpretação dos resultados.
@@ -180,6 +192,8 @@ O FigTree possui uma ampla gama de recursos de visualização, como opções de 
 
 ## iTOL
 
+<img src="/figures/itol.png" align="right" height="138"/>
+
 **Útil para: [Árvore - Edição]{style="background-color: #f1f1f1; color: #238b45;"}**
 
 **Link: <https://itol.embl.de/>**
@@ -190,10 +204,8 @@ O FigTree possui uma ampla gama de recursos de visualização, como opções de 
 
 ## PopArt
 
+<img src="/figures/popart.png" align="right" height="138"/>
+
 **Útil para: [Haplótipos]{style="background-color: #f1f1f1; color: #2171b5;"} / [Árvore - Edição]{style="background-color: #f1f1f1; color: #238b45;"}**
-
-A capacidade de análise de milhões de regiões de sequência de DNA em uma só vez é exigida em diversas disciplinas, tais como genômica populacional e ecologia molecular. Para tanto, o DnaSP, derivado do inglês "DNA Sequence Polymorphism" (Polimorfismo de Sequência de DNA) é uma ferramenta bioinformática concebida para a análise abrangente da variação dos dados da sequência de DNA, utilizando uma interface gráfica de utilizador de fácil uso. A versão 6 do software apresenta um PDF disponível para consulta disponibilizado no próprio site e pode ser acessado pelo link: <http://www.ub.edu/dnasp/DnaSP6_Documentation_6.12.pdf>.
-
-O programa permite a caracterização detalhada dos níveis e padrões de variação da sequência de DNA em diferentes escalas de tempo, utilizando variantes polimórficas (dados intra-específicos), dados de divergência (dados interespecíficos ou interpopulação), ou uma combinação de ambos. É possível calcular diversidade haplotípica, nucleotídica, bem como a quantidade distintas de haplótipos (quando analisadas duas ou mais sequências de DNA).
 
 ------------------------------------------------------------------------

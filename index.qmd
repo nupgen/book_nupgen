@@ -4,6 +4,8 @@ Este é o livro online do **Nupgen**, o **Laboratório de Genética Molecular do
 
 O objetivo deste livro não é substituir a colaboração entre alunos do laboratório, mas sim garantir que pequenos detalhes não sejam perdidos com o passar do tempo. Na verdade, esperamos que os tópicos deste livro sejam exaustivamente discutidos entre os alunos, a fim de melhorar este conteúdo e gerar novas perguntas que ajudem no desenvolvimento da pesquisa.
 
+Uma versão em PDF deste livro pode ser acessada pelo seguinte link: [Livro PDF](https://github.com/nupgen/book_nupgen/blob/master/_book/book-nupgen.pdf)
+
 Este livro foi escrito em [Quarto](https://quarto.org/).
 
 **Organização: Bruno Mioto**
