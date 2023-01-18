@@ -1,8 +1,7 @@
 # Alinhamento
 
-
 MEGA, raxML, phyML
 
 Adicionar referências para cada um
 
-MEGA 7: 
+MEGA 7:

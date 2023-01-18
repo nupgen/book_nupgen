@@ -35,6 +35,10 @@ book:
         - edicao-sequencias.qmd
         - alinhamento.qmd
     - references.qmd
+  comments: 
+    hypothesis:
+      theme: clean
+      openSidebar: false
 
 bibliography: references.bib
 
