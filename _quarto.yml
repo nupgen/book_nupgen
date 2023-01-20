@@ -19,6 +19,7 @@ book:
     - genetica-e-marcadores.qmd
     - lab.qmd
     - equipamentos.qmd
+    - coletas.qmd
     - part: "Protocolos"
       chapters: 
         - diluicoes.qmd
