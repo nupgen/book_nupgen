@@ -162,9 +162,7 @@ Atualmente no Nupgen são utilizados dois kits de extração diferentes: **Wizar
 
 7.  Pipetar a mistura em uma coluna de centrifugação DNeasy Mini colocada em um tubo de coleta. Centrifugar a 8.000 rpm (≥6.000 x g) por 1 minuto. Descartar o líquido filtrado e o tubo de coleta.
 
-8.  Colocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW1.
-
-Centrifugar por 1 minuto a 8.000 rpm. Descartar o líquido filtrado e o tubo de coleta.
+8.  Colocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW1. Centrifugar por 1 minuto a 8.000 rpm. Descartar o líquido filtrado e o tubo de coleta.
 
 9.  Colocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW2. Centrifugar por 3 minutos a 14.000 rpm (≥20.000 x g). Descartar o líquido filtrado e o tubo de coleta.
 

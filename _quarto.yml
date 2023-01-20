@@ -18,6 +18,7 @@ book:
     - index.qmd
     - lab.qmd
     - genetica-e-marcadores.qmd
+    - equipamentos.qmd
     - part: "Protocolos"
       chapters: 
         - diluicoes.qmd

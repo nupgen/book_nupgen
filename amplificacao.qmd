@@ -11,7 +11,7 @@ Os reagentes utilizados são:
 
 -   O **DNA extraído**;
 
--   Um par de oligonucleotídeos iniciadores, os chamados **primers**, sendo um [foward]{.underline} (🡒) e um [reverse]{.underline} (🡐). Eles irão se ligar na região que deve ser amplificada e permitir a ação de uma enzima polimerizadora;
+-   Um par de oligonucleotídeos iniciadores, os chamados **primers**, sendo um [foward]{.underline} (\--\>) e um [reverse]{.underline} (\<\--). Eles irão se ligar na região que deve ser amplificada e permitir a ação de uma enzima polimerizadora;
 
 -   A enzima DNA polimerase. Normalmente a enzima utilizada nas reações de PCR é proveniente da bactéria ***T**hermus **aq**uaticus* (por isso **Taq**), uma espécie termófila adaptada a viver em águas de alta temperatura, dessa forma, a enzima advinda dela é termoestável e consequentemente resistente às altas temperaturas da PCR sem sofrer desnaturação;
 

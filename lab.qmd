@@ -8,7 +8,7 @@ O Nupgen é o **Laboratório de Genética Molecular do Nupélia** (Núcleo de Pe
 
 ## Linhas de Pesquisa
 
-Atualmente, o Nupgen aborda estudos relacionados a polimorfismo genético sob o escopo de uma ampla variedade de organismos: peixes, parasitas, macrófitas, macroinvertebrados, microorganismos, além de estudos utilizando DNA ambiental. Assim, os pesquisadores e alunos do laboratório conduzem as seguintes linhas de pesquisa:
+Atualmente, o Nupgen aborda estudos relacionados a polimorfismo genético sob o escopo de uma ampla variedade de organismos: peixes, parasitos, macrófitas, macroinvertebrados, microrganismos, além de estudos utilizando DNA ambiental. Assim, os pesquisadores e alunos do laboratório conduzem as seguintes linhas de pesquisa:
 
 ### Taxonomia
 
@@ -36,7 +36,7 @@ Biogeografia é uma linha de pesquisa multidisciplinar que busca entender a dist
 
 ### Peixes
 
-Ictiofaunas de reservatórios aquáticos podem ser formadas por organismos nativos e invasores. O estudo de populações nativas é importante para verificar a presença e interação desses organismos de determinada região. E invasores, quando presentes, modificam o habitat e o sistema onde foram introduzidos, podendo levar a perda de biodiversidade local e alterações genéticas. Assim, estudos moleculares permitem estimar a diversidade e verificar as alterações genéticas que ocorrem nestes animais.
+Ictiofaunas de reservatórios aquáticos podem ser formadas por organismos nativos e invasores. O estudo de populações nativas é importante para verificar a presença e interação desses organismos de determinada região. Invasores, quando presentes, modificam o habitat e o sistema onde foram introduzidos, podendo levar a perda de biodiversidade local e alterações genéticas. Assim, estudos moleculares permitem estimar a diversidade e verificar as alterações genéticas que ocorrem nestes animais.
 
 ### Macrófitas
 
@@ -46,9 +46,9 @@ As macrófitas aquáticas, quando invasoras, constituem uma ameaça em termos ec
 
 A relação parasito-hospedeiro possui grande importância nos ambientes naturais. O conhecimento da biodiversidade de parasitos contribui com o levantamento de espécies de hospedeiros no local, além de direcionar métodos de manejo para parasitos com potencial zoonótico.
 
-### Microorganismos
+### Microrganismos
 
-Mesmo invisíveis a olho nu, os microorganismos possuem grande importância em ambientes aquáticos, servindo como níveis inferiores na cadeia alimentar. Alguns organismos podem influenciar na qualidade d'água, por isso conhecer a diversidade destes microorganismos é fundamental
+Mesmo invisíveis a olho nu, os microrganismos possuem grande importância em ambientes aquáticos, servindo como níveis inferiores na cadeia alimentar. Alguns organismos podem influenciar na qualidade d'água, por isso conhecer a diversidade destes microrganismos é fundamental.
 
 ### Genes opsins
 

@@ -1,0 +1,159 @@
+---
+title: "Equipamentos"
+---
+
+## Centrífugas
+
+A centrífuga é um aparelho que possui a finalidade de separar substâncias que possuem densidades diferentes em uma mistura via decantação. É utilizada em etapas da extração de DNA e durante o processo de purificação das amostras. O tempo e a rotação por minuto (rpm) podem ser ajustados de acordo com a necessidade do pesquisador. É importante lembrar de sempre balancear os tubos dentro da centrífuga antes da sua utilização, ou seja, dispor os tubos de uma forma que haja o balanceamento dos pesos para não descalibrar o aparelho (ver imagem fixada na parede para auxiliar nesse processo ou em caso de número de tubos ímpar colocar um tubo extra com a mesma quantidade dos demais tubos). No Nupgen temos dois modelos de centrífugas:
+
+### Centrífuga Eppendorf 5424
+
+Nessa centrífuga cabe 24 microtubos de 1,5 mL. Não é refrigerada.
+
+![](https://lh3.googleusercontent.com/NggezJxgImUShDglA1JBOIB9kTrYvH_Y-Y3kks-TP5-ItEQNPOUofh9yt8sDtXRUvTDuYPW1pmzD9mwanmgrZmO5BsV_WP7opG1upvEvcGLEox6pKlsxiq_t2ev_tdjK0mhRHkuDNcGNKxLuN5odAE9rMqalLSVKBgJeE0Tq5AJdQtko6anUFBT83agU4Q)
+
+Essa centrífuga encontra-se no laboratório do Bloco G90.
+
+### Centrífuga MRC SCEN-206 6000 rpm \*confirmar marca/modelo\*
+
+Nessa centrífuga cabe XX microtubos de 1,5 mL. Não é refrigerada.
+
+![](https://lh5.googleusercontent.com/IkSJvNbJ8eR6UOmCBACs13VYzqF16f1gxEBjqm8ysbP3VPPH7UFEHC7k2a0GMAf7tNRik_MzOYCagbLWbe59TIAqgm2HZQNq9A4AR7z0xC4ucPhZVQsRglMs_y5MikygI3xNBNSY3n3XKXIEJsUTUT77Vy-BL5oR0su853R2nkIzWsvjxCCrlzV_UCMwHw)
+
+Essa centrífuga encontra-se no laboratório do Bloco G80.
+
+## Termocicladores
+
+O termociclador é um equipamento que automatiza o processo de amplificação de uma sequência específica de DNA a partir de uma pequena amostra. Possui um bloco térmico com orifícios onde tubos de 0,2 mL com as amostras e reagentes são inseridos. O termociclador eleva e reduz a temperatura do bloco em ciclos de tempo pré-programados, permitindo a multiplicação em massa de moléculas de DNA com a ajuda da enzima Taq DNA polimerase e de primers atingindo grandes quantidades de DNA após alguns ciclos do processo. No Nupgen temos dois modelos de termocicladores:
+
+### Termociclador Eppendorf Mastercycler® nexus \*confirmar modelo\*
+
+Nesse modelo é possível fazer apenas uma reação de PCR por vez, embora tenha uma grande quantidade de poços (96 poços). É utilizado geralmente quando o número de amostras a serem amplificadas ultrapassa 32, que é o limite do outro modelo de termociclador disponível para utilização.
+
+![](https://lh6.googleusercontent.com/EoHcA9Ka_lnuwhbM0bZBd3MMoqeJ0GDHw6OBAfIJYDo3xqfkP7lCp_SeiGdWQQCPo5eTMCJ_jeDRwpbc82IqdpmN-keRTKTfdEGzghJG6dzoy1N9QzxruVZZYX55kMYCUoQXpIrHZUIh7FiPinXxDMzgmUb9aC9pThd7EqmmQmQAUND-bj0lhT_xaYIEmA)
+
+Esse termociclador encontra-se no laboratório do Bloco G90.
+
+### Termiciclador Applied Biosystems® ProFlex™ 3 x 32-well PCR System
+
+O sistema ProFlex™ 3 x 32-Well PCR permite executar três experimentos de uma só vez em cada um dos blocos. Dessa maneira, é possível realizar três PCR diferentes e independentes. No entanto, o número máximo de amostras em cada bloco é 32. Todos os programas utilizados pelos alunos do laboratório estão salvos nesse aparelho.
+
+![](https://lh5.googleusercontent.com/qEMdQe2riMq0o1tEVdLkwIvK5LJkG0F8WSJuOfAZJJ40WCMdcMrGbIYavyLHuOuf4DPLh4WoEA_WH4Z5DXRYdxbSGJWbXcnlJBCL13DsubZ2YF6uyHk_CZmRpPTIjbK1S4vOuM4A2ye9TvhaNrSPXYmKBDwoxW2muqqT6WlANY0cQaEglKvV5VV1lWpnfg)
+
+Esse termociclador encontra-se no laboratório do Bloco G90.
+
+## Balança Eletrônica Semi-Analítica 320g BL320H
+
+A balança é um instrumento que mede a massa de um corpo. É utilizada para pesar reagentes do laboratório que estão em pó, como a agarose.
+
+\
+
+![](https://lh6.googleusercontent.com/dSBRFd7gzppljqfs9Eqvuo8pkt7Xfp2Xl9Ya5KNPAZO_84jf24CJcbiRgw-jkjaavJfhlT9XhpRqz-pVE47dMAyaYY5q_nI1JvI8rO08Ak6CoO_zO21ZLkOL1Tj3gSLFc1hN00CEd62oyw21VDrQ--nf28-TyiMwDKrO6TprOMDbAA4EWfL0hGJPNNModw)
+
+Há uma balança no laboratório do Bloco G90 e uma no laboratório do Bloco G80.
+
+## Vórtex FisherScientific Genie 2
+
+O agitador vórtex é utilizado para duas funções: agitar e homogeneizar uma determinada solução líquida, contida em pequenos tubos, como os tubos tipo eppendorf. Esse aparelho é composto por um motor que gera movimento em um receptáculo feito em borracha sintética. Nesse receptáculo é colocado os tubos com as substâncias que serão submetidas à agitação. O movimento que é produzido cria um vórtice no líquido submetido ao aparelho. Pode ser configurado para funcionar de forma periódica ou contínua, ativado conforme a pressão do recipiente.
+
+\
+
+![](https://lh4.googleusercontent.com/A8brMDRt-UJ1PjSx2TksCr5EGf0174fAYLu0jJMzkiAVc7Ng-JPI5_-3GJ4oYSxq5PoovsKf36tWehq3pwIHba2pMhqoNWpfAo7ViY0WPGWvZB33z6wMk_sVA1eIXqxR2utYJHH57_lj8VW8nf45XgapH0y5zaA9z5SYVYPvzv-NZsCuw3jg45PQIZzm6A)
+
+Há um vórtex no laboratório do Bloco G90 e um no laboratório do Bloco G80.
+
+## Banho maria
+
+O banho maria é um equipamento que permite a termorregulação de uma amostra, por meio do controle da temperatura de um fluido térmico (água), o qual é colocado dentro da cuba do banho e que irá transferir a temperatura ajustada no banho para a amostra imersa nele. É utilizado em etapas que necessitem do aquecimento das amostras, como durante a extração de DNA e na purificação das amostras após a PCR. Dependendo do procedimento a ser realizado, uma temperatura ideal deverá ser programada no banho-maria. No Nupgen há dois modelos de banho maria disponíveis:
+
+### Banho maria digital \*confirmar marca/modelo/foto\*
+
+![](https://lh6.googleusercontent.com/pUFca8ru06CwWr5FVa8q9_7Sqk0ehqpBRNxHRNEVMlXASmoqzGsM4nj5_4rSjQHoQF-BMt8jTiMzfqEuMt8zYGc6BuWpF0sqisjGFvX1i3oJfqW_okqZfQfDyBlWBb-w2qqE_7BLWRAfbka4nVA0pbbRmD07yI8UVeGWuCEthL3HYFber_pWp66FG0kt6g)
+
+Esse banho maria encontra-se no laboratório do Bloco G90.
+
+### Banho maria FisherScientific Isotemp \*confirmar marca/modelo/foto\*
+
+![](https://lh3.googleusercontent.com/UUUUtlemdC2IDWqG6ZLam7_wVEEd8DnD8Va5mTH_tHAItcJ0gkQm5Lh1tMjOMr90lu8uiHq-3bOnEc0Ea3uZ9bpxSTVMslquu80xSUq1QFzk7-pNpvhWQU6FL8thWXhc4aOcUNKnJhVybPlTcleiYb-XoDTjdWz1s5hGwz428MlFuMaixM7KOrXzkhbjkg)
+
+Esse banho maria encontra-se no laboratório do Bloco G80.
+
+## Transiluminadores
+
+Serve para visualizar o resultado após eletroforese em gel de agarose utilizando um corante específico para o tipo de luz (LED ou UV). Há dois tipos de transiluminadores no Nupgen:
+
+### Transiluminador de luz LED Kasvi
+
+O transiluminador LED é um equipamento leve e com design moderno, além de ser uma inovação na área de eletroforese. Ao contrário dos transiluminadores tradicionais com luz UV, a iluminação de LED não causa deterioração da amostra e não é nociva ao usuário. Acompanha câmara escura que permite documentar e arquivar rapidamente imagens dos géis através de câmeras fotográficas comuns, inclusive câmeras de telefones celulares. Para visualizar o gel nesse aparelho é necessário utilizar o corante Safer, específico para esse tipo de luz.
+
+![](https://lh4.googleusercontent.com/WdbgpALnaUZQxKhCbxGpvxVYvqKWhwInC6xDSQWZKXmrCgPwh20IhYl96lMnzupLWPomvdpMityMpK4SgLpI47aMZqBQV_WmYJXo34HUsO3pXoufE0WNi4ZO6r6IQL8gOFfn0jEMrlJeKjvYTI1EDTpvaw8SrTP9_dG7JkdQCKGOM6pqBmnmSo29eb5vmA)
+
+Esse transiluminador encontra-se no laboratório do Bloco G90.
+
+### Transiluminador de luz UV
+
+Para visualizar o gel nesse aparelho é necessário utilizar o corante GelRed, específico para esse tipo de luz. Coloca-se uma câmara escura sobre o aparelho para possibilitar o registro fotográfico, além de proteger da luz UV que é emitida, visto que é nociva para a saúde humana. Portanto, não deve-se olhar o gel com a luz ligada sem as devidas proteções.
+
+\
+
+\*tirar foto - não achei na internet\*
+
+Esse transiluminador encontra-se no laboratório do Bloco G80.
+
+## Microondas
+
+O microondas é utilizado para aquecer soluções, principalmente no preparo do gel de agarose, visto que é necessário o aquecimento para completa homogeneização. Quando o gel é reutilizado, também é derretido no microondas antes de ser despejado na cuba.
+
+![](https://lh5.googleusercontent.com/QBQvFalpGbmdRmKrsYuZzT5UKAszg59bNV3SH92k-pDhvMjhomsmkvLNp8D7nk3pFzq1zEdF9einkcR4s7euQuDAaFh9sQfFWWfDwwTCUo7np1sAHXCQfbx-juyOEgMEimqn7eLM39ghgYCyvE1m14GVrwCmf3YQc2Ms0WxoiG5VwP2oz2wpZpM1u793RQ)
+
+Há um microondas no laboratório do Bloco G90 e um no laboratório do Bloco G80.
+
+## Cuba de eletroforese horizontal
+
+A cuba de eletroforese é utilizada na separação de proteínas e ácidos nucleicos, assim como nas análises de fragmentos amplificados por meio da PCR.
+
+![](https://lh4.googleusercontent.com/JmchBLqyPArPw0iZWq-bsAaUkJnj5TKPVS3CR5rQJUKMlBImPUKnTF09BRYcHA2roPhUNyzyfCwRmtoxNj6lZTe6xOjb-xSnIiHHo0iyPCVvmFhuGqHegoGZdjvEz6Be_XdKwgFhr2ccwOm1BGicrMOD0la0QHptnli3mqiJ7-9sdy6UBDZCvmK8yaS_5g)![](https://lh4.googleusercontent.com/PtBt0rLNnzUpSSwl689ZnecgGyFpPo0n1_TKpu5sUTWVEGBtUyU0vNgJ0lJEKYNfhOfv6dTX9SAgEefR89i7q6x2WEicDEKBQMKFE0TwShnBAnqnN6Lje5vTiSizOxdDK_yhVryz357GVaCofxCka2M4eeOWqLlhtBhkH3iyWAeRn9xqMOfwfF2jfteQMA)
+
+Há uma cuba no laboratório do Bloco G90 e uma no laboratório do Bloco G80.
+
+## Fonte para eletroforese
+
+A fonte é utilizada para ligar os cabos de energia à cuba de eletroforese e fornecer energia elétrica para a corrida do gel. É adequada de acordo com a voltagem desejada para a corrida (por exemplo, 100V). Algumas permitem a programação do tempo também.
+
+![](https://lh6.googleusercontent.com/3ahmdZQvip2oElWXYibFuqp8C86en5TsGA5NQ06mQMuW97DCkdQ5ouIZbHq3dn2AkIT9BPpdkfaA7VE6siZ3NkGqBhZe7oHlGcmX1Kvi3JMNk-qYfJ4EWu9tmgf-IyVOM-VODqYscvq32YMamD2tJAManZ90WNdHtbM1dUfbeRT6gVNsIE8sGzsl4MJ2sw)![](https://lh6.googleusercontent.com/ltx5N5mC3u0LU4UOZLg3iETwwNPNqnJ5A1XdldQCbLoY1fxJTUnLW_G6SPgfIo9-8KOUmaZbAuiBgTxxNv_X5LsxlXE5aG8UCoa5j1Ygs0rxtg2n2XiBunU3dOlTzwCQve6anzAcT64se5MZTMlEf045cX7waExhhTCy2bMxaZFwldSujp4IsKb1uPfClg)
+
+Há uma fonte no laboratório do Bloco G90 e uma no laboratório do Bloco G80.
+
+## Estufas
+
+O uso mais básico de uma estufa de laboratório é para secar e esterilizar equipamentos, geralmente vidrarias. Também é utilizada para secar amostras que necessitam desse processo durante o protocolo (por exemplo, envio para o sequenciamento). As estufas usam convecção térmica para fornecer calor à câmara, o que permite manter temperaturas uniformes.
+
+### Mini estufa
+
+A mini estufa é utilizada para secagem das amostras. Seu tamanho compacto é ideal para secar os tubos na purificação e para o envio das amostras para o sequenciamento.
+
+\
+
+\*tirar foto - não achei na internet\*
+
+Essa estufa encontra-se no laboratório do Bloco G90.
+
+\
+
+### Estufa grande
+
+Essa estufa é mais utilizada na secagem de vidrarias ou outros utensílios do laboratório que necessitem, visto que seu tamanho é maior. No entanto, também pode ser utilizada para secagem de amostras quando necessário (durante a extração de DNA, por exemplo).
+
+![](https://lh6.googleusercontent.com/9LkeBSrEPby7ximn19YERXk0zlaWd9fxt45bx9e70-E15wlt2-5NbMaviCgSuytCtnLmBpu8PYZDG_-1OECqh-tQXgE6RVvHRPBhSg-btp3OoRVQHKe9eolR1DN7Ui6sXJOTJvHTJOfYwXweUonEda1cSUCSpSD62gpFeYuuj5Vpcrfcv6-dYwjJI0Sg2Q)
+
+Essa estufa encontra-se no laboratório do Bloco G80.
+
+## Agitador magnético
+
+O Agitador magnético é um equipamento de laboratório utilizado para realizar misturas de diversas soluções. Para que a mistura aconteça, é colocado dentro do recipiente uma pulga (barra magnética), que irá fazer a agitação do líquido enquanto o aparelho estiver ligado. O agitador funciona como um ímã que gira acoplado a um motor elétrico, mexendo consequentemente a pulga promovendo a mistura da solução. É mais utilizado no preparado de tampão TBE estoque, visto que é necessário uma boa homogeneização da solução.
+
+\
+
+![](https://lh3.googleusercontent.com/NFIEJcMATSm4l5EQv-NzEENz8QxMHeECEWP7XSDIDh2nQg4MfgQ2a09ytWICfNoeeA0c3lv6H-1CYojSOeja2Eqeye-z8a-hG8VBSFL7NsHXzZcsXjQlEUTfrkWkl7ddWE4BIdRTdA8vCvsINpZr5VvFS0I86oh_7wuI-6Mb7sX9kj0MXdNJFZxxM3xVEQ)![](https://lh5.googleusercontent.com/N05m_YWEGMAvhKMHdEwRumntH439_6YuJU4xkQhJQrPPIv6cipTWXdHk_XN1rtaNxR4t7fWqYPRycdavlOLF6JSxHL_7dlG1rpTZRaC3vSp3WEV-J2dY-GoHZMjQWwgOklutXhUkKM7ecihsRdPrsgCCIRG32-wHRBYbvPDmFAFH8ANmXJCceM84F2gY5g)
+
+Esse agitador/pulga encontra-se no laboratório do Bloco G90.

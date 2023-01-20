@@ -2,7 +2,7 @@
 
 ## GenBank
 
-Link: [https://www.ncbi.nlm.nih.gov/genbank/]()
+**Link: [https://www.ncbi.nlm.nih.gov/genbank/]()**
 
 O GenBank é um banco de dados de sequências de DNA mantido pelo National Center for Biotechnology Information (NCBI), um instituto do National Institutes of Health (NIH) dos Estados Unidos. Ele armazena sequências de DNA de diversas fontes, incluindo genomas, sequências de expressão gênica, sequências de proteínas e etc.
 
@@ -12,7 +12,7 @@ Todo trabalho ao ser publicado deve submeter as sequências utilizadas para o Ge
 
 ## BOLD Systems
 
-Link: [http://boldsystems.org/]()
+**Link: [http://boldsystems.org/]()**
 
 O BOLD Systems (Barcode of Life Data Systems) é um projeto de ciência cidadã que visa coletar e armazenar sequências de DNA barcodes ([COI](genetica-e-marcadores.qmd#marcadores-moleculares)) de espécies de todo o mundo. O DNA barcode é um trecho curto de DNA que pode ser usado para identificar espécies de maneira rápida e precisa. Ele é amplamente utilizado em biologia evolutiva e conservação de espécies e é uma ferramenta valiosa para a identificação de espécies em ambientes complexos, como ecossistemas tropicais.
 
@@ -20,7 +20,7 @@ O BOLD Systems é mantido pelo Instituto de Biodiversidade do Canadá e é uma i
 
 ## BLAST
 
-Link: [https://blast.ncbi.nlm.nih.gov/Blast.cgi]()
+**Link: [https://blast.ncbi.nlm.nih.gov/Blast.cgi]()**
 
 O BLAST (Basic Local Alignment Search Tool) é uma ferramenta amplamente utilizada pelos pesquisadores de genética molecular para realizar buscas de sequências de DNA em bancos de dados de sequências. Ele é mantido pelo National Center for Biotechnology Information (NCBI) e está disponível gratuitamente na internet.
 
