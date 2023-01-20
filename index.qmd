@@ -8,6 +8,8 @@ Uma versão em PDF deste livro pode ser acessada pelo seguinte link: [Livro PDF]
 
 Este livro foi escrito em [Quarto](https://quarto.org/).
 
+A capa deste livro foi feita pelo Marco Paganini, do nosso laboratório.
+
 **Organização: Bruno Mioto**
 
 **Autores: Adrian Silva, Bárbara Scorsim, Bruno Mioto, Eloisa de Páris e Mayara Passere**
