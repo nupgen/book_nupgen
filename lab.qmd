@@ -56,4 +56,4 @@ O estudo de proteínas visuais possibilita observar e comparar a influência de 
 
 ### DNA Ambiental
 
-A partir de amostras de água, é possível obter fragmentos de DNA de organismos que estiveram neste ambiente. Peixes, microorganismos, anfíbios, parasitos e muitos outros organismos deixam rastros genéticos e podemos estudá-los indiretamente a partir de técnicas de sequenciamento de nova geração.
+A partir de amostras de água, é possível obter fragmentos de DNA de organismos que estiveram neste ambiente. Peixes, microrganismos, anfíbios, parasitos e muitos outros organismos deixam rastros genéticos e podemos estudá-los indiretamente a partir de técnicas de sequenciamento de nova geração.
