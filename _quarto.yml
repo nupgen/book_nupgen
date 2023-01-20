@@ -16,8 +16,8 @@ book:
   #sidebar: 
   chapters:
     - index.qmd
-    - lab.qmd
     - genetica-e-marcadores.qmd
+    - lab.qmd
     - equipamentos.qmd
     - part: "Protocolos"
       chapters: 
