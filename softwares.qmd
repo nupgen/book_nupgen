@@ -8,7 +8,7 @@ A seguir vamos apresentar os principais softwares utilizados, bem como algumas d
 
 ## BioEdit
 
-<img src="/figures/bioedit.png" align="right" height="138"/>
+<img src="/figures/softwares/bioedit.png" align="right" height="138"/>
 
 **Útil para: [Edição]{style="background-color: #f1f1f1; color: #e31a1c;"}**
 
@@ -27,6 +27,8 @@ Usos
 -   A última versão disponível é de 2005.
 
 ## MEGA
+
+<img src="/figures/softwares/mega.png" align="right" height="138"/>
 
 **Útil para: [Edição]{style="background-color: #f1f1f1; color: #e31a1c;"} / [Alinhamento]{style="background-color: #f1f1f1; color: #016c59;"} / [Modelo]{style="background-color: #f1f1f1; color: #ae017e;"} / [Árvore]{style="background-color: #f1f1f1; color: #238b45;"}**
 
@@ -52,7 +54,7 @@ Usos
 
 ## IQTree
 
-<img src="/figures/iqtree.png" align="right" height="138"/>
+<img src="/figures/softwares/iqtree.png" align="right" height="138"/>
 
 **Útil para: [Modelo]{style="background-color: #f1f1f1; color: #ae017e;"} / [Árvore]{style="background-color: #f1f1f1; color: #238b45;"}**
 
@@ -122,7 +124,7 @@ Phylogenetic Maximum Likelihood (PhyML) é um servidor online para gerar inferê
 
 ## DNAsp
 
-<img src="/figures/DnaSP.png" align="right" height="138"/>
+<img src="/figures/softwares/DnaSP.png" align="right" height="138"/>
 
 **Útil para: [Haplótipos]{style="background-color: #f1f1f1; color: #2171b5;"}**
 
@@ -178,7 +180,7 @@ Os resultados são gerados utilizando um servidor que apenas roda um código em 
 
 ## FigTree
 
-<img src="/figures/figtree.png" align="right" height="138"/>
+<img src="/figures/softwares/figtree.png" align="right" height="138"/>
 
 **Útil para: [Árvore - Edição]{style="background-color: #f1f1f1; color: #238b45;"}**
 
@@ -192,7 +194,7 @@ O FigTree possui uma ampla gama de recursos de visualização, como opções de 
 
 ## iTOL
 
-<img src="/figures/itol.png" align="right" height="138"/>
+<img src="/figures/softwares/itol.png" align="right" height="138"/>
 
 **Útil para: [Árvore - Edição]{style="background-color: #f1f1f1; color: #238b45;"}**
 
@@ -204,7 +206,7 @@ O FigTree possui uma ampla gama de recursos de visualização, como opções de 
 
 ## PopArt
 
-<img src="/figures/popart.png" align="right" height="138"/>
+<img src="/figures/softwares/popart.png" align="right" height="138"/>
 
 **Útil para: [Haplótipos]{style="background-color: #f1f1f1; color: #2171b5;"} / [Árvore - Edição]{style="background-color: #f1f1f1; color: #238b45;"}**
 

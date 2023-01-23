@@ -19,6 +19,7 @@ book:
     - genetica-e-marcadores.qmd
     - lab.qmd
     - equipamentos.qmd
+    - biosseguranca.qmd
     - coletas.qmd
     - part: "Protocolos"
       chapters: 

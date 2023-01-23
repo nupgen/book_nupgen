@@ -2,41 +2,40 @@
 
 ## Apresentação do Laboratório
 
-O Nupgen é o **Laboratório de Genética Molecular do Nupélia** (Núcleo de Pesquisas em Limnologia, Ictiologia e Aquicultura), na **Universidade Estadual de Maringá** (UEM), Paraná, Brasil. Coordenado pela Professora Dra. **Alessandra Valéria de Oliveira**, o Nupgen conta com pesquisadores, alunos de graduação e de pós-graduação que desenvolvem pesquisas objetivando detectar polimorfismos genéticos em populações naturais.
+O Nupgen é o **Laboratório de Genética Molecular do Nupélia** (Núcleo de Pesquisas em Limnologia, Ictiologia e Aquicultura), da **Universidade Estadual de Maringá** (UEM), Paraná, Brasil. Coordenado pela Professora Dra. **Alessandra Valéria de Oliveira**, o Nupgen conta com pesquisadores, alunos de graduação e de pós-graduação.
 
 ![](figures/lab.jpeg)
 
 ## Linhas de Pesquisa
 
-Atualmente, o Nupgen aborda estudos relacionados a polimorfismo genético sob o escopo de uma ampla variedade de organismos: peixes, parasitos, macrófitas, macroinvertebrados, microrganismos, além de estudos utilizando DNA ambiental. Assim, os pesquisadores e alunos do laboratório conduzem as seguintes linhas de pesquisa:
+Atualmente, o Nupgen realiza pesquisas objetivando detectar polimorfismos genéticos em populações naturais de organismos: peixes, parasitos, macrófitas, macroinvertebrados, microrganismos, além de estudos utilizando DNA ambiental. Assim, os pesquisadores e alunos do laboratório conduzem as seguintes linhas de pesquisa:
 
 ### Taxonomia
 
-Consiste na identificação dos organismos utilizando marcadores moleculares. Projetos nessa linha de pesquisa costumam ocorrer em parceria com outros laboratórios, que contribuem com a identificação morfológica do organismo. A adição da genética molecular facilita a detecção de espécies novas, híbridos e espécies crípticas, por exemplo;
+Consiste na identificação dos organismos utilizando marcadores moleculares. Projetos nessa linha de pesquisa costumam ocorrer em parceria com outros laboratórios, que contribuem com a identificação morfológica do organismo. A adição da genética molecular facilita a detecção de espécies novas, híbridos e espécies crípticas, por exemplo.
 
 ### Sistemática filogenética
 
 Diferente da taxonomia, projetos envolvendo Sistemática Filogenética não buscam somente identificar os organismos, mas também levantar hipóteses sobre a relação evolutiva entre eles (entre espécies de um mesmo gênero, por exemplo).
 
-*Exemplo de questão: elucidar a relação filogenética em um gênero cuja evolução das espécies seja pouco compreendida (resolução de politomias);*
-
 ### Genética de populações
 
 A Genética de populações busca entender o fluxo gênico em uma população natural, podendo endereçar questões acerca de processos de especiação e adaptação, e podendo observar os efeitos da seleção natural, deriva genética e dos efeitos de gargalo.
-
-*Exemplo de questão: diversidade genética em uma população de peixes invasores;*
 
 ### Biogeografia
 
 Biogeografia é uma linha de pesquisa multidisciplinar que busca entender a distribuição de um grupo de organismos em correlação com a evolução ambiental (escala de tempo geológica), gerando resultados importantes para a conservação da biodiversidade.
 
-*Exemplo de questão: detectar áreas de endemismo para macrófitas aquáticas.*
-
-## Projetos do Nupgen
+## Organismos estudados no Nupgen
 
 ### Peixes
 
-Ictiofaunas de reservatórios aquáticos podem ser formadas por organismos nativos e invasores. O estudo de populações nativas é importante para verificar a presença e interação desses organismos de determinada região. Invasores, quando presentes, modificam o habitat e o sistema onde foram introduzidos, podendo levar a perda de biodiversidade local e alterações genéticas. Assim, estudos moleculares permitem estimar a diversidade e verificar as alterações genéticas que ocorrem nestes animais.
+Ictiofaunas de ambientes aquáticos podem ser formadas por organismos nativos e invasores. O estudo genético permite verificar níveis de variação genética, perda de biodiversidade e alterações relacionadas a processos dehibridização.
+
+
+O estudo de populações nativas é importante para verificar a presença e interação desses organismos de determinada região. Invasores, quando presentes, modificam o habitat e o sistema onde foram introduzidos, podendo levar a perda de biodiversidade local e alterações genéticas. Assim, estudos moleculares permitem estimar a diversidade e verificar as alterações genéticas que ocorrem nestes animais.
+
+
 
 ### Macrófitas
 
@@ -56,4 +55,4 @@ O estudo de proteínas visuais possibilita observar e comparar a influência de 
 
 ### DNA Ambiental
 
-A partir de amostras de água, é possível obter fragmentos de DNA de organismos que estiveram neste ambiente. Peixes, microrganismos, anfíbios, parasitos e muitos outros organismos deixam rastros genéticos e podemos estudá-los indiretamente a partir de técnicas de sequenciamento de nova geração.
+A partir de amostras ambientais, é possível obter fragmentos de DNA de organismos que estiveram neste ambiente. Peixes, microrganismos, anfíbios, parasitos e muitos outros organismos deixam rastros genéticos e podemos estudá-los indiretamente a partir de técnicas de sequenciamento de nova geração.

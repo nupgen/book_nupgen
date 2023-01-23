@@ -19,7 +19,7 @@ Depois que a corrida é finalizada, os cabos são desligados e o gel pode ser vi
 ::: {layout-ncol="2"}
 ![Equipamento utilizado na eletroforese](figures/eletroforese.jpg)
 
-![Equipamento do Nupegen](figures/eletroforese-lab.JPG)
+![Equipamento do Nupgen](figures/eletroforese-lab.JPG)
 :::
 
 ## Ladder

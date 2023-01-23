@@ -1,14 +1,14 @@
 # Início {.unnumbered}
 
-Este é o livro online do **Nupgen**, o **Laboratório de Genética Molecular do Nupélia (DBC/Nupélia)**. Aqui você poderá encontrar textos explicativos sobre nossa linha de pesquisa, as metodologias utilizadas em nosso laboratório, bem como os protocolos atualizados. Este é um material introdutório destinado principalmente aos alunos do laboratório e pode servir como guia para as tarefas mais técnicas. Esperamos que ele funcione como um Procedimento Operacional Padrão (POP) em nosso laboratório, mantendo as equipes alinhadas, elevando a produtividade e evitando o desperdício de recursos dentro do laboratório. Este livro não precisa ser lido de forma sequencial e cada capítulo é independente de outros, no entanto, organizamos os capítulos seguindo a lógica de trabalho no laboratório para tornar a leitura mais fluida.
+Este é o manual online do **Nupgen**, o **Laboratório de Genética Molecular do Nupélia (DBC/Nupélia)**. Aqui você poderá encontrar textos explicativos sobre nossa linha de pesquisa, as metodologias utilizadas em nosso laboratório, bem como os protocolos atualizados. Este é um material introdutório destinado principalmente aos alunos do laboratório e pode servir como guia para as tarefas mais técnicas. Esperamos que ele funcione como um Procedimento Operacional Padrão (POP) em nosso laboratório, mantendo as equipes alinhadas, elevando a produtividade e evitando o desperdício de recursos dentro do laboratório. Este manual não precisa ser lido de forma sequencial e cada capítulo é independente de outros, no entanto, organizamos os capítulos seguindo a lógica de trabalho no laboratório para tornar a leitura mais fluida.
 
-O objetivo deste livro não é substituir a colaboração entre alunos do laboratório, mas sim garantir que pequenos detalhes não sejam perdidos com o passar do tempo. Na verdade, esperamos que os tópicos deste livro sejam exaustivamente discutidos entre os alunos, a fim de melhorar este conteúdo e gerar novas perguntas que ajudem no desenvolvimento da pesquisa.
+O objetivo deste manual não é substituir a colaboração entre alunos do laboratório, mas sim garantir que pequenos detalhes não sejam perdidos com o passar do tempo. Na verdade, esperamos que os tópicos deste manual sejam exaustivamente discutidos entre os alunos, a fim de melhorar este conteúdo e gerar novas perguntas que ajudem no desenvolvimento da pesquisa.
 
-Uma versão em PDF deste livro pode ser acessada pelo seguinte link: [Livro PDF](https://github.com/nupgen/book_nupgen/blob/master/_book/book-nupgen.pdf)
+Uma versão em PDF deste manual pode ser acessada pelo seguinte link: [Manual PDF](https://github.com/nupgen/book_nupgen/blob/master/_book/book-nupgen.pdf)
 
-Este livro foi escrito em [Quarto](https://quarto.org/).
+Este manual foi escrito em [Quarto](https://quarto.org/).
 
-A capa deste livro foi feita pelo Marco Paganini, do nosso laboratório.
+A capa deste manual foi feita pelo Marco Paganini, do nosso laboratório.
 
 **Organização: Bruno Mioto**
 

@@ -146,7 +146,7 @@ Atualmente no Nupgen são utilizados dois kits de extração diferentes: **Wizar
 
 22. Adicionar 50 μl de DNA Rehydration Solution.
 
-## Protocolo de Extração de DNA com Colunas - QIAGEN **Parasitos**
+## Protocolo de Extração de DNA com Colunas - QIAGEN **Parasitos e Macrófitas**
 
 1.  Deixar o mínimo possível de líquido na amostra antes de começar.
 

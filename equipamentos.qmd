@@ -10,14 +10,13 @@ A centrífuga é um aparelho que possui a finalidade de separar substâncias que
 
 Nessa centrífuga cabe 24 microtubos de 1,5 mL. Não é refrigerada.
 
-![Essa centrífuga encontra-se no laboratório do Bloco G90.](figures/equipamentos/Centrifuga_Eppendorf_5424_2.png)
+![Essa centrífuga encontra-se no laboratório do Bloco G90.](figures/equipamentos/Centrifuga_Eppendorf_5424_2.png){fig-align="center" height="300"}
 
 ### Centrífuga MRC SCEN-206 6000 rpm \*confirmar marca/modelo\*
 
-Nessa centrífuga cabe XX microtubos de 1,5 mL. Não é refrigerada.
-![Essa centrífuga encontra-se no laboratório do Bloco G80.](figures/equipamentos/Centrifuga_MRC_SCEN-206.png)
+Nessa centrífuga cabe 18 microtubos de 1,5 mL. Não é refrigerada.
 
-
+![Essa centrífuga encontra-se no laboratório do Bloco G80.](figures/equipamentos/Centrifuga_MRC_SCEN-206.png){fig-align="center" height="300"}
 
 ## Termocicladores
 
@@ -27,23 +26,19 @@ O termociclador é um equipamento que automatiza o processo de amplificação de
 
 Nesse modelo é possível fazer apenas uma reação de PCR por vez, embora tenha uma grande quantidade de poços (96 poços). É utilizado geralmente quando o número de amostras a serem amplificadas ultrapassa 32, que é o limite do outro modelo de termociclador disponível para utilização.
 
-![](figures/equipamentos/termociclador_eppendorf.png)
-
-Esse termociclador encontra-se no laboratório do Bloco G90.
+![Esse termociclador encontra-se no laboratório do Bloco G90.](figures/equipamentos/termociclador_eppendorf.png){fig-align="center" height="300"}
 
 ### Termiciclador Applied Biosystems® ProFlex™ 3 x 32-well PCR System
 
 O sistema ProFlex™ 3 x 32-Well PCR permite executar três experimentos de uma só vez em cada um dos blocos. Dessa maneira, é possível realizar três PCR diferentes e independentes. No entanto, o número máximo de amostras em cada bloco é 32. Todos os programas utilizados pelos alunos do laboratório estão salvos nesse aparelho.
 
-![](figures/equipamentos/termiciclador_applied_biosystems.png)
-
-Esse termociclador encontra-se no laboratório do Bloco G90.
+![Esse termociclador encontra-se no laboratório do Bloco G90.](figures/equipamentos/termiciclador_applied_biosystems.png){fig-align="center" height="300"}
 
 ## Balança Eletrônica Semi-Analítica 320g BL320H
 
 A balança é um instrumento que mede a massa de um corpo. É utilizada para pesar reagentes do laboratório que estão em pó, como a agarose.
 
-![](figures/equipamentos/balança.png)
+![](figures/equipamentos/balan%C3%A7a.png){fig-align="center" height="300"}
 
 Há uma balança no laboratório do Bloco G90 e uma no laboratório do Bloco G80.
 
@@ -51,7 +46,7 @@ Há uma balança no laboratório do Bloco G90 e uma no laboratório do Bloco G80
 
 O agitador vórtex é utilizado para duas funções: agitar e homogeneizar uma determinada solução líquida, contida em pequenos tubos, como os tubos tipo eppendorf. Esse aparelho é composto por um motor que gera movimento em um receptáculo feito em borracha sintética. Nesse receptáculo é colocado os tubos com as substâncias que serão submetidas à agitação. O movimento que é produzido cria um vórtice no líquido submetido ao aparelho. Pode ser configurado para funcionar de forma periódica ou contínua, ativado conforme a pressão do recipiente.
 
-![](figures/equipamentos/vortex.png)
+![](figures/equipamentos/vortex.png){fig-align="center" height="300"}
 
 Há um vórtex no laboratório do Bloco G90 e um no laboratório do Bloco G80.
 
@@ -59,17 +54,13 @@ Há um vórtex no laboratório do Bloco G90 e um no laboratório do Bloco G80.
 
 O banho maria é um equipamento que permite a termorregulação de uma amostra, por meio do controle da temperatura de um fluido térmico (água), o qual é colocado dentro da cuba do banho e que irá transferir a temperatura ajustada no banho para a amostra imersa nele. É utilizado em etapas que necessitem do aquecimento das amostras, como durante a extração de DNA e na purificação das amostras após a PCR. Dependendo do procedimento a ser realizado, uma temperatura ideal deverá ser programada no banho-maria. No Nupgen há dois modelos de banho maria disponíveis:
 
-### Banho maria digital \*confirmar marca/modelo/foto\*
+### Banho maria digital SolidSteel
 
-![](figures/equipamentos/banho_maria_digital.png)
-
-Esse banho maria encontra-se no laboratório do Bloco G90.
+![Esse banho maria encontra-se no laboratório do Bloco G90.](figures/equipamentos/banho_maria_digital.png){fig-align="center" height="300"}
 
 ### Banho maria FisherScientific Isotemp \*confirmar marca/modelo/foto\*
 
-![](figures/equipamentos/banho_maria_fischer.png)
-
-Esse banho maria encontra-se no laboratório do Bloco G80.
+![Esse banho maria encontra-se no laboratório do Bloco G80.](figures/equipamentos/banho_maria_fischer.png){fig-align="center" height="300"}
 
 ## Transiluminadores
 
@@ -79,24 +70,19 @@ Serve para visualizar o resultado após eletroforese em gel de agarose utilizand
 
 O transiluminador LED é um equipamento leve e com design moderno, além de ser uma inovação na área de eletroforese. Ao contrário dos transiluminadores tradicionais com luz UV, a iluminação de LED não causa deterioração da amostra e não é nociva ao usuário. Acompanha câmara escura que permite documentar e arquivar rapidamente imagens dos géis através de câmeras fotográficas comuns, inclusive câmeras de telefones celulares. Para visualizar o gel nesse aparelho é necessário utilizar o corante Safer, específico para esse tipo de luz.
 
-![](figures/equipamentos/transiluminador_led.png)
-
-Esse transiluminador encontra-se no laboratório do Bloco G90.
+![Esse transiluminador encontra-se no laboratório do Bloco G90.](figures/equipamentos/transiluminador_led.png){fig-align="center" height="300"}
 
 ### Transiluminador de luz UV
 
 Para visualizar o gel nesse aparelho é necessário utilizar o corante GelRed, específico para esse tipo de luz. Coloca-se uma câmara escura sobre o aparelho para possibilitar o registro fotográfico, além de proteger da luz UV que é emitida, visto que é nociva para a saúde humana. Portanto, não deve-se olhar o gel com a luz ligada sem as devidas proteções.
 
-![](figures/equipamentos/transiluminador_uv.png)
-\*tirar foto - não achei na internet\*
-
-Esse transiluminador encontra-se no laboratório do Bloco G80.
+![Esse transiluminador encontra-se no laboratório do Bloco G80.](figures/equipamentos/transiluminador_uv.png){fig-align="center" height="300"}
 
 ## Microondas
 
 O microondas é utilizado para aquecer soluções, principalmente no preparo do gel de agarose, visto que é necessário o aquecimento para completa homogeneização. Quando o gel é reutilizado, também é derretido no microondas antes de ser despejado na cuba.
 
-![](figures/equipamentos/Microondas.png)
+![](figures/equipamentos/Microondas.png){fig-align="center" height="300"}
 
 Há um microondas no laboratório do Bloco G90 e um no laboratório do Bloco G80.
 
@@ -104,7 +90,7 @@ Há um microondas no laboratório do Bloco G90 e um no laboratório do Bloco G80
 
 A cuba de eletroforese é utilizada na separação de proteínas e ácidos nucleicos, assim como nas análises de fragmentos amplificados por meio da PCR.
 
-![](figures/equipamentos/cuba_eletroforese_horizontal.png)
+![](figures/equipamentos/cuba_eletroforese_horizontal.png){fig-align="center" height="300"}
 
 Há uma cuba no laboratório do Bloco G90 e uma no laboratório do Bloco G80.
 
@@ -112,8 +98,7 @@ Há uma cuba no laboratório do Bloco G90 e uma no laboratório do Bloco G80.
 
 A fonte é utilizada para ligar os cabos de energia à cuba de eletroforese e fornecer energia elétrica para a corrida do gel. É adequada de acordo com a voltagem desejada para a corrida (por exemplo, 100V). Algumas permitem a programação do tempo também.
 
-
-![](figures/equipamentos/Fonte para eletroforese.png)
+![](figures/equipamentos/Fonte%20para%20eletroforese.png){fig-align="center" height="300"}
 
 Há uma fonte no laboratório do Bloco G90 e uma no laboratório do Bloco G80.
 
@@ -133,7 +118,7 @@ Essa estufa encontra-se no laboratório do Bloco G90.
 
 Essa estufa é mais utilizada na secagem de vidrarias ou outros utensílios do laboratório que necessitem, visto que seu tamanho é maior. No entanto, também pode ser utilizada para secagem de amostras quando necessário (durante a extração de DNA, por exemplo).
 
---FIGURA
+<!-- ![](figures/equipamentos/Fonte para eletroforese.png){fig-align="center" height="300"} -->
 
 Essa estufa encontra-se no laboratório do Bloco G80.
 
@@ -141,6 +126,6 @@ Essa estufa encontra-se no laboratório do Bloco G80.
 
 O Agitador magnético é um equipamento de laboratório utilizado para realizar misturas de diversas soluções. Para que a mistura aconteça, é colocado dentro do recipiente uma pulga (barra magnética), que irá fazer a agitação do líquido enquanto o aparelho estiver ligado. O agitador funciona como um ímã que gira acoplado a um motor elétrico, mexendo consequentemente a pulga promovendo a mistura da solução. É mais utilizado no preparado de tampão TBE estoque, visto que é necessário uma boa homogeneização da solução.
 
---FIGURA
+<!-- ![](figures/equipamentos/Fonte para eletroforese.png){fig-align="center" height="300"} -->
 
 Esse agitador/pulga encontra-se no laboratório do Bloco G90.
