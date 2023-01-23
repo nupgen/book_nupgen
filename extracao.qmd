@@ -58,7 +58,7 @@ Atualmente no Nupgen são utilizados dois kits de extração diferentes: **Wizar
 
 ## Protocolo de Extração de DNA - Promega **Caramujos**
 
-1.  Separar o tecido (0,5-1 cm) em um tubo de 1,5 ml.
+1.  Fracionar o tecido (0,5-1 cm) e adicionar em um tubo de 1,5 ml.
 
 2.  Adicionar 500 μl de Nuclei Lysis Solution.
 
@@ -66,7 +66,7 @@ Atualmente no Nupgen são utilizados dois kits de extração diferentes: **Wizar
 
 4.  Adicionar 17,5 μl de Proteinase K 20 mg/ml.
 
-5.  Misturar com vórtex por 10 segundos.
+5.  Homogeneizar com vórtex por 10 segundos.
 
 6.  Incubar a 55º C overnight OU incubar a 55º C por 3 horas, homogeneizando com vórtex a cada hora.
 
@@ -74,19 +74,19 @@ Atualmente no Nupgen são utilizados dois kits de extração diferentes: **Wizar
 
 8.  Incubar a 37º C por 30 minutos. Deixar as amostras esfriarem a temperatura ambiente por 5 minutos antes da próxima etapa.
 
-9.  Adicionar 200 μl de Protein Precipitation Solution e misturar com o vórtex vigorosamente por 20 segundos.
+9.  Adicionar 200 μl de Protein Precipitation Solution e homogeneizar com o vórtex vigorosamente por 20 segundos.
 
 10. Colocar as amostras no gelo por 5 minutos.
 
-11. Centrifugar a 12.000 rpm por 4 minutos. A proteína precipitada formará um pellet no fundo.
+11. Centrifugar a 12.000 rpm por 4 minutos. Nesta etapa pode ser formado um pellet no fundo do tubo.
 
 12. Remover cuidadosamente o sobrenadante contendo o DNA (não retirar o pellet) e transferir para um novo tubo de 1,5 ml que já contenha 600 μl de isopropanol (temperatura ambiente).
 
 13. Misturar cuidadosamente a solução por inversão até os "fios" de DNA formarem uma massa visível.
 
-14. Centrifugar a 12.000 rpm por 1 minuto. O DNA ficará visível como um pequeno pellet branco. Descartar cuidadosamente o sobrenadante.
+14. Centrifugar a 12.000 rpm por 1 minuto. O DNA ficará no fundo do tubo e pode ficar visível como um pequeno pellet branco. Descartar cuidadosamente o sobrenadante.
 
-15. Adicionar 600 μl de etanol 70% (temperatura ambiente) e misturar cuidadosamente a solução por inversão para lavar o DNA.
+15. Adicionar 600 μl de etanol 70% (temperatura ambiente) e misturar cuidadosamente a solução por inversão.
 
 16. Centrifugar a 12.000 rpm por 1 minuto.
 
@@ -96,7 +96,7 @@ Atualmente no Nupgen são utilizados dois kits de extração diferentes: **Wizar
 
 19. Adicionar 30 μL de DNA Rehydration Solution e reidratar o DNA incubando a 65º C por 1 hora. Periodicamente misturar a solução com cuidado OU incubar a 4º C overnight.
 
-20. Guardar o DNA extraído a 2-8º C.
+20. Armazenar o DNA extraído a 2-8º C.
 
 ## Protocolo de Extração de DNA - Promega **Macrófitas**
 
@@ -152,13 +152,13 @@ Atualmente no Nupgen são utilizados dois kits de extração diferentes: **Wizar
 
 2.  Adicionar 180 μL de Buffer ATL.
 
-3.  Adicionar 20 μL de proteinase K. Misturar com vórtex e incubar a 56º C até completa lise celular (30min - 2h). Misturar com vórtex ocasionalmente durante a incubação.
+3.  Adicionar 20 μL de proteinase K. Homogeneizar com vórtex e incubar a 56º C até completa lise celular (30min - 2h). Homogeneizar com vórtex ocasionalmente durante a incubação.
 
-4.  Misturar com vórtex por 15 segundos.
+4.  Homogeneizar com vórtex por 15 segundos.
 
-5.  Adicionar 200 μL de Buffer AL. Misturar bem com vórtex.
+5.  Adicionar 200 μL de Buffer AL. Homogeneizar bem com vórtex.
 
-6.  Adicionar 200 μL de etanol (96-100%). Misturar bem com vórtex.
+6.  Adicionar 200 μL de etanol (96-100%). Homogeneizar  bem com vórtex.
 
 7.  Pipetar a mistura em uma coluna de centrifugação DNeasy Mini colocada em um tubo de coleta. Centrifugar a 8.000 rpm (≥6.000 x g) por 1 minuto. Descartar o líquido filtrado e o tubo de coleta.
 

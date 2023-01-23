@@ -41,7 +41,7 @@ Caso ocorra uma das situações impossíveis de balanceamento, adicione um tubo 
 
 O termociclador é um equipamento que automatiza o processo de amplificação de uma sequência específica de DNA a partir de uma pequena amostra. Possui um bloco térmico com orifícios onde tubos de 0,2 mL com as amostras e reagentes são inseridos. O termociclador eleva e reduz a temperatura do bloco em ciclos de tempo pré-programados, permitindo a multiplicação em massa de moléculas de DNA com a ajuda da enzima Taq DNA polimerase e de primers atingindo grandes quantidades de DNA após alguns ciclos do processo. No Nupgen temos dois modelos de termocicladores:
 
-### Termociclador Eppendorf Mastercycler® nexus \*confirmar modelo\*
+### Termociclador Eppendorf Mastercycler® nexus
 
 Nesse modelo é possível fazer apenas uma reação de PCR por vez, embora tenha uma grande quantidade de poços (96 poços). É utilizado geralmente quando o número de amostras a serem amplificadas ultrapassa 32, que é o limite do outro modelo de termociclador disponível para utilização.
 
@@ -77,7 +77,7 @@ O banho maria é um equipamento que permite a termorregulação de uma amostra, 
 
 ![Esse banho maria encontra-se no laboratório do Bloco G90.](figures/equipamentos/banho_maria_digital.png){fig-align="center" height="300"}
 
-### Banho maria FisherScientific Isotemp \*confirmar marca/modelo/foto\*
+### Banho maria FisherScientific Isotemp
 
 ![Esse banho maria encontra-se no laboratório do Bloco G80.](figures/equipamentos/banho_maria_fischer.png){fig-align="center" height="300"}
 
