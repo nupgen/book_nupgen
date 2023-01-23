@@ -76,7 +76,7 @@ texto texto
 | 24 mL de TBE            |
 | 96 mL de água destilada |
 
-## Protocolo para Amplificação e Purificação.
+## Eletroforese de Amplificação e Purificação.
 
 Obs: O gel para purificação deverá ser novo, enquanto o da amplificação pode ser reutilizado.
 
@@ -95,7 +95,7 @@ Obs: O gel para purificação deverá ser novo, enquanto o da amplificação pod
 -   Colocar o Ladder 100 pb no primeiro poço.
 :::
 
-## Protocolo para Quantificação.
+## Eletroforese de Quantificação.
 
 **Quantificação com gel de agarose**
 
@@ -110,3 +110,5 @@ Lambda:
 -   Lambda 20ng/μL - 5μL + 1 μL de GelRed
 
 Amostra - 2 μL de loading + 1 μL de GelRed + 3 μL da PCR
+
+**Quantificação com Nanodrop**
