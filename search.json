@@ -266,18 +266,18 @@
     "text": "8.3 Gel agarose\ntexto texto\n\nGel 1%\n\n\n\nCuba - 60 mL\n\n\n\n\n0,6g de agarose\n\n\n12 mL de TBE\n\n\n48 mL de água destilada\n\n\n\n\n\n\nCuba - 120 mL\n\n\n\n\n1,2g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada\n\n\n\n\n\nGel 1,4%\n\n\n\nCuba - 120 mL\n\n\n\n\n1,68g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada\n\n\n\n\n\nGel 3%\n\n\n\nCuba - 120 mL\n\n\n\n\n3,6g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada"
   },
   {
-    "objectID": "eletroforese.html#protocolo-para-amplificação-e-purificação.",
-    "href": "eletroforese.html#protocolo-para-amplificação-e-purificação.",
+    "objectID": "eletroforese.html#eletroforese-de-amplificação-e-purificação.",
+    "href": "eletroforese.html#eletroforese-de-amplificação-e-purificação.",
     "title": "8  Eletroforese",
-    "section": "8.4 Protocolo para Amplificação e Purificação.",
-    "text": "8.4 Protocolo para Amplificação e Purificação.\nObs: O gel para purificação deverá ser novo, enquanto o da amplificação pode ser reutilizado.\n\nLadder 100 pb\n2 μL de loading + 1 μL de GelRed + 2 μL de Ladder 100 pb\n\n\nPor amostra\n2 μL de loading + 1 μL de GelRed + 3 μL da PCR\n\n\n\n\n\n\nImportante\n\n\n\n\nFio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).\nGel agarose 1% (pode ser reutilizado).\nCorrer a 90 volts, por aproximadamente 1 hora.\nColocar o Ladder 100 pb no primeiro poço."
+    "section": "8.4 Eletroforese de Amplificação e Purificação.",
+    "text": "8.4 Eletroforese de Amplificação e Purificação.\nObs: O gel para purificação deverá ser novo, enquanto o da amplificação pode ser reutilizado.\n\nLadder 100 pb\n2 μL de loading + 1 μL de GelRed + 2 μL de Ladder 100 pb\n\n\nPor amostra\n2 μL de loading + 1 μL de GelRed + 3 μL da PCR\n\n\n\n\n\n\nImportante\n\n\n\n\nFio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).\nGel agarose 1% (pode ser reutilizado).\nCorrer a 90 volts, por aproximadamente 1 hora.\nColocar o Ladder 100 pb no primeiro poço."
   },
   {
-    "objectID": "eletroforese.html#protocolo-para-quantificação.",
-    "href": "eletroforese.html#protocolo-para-quantificação.",
+    "objectID": "eletroforese.html#eletroforese-de-quantificação.",
+    "href": "eletroforese.html#eletroforese-de-quantificação.",
     "title": "8  Eletroforese",
-    "section": "8.5 Protocolo para Quantificação.",
-    "text": "8.5 Protocolo para Quantificação.\nQuantificação com gel de agarose\nA eletroforese para quantificação não é realizada para todos os grupos trabalhados no laboratório. O gel para quantificação deverá ser novo.\nLambda:\n\nLambda 5ng/μL - 5μL + 1 μL de GelRed\nLambda 10ng/μL - 5μL + 1 μL de GelRed\nLambda 20ng/μL - 5μL + 1 μL de GelRed\n\nAmostra - 2 μL de loading + 1 μL de GelRed + 3 μL da PCR"
+    "section": "8.5 Eletroforese de Quantificação.",
+    "text": "8.5 Eletroforese de Quantificação.\nQuantificação com gel de agarose\nA eletroforese para quantificação não é realizada para todos os grupos trabalhados no laboratório. O gel para quantificação deverá ser novo.\nLambda:\n\nLambda 5ng/μL - 5μL + 1 μL de GelRed\nLambda 10ng/μL - 5μL + 1 μL de GelRed\nLambda 20ng/μL - 5μL + 1 μL de GelRed\n\nAmostra - 2 μL de loading + 1 μL de GelRed + 3 μL da PCR\nQuantificação com Nanodrop"
   },
   {
     "objectID": "quantificacao.html#preparação-por-amostra",
