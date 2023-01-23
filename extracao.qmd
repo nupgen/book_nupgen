@@ -68,7 +68,7 @@ Atualmente no Nupgen são utilizados dois kits de extração diferentes: **Wizar
 
 5.  Misturar com vórtex por 10 segundos.
 
-6.  Incubar a 55º C overnight OU incubar a 55º C por 3 horas, misturando com vórtex a cada hora.
+6.  Incubar a 55º C overnight OU incubar a 55º C por 3 horas, homogeneizando com vórtex a cada hora.
 
 7.  Adicionar 3 μl de RNase Solution à solução e misturar por inversão do tubo 2-5 vezes.
 

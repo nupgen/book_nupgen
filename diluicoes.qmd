@@ -12,7 +12,9 @@ Onde $C1$ é a concentração da solução inicial, $V1$ é o volume da soluçã
 
 ### Etanol 70%
 
-Em um tubo tipo falcon, colocar:
+**Para preparar 100ml**
+
+Em um tubo tipo falcon, adicionar:
 
 -   70 mL de etanol absoluto
 
@@ -20,7 +22,9 @@ Em um tubo tipo falcon, colocar:
 
 ### Etanol 80%
 
-Em um tubo tipo falcon, colocar:
+**Para preparar 100ml**
+
+Em um tubo tipo falcon, adicionar:
 
 -   80 mL de etanol absoluto
 
@@ -28,57 +32,67 @@ Em um tubo tipo falcon, colocar:
 
 ## GelRed
 
-Em um tubo de 1,5 mL envolto com fita e papel alumínio, colocar:
+**Para preparar 500 μL**
+
+Em um tubo de 1,5 mL envolto com fita e papel alumínio, adicionar:
 
 -   1 μL de GelRed (estoque)
 
--   500 μL de água Milli-Q
+-   499 μL de água ultrapura (Milli-Q)
 
 ## Ladder 100pb
 
-Em um tubo de 1,5 mL, colocar:
+**Para preparar 100 μL**
 
--   10 μL de Ladder (estoque)
+Em um tubo de 1,5 mL, adicionar:
 
--   90 μL de água Milli-Q
+-   10 μL de Ladder (estoque 0,5 μg/μL)
+
+-   90 μL de água ultrapura (Milli-Q)
 
 ## Lambda
 
 ### Lambda 5ng/μL (para 1000 μL)
 
--   9,27 μL de lambda
+-   9,27 μL de lambda (conferir concentração)
 
--   990,73 μL de água Milli-Q
+-   990,73 μL de água ultrapura (Milli-Q)
 
 ### Lambda 10ng/μL (para 1000 μL)
 
 -   18,56 μL de lambda
 
--   981,44 μL de água Milli-Q
+-   981,44 μL de água ultrapura (Milli-Q)
 
 ### Lambda 20ng/μL (para 1000 μL)
 
 -   37,11 μL de lambda
 
--   962,89 μL de água Milli-Q
+-   962,89 μL de água ultrapura (Milli-Q)
 
 ## Primer para uso (10 μM)
 
-Em um tubo, colocar:
+**Para preparar 60 μL**
 
--   10 μL do primer estoque
+Em um tubo, adicionar:
 
--   50 μL de água Milli-Q
+-   10 μL do primer estoque (60 μM - conferir concentração)
+
+-   50 μL de água ultrapura (Milli-Q)
 
 ## Proteinase K 20 mg/mL
 
+**Para preparar 1 mL**
+
 -   20 mg de Proteinase K (estoque)
 
--   1 mL de água Milli-Q
+-   1 mL de água ultrapura (Milli-Q)
 
-**Modo de preparo:** lavar bem uma espátula, esterilizar com álcool 70% e pesar a Proteinase K em um microtubo novo (1,5 mL). Adicionar a água Milli-Q e ressuspender bem com a pipeta. Agitar a solução no vórtex para homogeneizar bem. Manter no freezer.
+**Modo de preparo:** lavar bem uma espátula, fazer a desinfecção com álcool 70% e pesar a Proteinase K em um microtubo novo (1,5 mL). Adicionar a água ultrapura (Milli-Q) e ressuspender bem com a pipeta. Agitar a solução no vórtex para homogeneizar bem. Manter no freezer.
 
 ## Tampão TBE 5x (estoque)
+
+**Para preparar 1000 mL**
 
 -   54 g de Tris-Base
 
@@ -88,9 +102,11 @@ Em um tubo, colocar:
 
 Completar para 1000 mL com água destilada
 
-**Modo de preparo:** em um becker, colocar um pouco da água destilada. Colocar uma pulga no becker e utilizar o agitador para homogeneizar a solução. Ir adicionando aos poucos os reagentes. Ao final, utilizando uma proveta, completar o volume de água que falta e armazenar em frascos de vidro (tampa laranja). Etiquetar e autoclavar.
+**Modo de preparo:** em um becker, adicionar um pouco da água destilada. Ir adicionando aos poucos os reagentes, utilizando o agitador magnético para homogeneizar a solução. Ao final, utilizando uma proveta, completar o volume de água que falta e armazenar em frascos de vidro (tampa laranja). Etiquetar e autoclavar.
 
-## Tampão TBE 1x (corrida)
+## Tampão TBE 1x (corrida eletroforética)
+
+**Para preparar 1000 mL**
 
 $C1 * V1 = C2 * V2$
 
@@ -102,9 +118,9 @@ V1 = 200 mL de TBE 5x
 
 Completar para 1000 mL de água destilada (= 800 mL)
 
-## Tampão Coleta Macrófitas 
+## Tampão Coleta Macrófitas
 
-Para 1.000ml:
+**Para preparar 1000 mL**
 
 -   Tris HCl - 10 mL
 
@@ -116,21 +132,22 @@ pH = 8,0
 
 **Modo de preparo:** Colocar 10ml do Tris HCl e 2ml do EDTA (0,5mM) em um frasco de vidro (tampa laranja ou azul), completar o volume com água destilada. Agitar o frasco para misturar bem e medir o pH com as fitinhas, para conferir se está correto; caso não esteja, basta ajustar com as soluções para pH. Etiquetar e autoclavar.
 
+## PEG 20% NaCl 2,5M
 
-## PEG 20% NaCl 2,5M (para 75 mL)
+**Para preparar 75 mL**
 
 -   15 g de Polietilenoglicol
 
 -   10,95 g de NaCl
 
-Completar para 75 mL com água Milli-Q
+Completar o volume para 75 mL com água ultrapura (Milli-Q)
 
-**Modo de preparo:** colocar em um becker um pouco da água e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água que falta e com o auxílio de uma seringa passar a solução pelo filtro (0,2 µM -- azul). Ir colocando em tubos Falcon para autoclavar. Após autoclavada, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira.
+**Modo de preparo:** colocar em um becker um pouco da água ultrapura e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água para 75 mL e com o auxílio de uma seringa passar a solução por um filtro (0,2 µM – azul). Acondicionar em tubos Falcon para autoclavar. Após autoclavado, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira.
 
-## Diluição primer liofilizado
+## Diluição de primer liofilizado
 
-**Quantidade em nmol x 1000 / 60 = Quantidade de água Milli-Q**
+**Quantidade em nmol x 1000 / 60 = Quantidade de água ultrapura (Milli-Q)**
 
-Acrescentar essa quantidade de água no tubo do primer
+Acrescentar a quantidade obtida de água diretamente no tubo do primer liofilizado.
 
-Obs: 60 porque é a concentração utilizada para diluição dos primers no laboratório (= 60 µM)
+Obs: 60 µM é a concentração utilizada para diluição dos primers no laboratório.
