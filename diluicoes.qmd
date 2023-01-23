@@ -94,13 +94,28 @@ Completar para 1000 mL com água destilada
 
 $C1 * V1 = C2 * V2$
 
-5(estoque) * V1 = 1 * 1000 mL
+5(estoque) \* V1 = 1 \* 1000 mL
 
 V1 = 1000/5
 
 V1 = 200 mL de TBE 5x
 
 Completar para 1000 mL de água destilada (= 800 mL)
+
+## Tampão Coleta Macrófitas 
+
+Para 1.000ml:
+
+-   Tris HCl - 10 mL
+
+-   EDTA (0,5mM) - 2 mL
+
+-   Água destilada - 988ml
+
+pH = 8,0
+
+**Modo de preparo:** Colocar 10ml do Tris HCl e 2ml do EDTA (0,5mM) em um frasco de vidro (tampa laranja ou azul), completar o volume com água destilada. Agitar o frasco para misturar bem e medir o pH com as fitinhas, para conferir se está correto; caso não esteja, basta ajustar com as soluções para pH. Etiquetar e autoclavar.
+
 
 ## PEG 20% NaCl 2,5M (para 75 mL)
 

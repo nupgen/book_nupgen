@@ -36,7 +36,7 @@ No Nupgen há duas opções de Ladder para serem utilizados como padrão, o Ladd
 
 ## Lambda
 
-Lambda é um bacteriófago de *Escherichia coli* e seu DNA contém 48.502 pares de nucleotídeos. É utilizado como DNA padrão com concentrações conhecidas (por exemplo 5, 10 e 20 ng/μL) para quantificar o DNA extraído de amostras alvo de estudos por meio da comparação visual pela fluorescência e espessura das bandas. O DNA fago Lambda é adquirido de empresas com uma concentração estoque específica e para ser utilizado na rotina do laboratório é preciso realizar a diluição com base nas concentrações desejadas. 
+Lambda é um bacteriófago de *Escherichia coli* e seu DNA contém 48.502 pares de nucleotídeos. É utilizado como DNA padrão com concentrações conhecidas (por exemplo 5, 10 e 20 ng/μL) para quantificar o DNA extraído de amostras alvo de estudos por meio da comparação visual pela fluorescência e espessura das bandas. O DNA fago Lambda é adquirido de empresas com uma concentração estoque específica e para ser utilizado na rotina do laboratório é preciso realizar a diluição com base nas concentrações desejadas.
 
 ::: callout-caution
 O DNA fago **Lambda** é utilizado para a quantificação em diferentes concentrações, enquanto o **Ladder** é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação.

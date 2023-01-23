@@ -4,19 +4,38 @@ title: "Equipamentos"
 
 ## Centrífugas
 
-A centrífuga é um aparelho que possui a finalidade de separar substâncias que possuem densidades diferentes em uma mistura via decantação. É utilizada em etapas da extração de DNA e durante o processo de purificação das amostras. O tempo e a rotação por minuto (rpm) podem ser ajustados de acordo com a necessidade do pesquisador. É importante lembrar de sempre balancear os tubos dentro da centrífuga antes da sua utilização, ou seja, dispor os tubos de uma forma que haja o balanceamento dos pesos para não descalibrar o aparelho (ver imagem fixada na parede para auxiliar nesse processo ou em caso de número de tubos ímpar colocar um tubo extra com a mesma quantidade dos demais tubos). No Nupgen temos dois modelos de centrífugas:
-
-### Centrífuga Eppendorf 5424
-
-Nessa centrífuga cabe 24 microtubos de 1,5 mL. Não é refrigerada.
-
-![Essa centrífuga encontra-se no laboratório do Bloco G90.](figures/equipamentos/Centrifuga_Eppendorf_5424_2.png){fig-align="center" height="300"}
+A centrífuga é um aparelho que possui a finalidade de separar substâncias que possuem densidades diferentes em uma mistura via decantação. É utilizada em etapas da extração de DNA e durante o processo de purificação das amostras. O tempo e a rotação por minuto (rpm) podem ser ajustados de acordo com a necessidade do pesquisador. É importante lembrar de sempre balancear os tubos dentro da centrífuga antes da sua utilização, ou seja, dispor os tubos de uma forma que haja o balanceamento dos pesos para não descalibrar o aparelho (ver quadro Balanceamento da centrífuga). No Nupgen temos dois modelos de centrífugas:
 
 ### Centrífuga MRC SCEN-206 6000 rpm \*confirmar marca/modelo\*
 
-Nessa centrífuga cabe 18 microtubos de 1,5 mL. Não é refrigerada.
+Nessa centrífuga cabem **18** microtubos de 1,5 mL. Não é refrigerada.
 
 ![Essa centrífuga encontra-se no laboratório do Bloco G80.](figures/equipamentos/Centrifuga_MRC_SCEN-206.png){fig-align="center" height="300"}
+
+### Centrífuga Eppendorf 5424
+
+Nessa centrífuga cabem **24** microtubos de 1,5 mL. Não é refrigerada.
+
+![Essa centrífuga encontra-se no laboratório do Bloco G90.](figures/equipamentos/Centrifuga_Eppendorf_5424_2.png){fig-align="center" height="300"}
+
+::: {.callout-caution appearance="simple"}
+## Balanceamento da centrífuga
+
+É essencial que a centrífuga esteja balanceada com as amostras, ou então ela pode danificar o eixo de rotação e quebrar.
+
+Para isso, utilizamos os seguintes diagramas:
+
+### Balanceamento da centrífuga de 18 amostras
+
+![](figures/equipamentos/balanceamento_18.png){fig-align="center"}
+
+### Balanceamento da centrífuga de 24 amostras
+
+![](figures/equipamentos/balanceamento_24.png){fig-align="center"}
+
+Caso ocorra uma das situações impossíveis de balanceamento, adicione um tubo a mais sem amostra.
+
+:::
 
 ## Termocicladores
 
@@ -98,7 +117,12 @@ Há uma cuba no laboratório do Bloco G90 e uma no laboratório do Bloco G80.
 
 A fonte é utilizada para ligar os cabos de energia à cuba de eletroforese e fornecer energia elétrica para a corrida do gel. É adequada de acordo com a voltagem desejada para a corrida (por exemplo, 100V). Algumas permitem a programação do tempo também.
 
+::: {layout-ncol="2"}
 ![](figures/equipamentos/Fonte%20para%20eletroforese.png){fig-align="center" height="300"}
+
+![](figures/equipamentos/Fonte para eletroforese2.png){fig-align="center" height="300"}
+:::
+
 
 Há uma fonte no laboratório do Bloco G90 e uma no laboratório do Bloco G80.
 

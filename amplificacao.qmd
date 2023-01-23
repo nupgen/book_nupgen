@@ -37,3 +37,53 @@ A mistura desses componentes é levada ao termociclador, um aparelho com a capac
 As três etapas citadas anteriormente são repetidas em cerca de 20 a 30 ciclos, possibilitando que até bilhões de cópias da região selecionada sejam produzidas.
 
 ![](figures/PCR.jpg)
+
+\
+
+## **Protocolo de amplificação**
+
+Para uma reação de PCR iremos precisar de:
+
+-   Tubo de 0,5 (novo)
+
+-   Tubos de 0,2 (novo)
+
+-   Reagentes
+
+-   DNA
+
+-   Marcador permanente
+
+::: {.callout-note appearance="simple"}
+## Como fazemos
+
+-   1º Passo: Escrever em cada tubinho de 0,2 o número da amostra referente (lembrando de fazer um tubo branco, ou seja, esse é um tubinho onde não colocamos DNA, apenas o mix);
+
+-   2º Passo: Preparar o mix;
+
+-   3º Passo: Distribuir o mix nos tubinhos de 0,2;
+
+-   4º Passo: Acrescentar o DNA correspondente em cada tubinho;
+
+-   5º Passo: Colocar a reação no termociclador.
+:::
+
+O tubo de 0,5 será utilizado para realizar o mix da PCR. O mix nada mais é que a junção de todos os reagentes que precisamos em um único tubo para facilitar na hora de pipetar. Para cada amostra que queremos realizar PCR com 2μl de DNA, precisa dos seguintes reagentes e quantidades:
+
+| **Reagentes** | **Quantidade** |
+|---------------|----------------|
+| Água Milli-Q  | 17,50 μL       |
+| Tampão 10X    | 2,50 μL        |
+| MgCl2         | 1,00 μL        |
+| dNTPs         | 1,00 μL        |
+| Primer 1      | 0,40 μL        |
+| Primer 2      | 0,40 μL        |
+| Taq           | 0,20 μL        |
+
+**Obs: Para uma reação com uma quantidade diferente de 2μl de DNA, o valor alterado para mais ou para menos será sempre da Água Mq.**
+
+Lembrando que para realizar a PCR, é preciso multiplicar o valor da tabela pelo número de amostras que serão preparadas, somando sempre o branco e mais uma para margem de erro. Você pode acessar a tabela para impressão com esses cálculos já realizados no link \<\_\_\_\_\_\_\>.
+
+Após realizado o mix, para uma reação de 2μl de DNA, iremos transferir do tubo do mix 23μl para cada um dos tubinhos de 0,2 (uma reação deve ter volume total de 25μl). Nesse momento pode utilizar a mesma ponteira, já que se trata dos mesmos reagentes.
+
+Feito isso, feche o tubo do branco, pois ele já se encontra finalizado e pode iniciar a distribuição do DNA nos tubinhos de 0,2 respectivos, lembrando de trocar a ponteira a cada amostra.
