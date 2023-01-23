@@ -46,7 +46,7 @@
     "href": "equipamentos.html#centrífugas",
     "title": "3  Equipamentos",
     "section": "3.1 Centrífugas",
-    "text": "3.1 Centrífugas\nA centrífuga é um aparelho que possui a finalidade de separar substâncias que possuem densidades diferentes em uma mistura via decantação. É utilizada em etapas da extração de DNA e durante o processo de purificação das amostras. O tempo e a rotação por minuto (rpm) podem ser ajustados de acordo com a necessidade do pesquisador. É importante lembrar de sempre balancear os tubos dentro da centrífuga antes da sua utilização, ou seja, dispor os tubos de uma forma que haja o balanceamento dos pesos para não descalibrar o aparelho (ver imagem fixada na parede para auxiliar nesse processo ou em caso de número de tubos ímpar colocar um tubo extra com a mesma quantidade dos demais tubos). No Nupgen temos dois modelos de centrífugas:\n\nCentrífuga Eppendorf 5424\nNessa centrífuga cabe 24 microtubos de 1,5 mL. Não é refrigerada.\n\n\n\nEssa centrífuga encontra-se no laboratório do Bloco G90.\n\n\n\n\nCentrífuga MRC SCEN-206 6000 rpm *confirmar marca/modelo*\nNessa centrífuga cabe 18 microtubos de 1,5 mL. Não é refrigerada.\n\n\n\nEssa centrífuga encontra-se no laboratório do Bloco G80."
+    "text": "3.1 Centrífugas\nA centrífuga é um aparelho que possui a finalidade de separar substâncias que possuem densidades diferentes em uma mistura via decantação. É utilizada em etapas da extração de DNA e durante o processo de purificação das amostras. O tempo e a rotação por minuto (rpm) podem ser ajustados de acordo com a necessidade do pesquisador. É importante lembrar de sempre balancear os tubos dentro da centrífuga antes da sua utilização, ou seja, dispor os tubos de uma forma que haja o balanceamento dos pesos para não descalibrar o aparelho (ver quadro Balanceamento da centrífuga). No Nupgen temos dois modelos de centrífugas:\n\nCentrífuga MRC SCEN-206 6000 rpm *confirmar marca/modelo*\nNessa centrífuga cabem 18 microtubos de 1,5 mL. Não é refrigerada.\n\n\n\nEssa centrífuga encontra-se no laboratório do Bloco G80.\n\n\n\n\nCentrífuga Eppendorf 5424\nNessa centrífuga cabem 24 microtubos de 1,5 mL. Não é refrigerada.\n\n\n\nEssa centrífuga encontra-se no laboratório do Bloco G90.\n\n\n\n\n\n\n\n\nBalanceamento da centrífuga\n\n\n\nÉ essencial que a centrífuga esteja balanceada com as amostras, ou então ela pode danificar o eixo de rotação e quebrar.\nPara isso, utilizamos os seguintes diagramas:\n\nBalanceamento da centrífuga de 18 amostras\n\n\n\n\n\n\n\nBalanceamento da centrífuga de 24 amostras\n\n\n\n\n\nCaso ocorra uma das situações impossíveis de balanceamento, adicione um tubo a mais sem amostra."
   },
   {
     "objectID": "equipamentos.html#termocicladores",
@@ -102,7 +102,7 @@
     "href": "equipamentos.html#fonte-para-eletroforese",
     "title": "3  Equipamentos",
     "section": "3.9 Fonte para eletroforese",
-    "text": "3.9 Fonte para eletroforese\nA fonte é utilizada para ligar os cabos de energia à cuba de eletroforese e fornecer energia elétrica para a corrida do gel. É adequada de acordo com a voltagem desejada para a corrida (por exemplo, 100V). Algumas permitem a programação do tempo também.\n\n\n\n\n\nHá uma fonte no laboratório do Bloco G90 e uma no laboratório do Bloco G80."
+    "text": "3.9 Fonte para eletroforese\nA fonte é utilizada para ligar os cabos de energia à cuba de eletroforese e fornecer energia elétrica para a corrida do gel. É adequada de acordo com a voltagem desejada para a corrida (por exemplo, 100V). Algumas permitem a programação do tempo também.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHá uma fonte no laboratório do Bloco G90 e uma no laboratório do Bloco G80."
   },
   {
     "objectID": "equipamentos.html#estufas",
@@ -182,18 +182,25 @@
     "text": "6.8 Tampão TBE 1x (corrida)\n\\(C1 * V1 = C2 * V2\\)\n5(estoque) * V1 = 1 * 1000 mL\nV1 = 1000/5\nV1 = 200 mL de TBE 5x\nCompletar para 1000 mL de água destilada (= 800 mL)"
   },
   {
+    "objectID": "diluicoes.html#tampão-coleta-macrófitas",
+    "href": "diluicoes.html#tampão-coleta-macrófitas",
+    "title": "6  Diluições",
+    "section": "6.9 Tampão Coleta Macrófitas",
+    "text": "6.9 Tampão Coleta Macrófitas\nPara 1.000ml:\n\nTris HCl - 10 mL\nEDTA (0,5mM) - 2 mL\nÁgua destilada - 988ml\n\npH = 8,0\nModo de preparo: Colocar 10ml do Tris HCl e 2ml do EDTA (0,5mM) em um frasco de vidro (tampa laranja ou azul), completar o volume com água destilada. Agitar o frasco para misturar bem e medir o pH com as fitinhas, para conferir se está correto; caso não esteja, basta ajustar com as soluções para pH. Etiquetar e autoclavar."
+  },
+  {
     "objectID": "diluicoes.html#peg-20-nacl-25m-para-75-ml",
     "href": "diluicoes.html#peg-20-nacl-25m-para-75-ml",
     "title": "6  Diluições",
-    "section": "6.9 PEG 20% NaCl 2,5M (para 75 mL)",
-    "text": "6.9 PEG 20% NaCl 2,5M (para 75 mL)\n\n15 g de Polietilenoglicol\n10,95 g de NaCl\n\nCompletar para 75 mL com água Milli-Q\nModo de preparo: colocar em um becker um pouco da água e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água que falta e com o auxílio de uma seringa passar a solução pelo filtro (0,2 µM – azul). Ir colocando em tubos Falcon para autoclavar. Após autoclavada, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira."
+    "section": "6.10 PEG 20% NaCl 2,5M (para 75 mL)",
+    "text": "6.10 PEG 20% NaCl 2,5M (para 75 mL)\n\n15 g de Polietilenoglicol\n10,95 g de NaCl\n\nCompletar para 75 mL com água Milli-Q\nModo de preparo: colocar em um becker um pouco da água e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água que falta e com o auxílio de uma seringa passar a solução pelo filtro (0,2 µM – azul). Ir colocando em tubos Falcon para autoclavar. Após autoclavada, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira."
   },
   {
     "objectID": "diluicoes.html#diluição-primer-liofilizado",
     "href": "diluicoes.html#diluição-primer-liofilizado",
     "title": "6  Diluições",
-    "section": "6.10 Diluição primer liofilizado",
-    "text": "6.10 Diluição primer liofilizado\nQuantidade em nmol x 1000 / 60 = Quantidade de água Milli-Q\nAcrescentar essa quantidade de água no tubo do primer\nObs: 60 porque é a concentração utilizada para diluição dos primers no laboratório (= 60 µM)"
+    "section": "6.11 Diluição primer liofilizado",
+    "text": "6.11 Diluição primer liofilizado\nQuantidade em nmol x 1000 / 60 = Quantidade de água Milli-Q\nAcrescentar essa quantidade de água no tubo do primer\nObs: 60 porque é a concentração utilizada para diluição dos primers no laboratório (= 60 µM)"
   },
   {
     "objectID": "extracao.html#protocolo-de-extração-de-dna---promega-peixes",
@@ -235,7 +242,7 @@
     "href": "eletroforese.html#lambda",
     "title": "8  Eletroforese",
     "section": "8.2 Lambda",
-    "text": "8.2 Lambda\nLambda é um bacteriófago de Escherichia coli e seu DNA contém 48.502 pares de nucleotídeos. É utilizado como DNA padrão com concentrações conhecidas (por exemplo 5, 10 e 20 ng/μL) para quantificar o DNA extraído de amostras alvo de estudos por meio da comparação visual pela fluorescência e espessura das bandas. O DNA fago Lambda é adquirido de empresas com uma concentração estoque específica e para ser utilizado na rotina do laboratório é preciso realizar a diluição com base nas concentrações desejadas. \n\n\n\n\n\n\nCuidado\n\n\n\nO DNA fago Lambda é utilizado para a quantificação em diferentes concentrações, enquanto o Ladder é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação."
+    "text": "8.2 Lambda\nLambda é um bacteriófago de Escherichia coli e seu DNA contém 48.502 pares de nucleotídeos. É utilizado como DNA padrão com concentrações conhecidas (por exemplo 5, 10 e 20 ng/μL) para quantificar o DNA extraído de amostras alvo de estudos por meio da comparação visual pela fluorescência e espessura das bandas. O DNA fago Lambda é adquirido de empresas com uma concentração estoque específica e para ser utilizado na rotina do laboratório é preciso realizar a diluição com base nas concentrações desejadas.\n\n\n\n\n\n\nCuidado\n\n\n\nO DNA fago Lambda é utilizado para a quantificação em diferentes concentrações, enquanto o Ladder é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação."
   },
   {
     "objectID": "eletroforese.html#gel-agarose",
@@ -287,11 +294,11 @@
     "text": "9.2 Diluição do DNA para 5ng/μL\n\\(C1 * V1 = C2 * V2\\)\nC1 – concentração da amostra (inicial)\nV1 – quantidade de DNA necessária (descobrir)\nC2 – concentração para diluir (vai diluir para 5 ng)\nV2 – volume final total (50 μL)\nOBS: Quantidade de água Milli-Q é: 50 μL - quantidade de DNA"
   },
   {
-    "objectID": "amplificacao.html",
-    "href": "amplificacao.html",
+    "objectID": "amplificacao.html#protocolo-de-amplificação",
+    "href": "amplificacao.html#protocolo-de-amplificação",
     "title": "10  Amplificação",
-    "section": "",
-    "text": "Amplificação é o nome dado ao processo de replicação de uma região específica do DNA alvo de um estudo de modo que seja possível produzir um grande número de cópias desse mesmo segmento.\nA técnica utilizada para a amplificação é a reação em cadeia da polimerase (PCR), para a execução dessa técnica é preciso primeiramente fazer a seleção do marcador molecular que será utilizado, ou seja, a região do DNA de interesse a ser replicada, isso irá variar conforme as necessidades do estudo em questão. Com base nessa escolha, serão utilizados reagentes específicos com utilidades diferentes para que a reação aconteça.\n\n\n\n\n\n\nAprendendo\n\n\n\nOs reagentes utilizados são:\n\nO DNA extraído;\nUm par de oligonucleotídeos iniciadores, os chamados primers, sendo um foward (-->) e um reverse (<--). Eles irão se ligar na região que deve ser amplificada e permitir a ação de uma enzima polimerizadora;\nA enzima DNA polimerase. Normalmente a enzima utilizada nas reações de PCR é proveniente da bactéria Thermus aquaticus (por isso Taq), uma espécie termófila adaptada a viver em águas de alta temperatura, dessa forma, a enzima advinda dela é termoestável e consequentemente resistente às altas temperaturas da PCR sem sofrer desnaturação;\nBases nitrogenadas livres, os desoxirribonucleotídeos (dNTPs);\nTampão de reação (MgCl2-), importante para agir como cofator da DNA polimerase;\nSolução tampão, com o objetivo de manter o pH da reação estável durante o ciclo de amplificação;\nÁgua Milli-Q, para completar o volume necessário.\n\n\n\n\n\n\nReagentes utilizados na PCR\n\n\nA mistura desses componentes é levada ao termociclador, um aparelho com a capacidade de aquecer e resfriar as amostras, isso é importante porque são temperaturas específicas que permitem a abertura das fitas, anelamento dos primers e a ação da enzima DNA-polimerase. Comumente, dividimos a PCR em três etapas, são elas:\n\nDesnaturação: Nesse momento as fitas de DNA, configuradas em dupla-hélice, terão suas ligações de hidrogênio quebradas, sendo assim separadas. Essa etapa ocorre graças à elevação da temperatura do termociclador a temperaturas acima de 90° C.\nAnelamento: Com as fitas já desnaturadas, a temperatura do aparelho é reduzida comumente para valores entre 45° C e 65° C e o par de primers, chamados de iniciadores, se ligam com as suas sequências complementares na fita molde.\nPolimerização: O termociclador regula a sua temperatura para 72° C, atingindo a temperatura ótima para a ação da enzima DNA polimerase, que começa a síntese de novas fitas utilizando as dNTPs livres como matéria prima. A síntese só é possível graças à disponibilidade de extremidades 3’OH livres pertencentes aos primers.\n\nAs três etapas citadas anteriormente são repetidas em cerca de 20 a 30 ciclos, possibilitando que até bilhões de cópias da região selecionada sejam produzidas."
+    "section": "10.1 Protocolo de amplificação",
+    "text": "10.1 Protocolo de amplificação\nPara uma reação de PCR iremos precisar de:\n\nTubo de 0,5 (novo)\nTubos de 0,2 (novo)\nReagentes\nDNA\nMarcador permanente\n\n\n\n\n\n\n\nComo fazemos\n\n\n\n\n1º Passo: Escrever em cada tubinho de 0,2 o número da amostra referente (lembrando de fazer um tubo branco, ou seja, esse é um tubinho onde não colocamos DNA, apenas o mix);\n2º Passo: Preparar o mix;\n3º Passo: Distribuir o mix nos tubinhos de 0,2;\n4º Passo: Acrescentar o DNA correspondente em cada tubinho;\n5º Passo: Colocar a reação no termociclador.\n\n\n\nO tubo de 0,5 será utilizado para realizar o mix da PCR. O mix nada mais é que a junção de todos os reagentes que precisamos em um único tubo para facilitar na hora de pipetar. Para cada amostra que queremos realizar PCR com 2μl de DNA, precisa dos seguintes reagentes e quantidades:\n\n\n\nReagentes\nQuantidade\n\n\n\n\nÁgua Milli-Q\n17,50 μL\n\n\nTampão 10X\n2,50 μL\n\n\nMgCl2\n1,00 μL\n\n\ndNTPs\n1,00 μL\n\n\nPrimer 1\n0,40 μL\n\n\nPrimer 2\n0,40 μL\n\n\nTaq\n0,20 μL\n\n\n\nObs: Para uma reação com uma quantidade diferente de 2μl de DNA, o valor alterado para mais ou para menos será sempre da Água Mq.\nLembrando que para realizar a PCR, é preciso multiplicar o valor da tabela pelo número de amostras que serão preparadas, somando sempre o branco e mais uma para margem de erro. Você pode acessar a tabela para impressão com esses cálculos já realizados no link <______>.\nApós realizado o mix, para uma reação de 2μl de DNA, iremos transferir do tubo do mix 23μl para cada um dos tubinhos de 0,2 (uma reação deve ter volume total de 25μl). Nesse momento pode utilizar a mesma ponteira, já que se trata dos mesmos reagentes.\nFeito isso, feche o tubo do branco, pois ele já se encontra finalizado e pode iniciar a distribuição do DNA nos tubinhos de 0,2 respectivos, lembrando de trocar a ponteira a cada amostra."
   },
   {
     "objectID": "purificacao.html#purificação-com-polietilenoglicol-peg",
