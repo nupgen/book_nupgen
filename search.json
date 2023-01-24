@@ -109,14 +109,14 @@
     "href": "equipamentos.html#estufas",
     "title": "3  Equipamentos",
     "section": "3.10 Estufas",
-    "text": "3.10 Estufas\nO uso mais básico de uma estufa de laboratório é para secar e esterilizar equipamentos, geralmente vidrarias. Também é utilizada para secar amostras que necessitam desse processo durante o protocolo (por exemplo, envio para o sequenciamento). As estufas usam convecção térmica para fornecer calor à câmara, o que permite manter temperaturas uniformes.\n\nMini estufa\nA mini estufa é utilizada para secagem das amostras. Seu tamanho compacto é ideal para secar os tubos na purificação e para o envio das amostras para o sequenciamento.\n*tirar foto - não achei na internet*\nEssa estufa encontra-se no laboratório do Bloco G90.\n\n\nEstufa grande\nEssa estufa é mais utilizada na secagem de vidrarias ou outros utensílios do laboratório que necessitem, visto que seu tamanho é maior. No entanto, também pode ser utilizada para secagem de amostras quando necessário (durante a extração de DNA, por exemplo).\n\nEssa estufa encontra-se no laboratório do Bloco G80."
+    "text": "3.10 Estufas\nO uso mais básico de uma estufa de laboratório é para secar e esterilizar equipamentos, geralmente vidrarias. Também é utilizada para secar amostras que necessitam desse processo durante o protocolo (por exemplo, envio para o sequenciamento). As estufas usam convecção térmica para fornecer calor à câmara, o que permite manter temperaturas uniformes.\n\nMini estufa\nA mini estufa é utilizada para secagem das amostras. Seu tamanho compacto é ideal para secar os tubos na purificação e para o envio das amostras para o sequenciamento.\n\n\n\nEssa estufa encontra-se no laboratório do Bloco G90.\n\n\n\n\nEstufa grande\nEssa estufa é mais utilizada na secagem de vidrarias ou outros utensílios do laboratório que necessitem, visto que seu tamanho é maior. No entanto, também pode ser utilizada para secagem de amostras quando necessário (durante a extração de DNA, por exemplo).\n\n\n\nEssa estufa encontra-se no laboratório do Bloco G80."
   },
   {
     "objectID": "equipamentos.html#agitador-magnético",
     "href": "equipamentos.html#agitador-magnético",
     "title": "3  Equipamentos",
     "section": "3.11 Agitador magnético",
-    "text": "3.11 Agitador magnético\nO Agitador magnético é um equipamento de laboratório utilizado para realizar misturas de diversas soluções. Para que a mistura aconteça, é colocado dentro do recipiente uma pulga (barra magnética), que irá fazer a agitação do líquido enquanto o aparelho estiver ligado. O agitador funciona como um ímã que gira acoplado a um motor elétrico, mexendo consequentemente a pulga promovendo a mistura da solução. É mais utilizado no preparado de tampão TBE estoque, visto que é necessário uma boa homogeneização da solução.\n\nEsse agitador/pulga encontra-se no laboratório do Bloco G90."
+    "text": "3.11 Agitador magnético\nO Agitador magnético é um equipamento de laboratório utilizado para realizar misturas de diversas soluções. Para que a mistura aconteça, é colocado dentro do recipiente uma pulga (barra magnética), que irá fazer a agitação do líquido enquanto o aparelho estiver ligado. O agitador funciona como um ímã que gira acoplado a um motor elétrico, mexendo consequentemente a pulga promovendo a mistura da solução. É mais utilizado no preparado de tampão TBE estoque, visto que é necessário uma boa homogeneização da solução.\n\n\n\n\n\nEsse agitador/pulga encontra-se no laboratório do Bloco G90."
   },
   {
     "objectID": "biosseguranca.html",
@@ -130,14 +130,21 @@
     "href": "coletas.html#campo",
     "title": "5  Coletas",
     "section": "5.1 Campo",
-    "text": "5.1 Campo\nPreparação para viagem\nDados:\nCoordenadas, espécie, local, foto do ambiente,"
+    "text": "5.1 Campo\nToda viagem de campo é bem complicada, pois temos que fazer várias coisas com antecedência e não podemos esquecer nada.\n\nLicença de coleta\nToda coleta de material biológico deve ter uma licença de coleta, pois retirar animais silvestres da natureza é crime. Por isso é essencial conversar com os professores responsáveis antes e providenciar. Leve a autorização impressa dentro de um saco plástico transparente para não molhar. O PELD já possui uma licença geral de coleta.\n\n\nLocal de coleta\nDefinir o local que será realizada a coleta é muito importante, pois quanto melhor o local, menos esforço amostral será necessário e, consequentemente, menos dinheiro será gasto. Converse com outras pessoas que já realizaram coletas no mesmo ambiente previamente.\nÉ muito importante conhecer o ponto de coleta, bem como planejar a infraestrutura, alimentação e quantas pessoas serão necessárias.\nPreparação para viagem"
+  },
+  {
+    "objectID": "coletas.html#dados",
+    "href": "coletas.html#dados",
+    "title": "5  Coletas",
+    "section": "5.2 Dados",
+    "text": "5.2 Dados\nEm qualquer coleta deve ser registrado o maior número de dados possível, afim de facilitar o trabalho futuro ou mesmo para prever possíveis questionamentos de revisores. Alguns dados muito importante são:\n\nCoordenadas;\nEspécie coletada;\nNúmero de espécimes;\nLocal;\nFotos e descrição do ambiente;"
   },
   {
     "objectID": "coletas.html#triagem",
     "href": "coletas.html#triagem",
     "title": "5  Coletas",
-    "section": "5.2 Triagem",
-    "text": "5.2 Triagem"
+    "section": "5.3 Triagem",
+    "text": "5.3 Triagem\nApós coletar os espécimes, é necessário realizar a triagem para garantir a qualidade do estudo. Com caramujos geralmente são triados os parasitos, com peixes podemos retirar o tecido, etc."
   },
   {
     "objectID": "diluicoes.html#etanol",
@@ -249,35 +256,42 @@
     "href": "eletroforese.html#ladder",
     "title": "8  Eletroforese",
     "section": "8.1 Ladder",
-    "text": "8.1 Ladder\nO Ladder é um marcador de peso molecular utilizado para determinar o tamanho dos fragmentos após a amplificação do DNA. É composto por produtos de PCR e plasmídeos digeridos com enzimas de restrição, sendo ideal para uso como padrão de peso molecular conhecido para eletroforese em gel de agarose. O Ladder apresenta bandas de maior intensidade que irão servir como pontos de referência (geralmente duas bandas para o Ladder 100 pb e três bandas para o Ladder 1 Kb).\n\n\n\n\n\n\nComo fazemos\n\n\n\nNo Nupgen há duas opções de Ladder para serem utilizados como padrão, o Ladder 100 pb e o Ladder 1 Kb. O marcador DNA Ladder 100 pb é o mais utilizado nos protocolos do laboratório e consiste em múltiplas repetições de fragmentos de DNA (12 fragmentos), separados a cada 100 pb até 1 Kb, com dois fragmentos adicionais de 1500 e 2072 pb. Já o marcador de peso molecular DNA Ladder 1 Kb contém 14 fragmentos facilmente identificáveis, comumente utilizado para a identificação de massa molecular de fragmentos de DNA entre 250 bp a 10 Kb."
+    "text": "8.1 Ladder\nO Ladder é um marcador de peso molecular utilizado para determinar o tamanho dos fragmentos após a amplificação do DNA. É composto por produtos de PCR e plasmídeos digeridos com enzimas de restrição, sendo ideal para uso como padrão de peso molecular conhecido para eletroforese em gel de agarose. O Ladder apresenta bandas de maior intensidade que irão servir como pontos de referência (geralmente três bandas).\n\n\n\n\n\n\nComo fazemos\n\n\n\nNo Nupgen há duas opções de Ladder para serem utilizados como padrão, o Ladder 100 pb e o Ladder 1 Kb. O marcador DNA Ladder 100 pb é o mais utilizado nos protocolos do laboratório e consiste em múltiplas repetições de fragmentos de DNA, separados a cada 100 pb até 1 Kb (ou 1400 pb), com fragmentos adicionais de 1500 e 2000 (ou 2072) pb. Já o marcador de peso molecular DNA Ladder 1 Kb contém 14 fragmentos facilmente identificáveis, comumente utilizado para a identificação de massa molecular de fragmentos de DNA entre 250 bp a 10 Kb."
   },
   {
     "objectID": "eletroforese.html#lambda",
     "href": "eletroforese.html#lambda",
     "title": "8  Eletroforese",
     "section": "8.2 Lambda",
-    "text": "8.2 Lambda\nLambda é um bacteriófago de Escherichia coli e seu DNA contém 48.502 pares de nucleotídeos. É utilizado como DNA padrão com concentrações conhecidas (por exemplo 5, 10 e 20 ng/μL) para quantificar o DNA extraído de amostras alvo de estudos por meio da comparação visual pela fluorescência e espessura das bandas. O DNA fago Lambda é adquirido de empresas com uma concentração estoque específica e para ser utilizado na rotina do laboratório é preciso realizar a diluição com base nas concentrações desejadas.\n\n\n\n\n\n\nCuidado\n\n\n\nO DNA fago Lambda é utilizado para a quantificação em diferentes concentrações, enquanto o Ladder é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação."
+    "text": "8.2 Lambda\nLambda é um bacteriófago de Escherichia coli e seu DNA contém 48.502 pares de nucleotídeos. É utilizado como DNA padrão com concentrações conhecidas (por exemplo 5, 10 e 20 ng/μL) para quantificar o DNA extraído de amostras alvo de estudos por meio da comparação visual pela fluorescência e espessura das bandas. O DNA fago Lambda é adquirido de empresas com uma concentração estoque específica e para ser utilizado na rotina do laboratório é preciso realizar a diluição com base nas concentrações desejadas.\n\n\n\n\n\n\nCuidado\n\n\n\nO DNA fago Lambda é utilizado para a quantificação de DNA extraído em diferentes concentrações, enquanto o Ladder é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação."
   },
   {
-    "objectID": "eletroforese.html#gel-agarose",
-    "href": "eletroforese.html#gel-agarose",
+    "objectID": "eletroforese.html#loading",
+    "href": "eletroforese.html#loading",
     "title": "8  Eletroforese",
-    "section": "8.3 Gel agarose",
-    "text": "8.3 Gel agarose\ntexto texto\n\nGel 1%\n\n\n\nCuba - 60 mL\n\n\n\n\n0,6g de agarose\n\n\n12 mL de TBE\n\n\n48 mL de água destilada\n\n\n\n\n\n\nCuba - 120 mL\n\n\n\n\n1,2g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada\n\n\n\n\n\nGel 1,4%\n\n\n\nCuba - 120 mL\n\n\n\n\n1,68g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada\n\n\n\n\n\nGel 3%\n\n\n\nCuba - 120 mL\n\n\n\n\n3,6g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada"
+    "section": "8.3 Loading",
+    "text": "8.3 Loading\nTexto"
+  },
+  {
+    "objectID": "eletroforese.html#gel-de-agarose",
+    "href": "eletroforese.html#gel-de-agarose",
+    "title": "8  Eletroforese",
+    "section": "8.4 Gel de agarose",
+    "text": "8.4 Gel de agarose\ntexto texto\n\nGel 1%\n\n\n\nCuba - 60 mL\n\n\n\n\n0,6g de agarose\n\n\n12 mL de TBE 5X\n\n\n48 mL de água destilada\n\n\n\n\n\n\nCuba - 120 mL\n\n\n\n\n1,2g de agarose\n\n\n24 mL de TBE 5X\n\n\n96 mL de água destilada\n\n\n\n\n\nGel 1,4%\n\n\n\nCuba - 120 mL\n\n\n\n\n1,68g de agarose\n\n\n24 mL de TBE 5X\n\n\n96 mL de água destilada\n\n\n\n\n\nGel 3%\n\n\n\nCuba - 120 mL\n\n\n\n\n3,6g de agarose\n\n\n24 mL de TBE 5X\n\n\n96 mL de água destilada"
   },
   {
     "objectID": "eletroforese.html#eletroforese-de-amplificação-e-purificação.",
     "href": "eletroforese.html#eletroforese-de-amplificação-e-purificação.",
     "title": "8  Eletroforese",
-    "section": "8.4 Eletroforese de Amplificação e Purificação.",
-    "text": "8.4 Eletroforese de Amplificação e Purificação.\nObs: O gel para purificação deverá ser novo, enquanto o da amplificação pode ser reutilizado.\n\nLadder 100 pb\n2 μL de loading + 1 μL de GelRed + 2 μL de Ladder 100 pb\n\n\nPor amostra\n2 μL de loading + 1 μL de GelRed + 3 μL da PCR\n\n\n\n\n\n\nImportante\n\n\n\n\nFio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).\nGel agarose 1% (pode ser reutilizado).\nCorrer a 90 volts, por aproximadamente 1 hora.\nColocar o Ladder 100 pb no primeiro poço."
+    "section": "8.5 Eletroforese de Amplificação e Purificação.",
+    "text": "8.5 Eletroforese de Amplificação e Purificação.\nObs: O gel para purificação deverá ser novo, enquanto o da amplificação pode ser reutilizado.\n\nLadder 100 pb\n2 μL de loading + 1 μL de GelRed + 2 μL de Ladder 100 pb\n\n\nPor amostra\n2 μL de loading + 1 μL de GelRed + 3 μL da PCR\n\n\n\n\n\n\nImportante\n\n\n\n\nFio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).\nGel agarose 1% (pode ser reutilizado).\nRealizar a corrida eletroforética a 90 volts, por aproximadamente 1 hora.\nAplicar o Ladder 100 pb no primeiro poço."
   },
   {
     "objectID": "eletroforese.html#eletroforese-de-quantificação.",
     "href": "eletroforese.html#eletroforese-de-quantificação.",
     "title": "8  Eletroforese",
-    "section": "8.5 Eletroforese de Quantificação.",
-    "text": "8.5 Eletroforese de Quantificação.\nQuantificação com gel de agarose\nA eletroforese para quantificação não é realizada para todos os grupos trabalhados no laboratório. O gel para quantificação deverá ser novo.\nLambda:\n\nLambda 5ng/μL - 5μL + 1 μL de GelRed\nLambda 10ng/μL - 5μL + 1 μL de GelRed\nLambda 20ng/μL - 5μL + 1 μL de GelRed\n\nAmostra - 2 μL de loading + 1 μL de GelRed + 3 μL da PCR\nQuantificação com Nanodrop"
+    "section": "8.6 Eletroforese de Quantificação.",
+    "text": "8.6 Eletroforese de Quantificação.\nQuantificação com gel de agarose\nA eletroforese para quantificação de DNA não é realizada para todos os organismos trabalhados no laboratório pois em alguns casos (como na extração de parasitos) a quantidade de DNA extraído é muito pequena para ser visualizado no gel.\nO gel para quantificação deverá ser novo.\nLambda:\n\nLambda 5ng/μL - 5μL + 1 μL de GelRed\nLambda 10ng/μL - 5μL + 1 μL de GelRed\nLambda 20ng/μL - 5μL + 1 μL de GelRed\n\nAmostra - 2 μL de loading + 1 μL de GelRed + 3 μL da PCR\nQuantificação com Nanodrop"
   },
   {
     "objectID": "quantificacao.html#preparação-por-amostra",
