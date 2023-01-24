@@ -134,22 +134,18 @@ O uso mais básico de uma estufa de laboratório é para secar e esterilizar equ
 
 A mini estufa é utilizada para secagem das amostras. Seu tamanho compacto é ideal para secar os tubos na purificação e para o envio das amostras para o sequenciamento.
 
-\*tirar foto - não achei na internet\*
-
-Essa estufa encontra-se no laboratório do Bloco G90.
+![Essa estufa encontra-se no laboratório do Bloco G90.](figures/equipamentos/estufa_pequena.png){fig-align="center" height="300"}
 
 ### Estufa grande
 
 Essa estufa é mais utilizada na secagem de vidrarias ou outros utensílios do laboratório que necessitem, visto que seu tamanho é maior. No entanto, também pode ser utilizada para secagem de amostras quando necessário (durante a extração de DNA, por exemplo).
 
-<!-- ![](figures/equipamentos/Fonte para eletroforese.png){fig-align="center" height="300"} -->
-
-Essa estufa encontra-se no laboratório do Bloco G80.
+![Essa estufa encontra-se no laboratório do Bloco G80.](figures/equipamentos/estufa_grande.png){fig-align="center" height="300"}
 
 ## Agitador magnético
 
 O Agitador magnético é um equipamento de laboratório utilizado para realizar misturas de diversas soluções. Para que a mistura aconteça, é colocado dentro do recipiente uma pulga (barra magnética), que irá fazer a agitação do líquido enquanto o aparelho estiver ligado. O agitador funciona como um ímã que gira acoplado a um motor elétrico, mexendo consequentemente a pulga promovendo a mistura da solução. É mais utilizado no preparado de tampão TBE estoque, visto que é necessário uma boa homogeneização da solução.
 
-<!-- ![](figures/equipamentos/Fonte para eletroforese.png){fig-align="center" height="300"} -->
+![](figures/equipamentos/agitador_magnetico.png){fig-align="center" height="300"}
 
 Esse agitador/pulga encontra-se no laboratório do Bloco G90.

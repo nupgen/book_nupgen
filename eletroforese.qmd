@@ -8,7 +8,7 @@ A escolha por uma eletroforese vertical ou horizontal vai depender do objetivo q
 
 Para a eletroforese horizontal em gel de agarose, o gel é preparado de acordo com a concentração desejada (no laboratório geralmente é utilizada a concentração de **1%**), misturando a quantidade correta de agarose, tampão TBE 5x (**T**ris, Ácido **B**órico e **E**DTA) e água destilada. Para que a agarose seja completamente dissolvida é preciso aquecer em microondas até a solução ficar completamente translúcida. Posteriormente, o gel é colocado em um suporte apropriado com os pentes com a finalidade de formar as cavidades (poços) onde as amostras serão aplicadas. Após preparação e aplicação das amostras nas cavidades do gel, este será colocado na cuba juntamente com o tampão de corrida (TBE 1x) e a cuba será ligada por meio de fios em uma fonte de energia. O pesquisador deve ajustar a voltagem adequada e o tempo de corrida.
 
-Depois que a corrida é finalizada, a fonte de energia é desligada e o gel é retirado da cuba eletroforética, podendo, posteriormente,  ser visualizado em um equipamento chamado transiluminador. A visualização é possível devido a corantes que são adicionados no momento da preparação das amostras (como GelRed e Safer) e que emitem fluorescência sob determinadas condições. É importante determinar qual o tipo de equipamento que deve ser utilizado (transiluminador UV ou LED) e qual corante deverá ser utilizado. A eletroforese pode ser utilizada para realizar quantificação de DNA e visualização e estimativa de tamanho dos fragmentos amplificados.
+Depois que a corrida é finalizada, a fonte de energia é desligada e o gel é retirado da cuba eletroforética, podendo, posteriormente, ser visualizado em um equipamento chamado transiluminador. A visualização é possível devido a corantes que são adicionados no momento da preparação das amostras (como GelRed e Safer) e que emitem fluorescência sob determinadas condições. É importante determinar qual o tipo de equipamento e qual corante deve ser utilizado (transiluminador UV ou LED). A eletroforese pode ser utilizada para realizar quantificação de DNA e visualização e estimativa de tamanho dos fragmentos amplificados.
 
 ::: {.callout-note appearance="simple"}
 ## Como fazemos
@@ -24,25 +24,35 @@ Depois que a corrida é finalizada, a fonte de energia é desligada e o gel é r
 
 ## Ladder
 
-O Ladder é um marcador de peso molecular utilizado para determinar o tamanho dos fragmentos após a amplificação do DNA. É composto por produtos de PCR e plasmídeos digeridos com enzimas de restrição, sendo ideal para uso como padrão de peso molecular conhecido para eletroforese em gel de agarose. O Ladder apresenta bandas de maior intensidade que irão servir como pontos de referência (geralmente duas bandas para o Ladder **100 pb** e três bandas para o Ladder **1 Kb**).
+O Ladder é um marcador de peso molecular utilizado para determinar o tamanho dos fragmentos após a amplificação do DNA. É composto por produtos de PCR e plasmídeos digeridos com enzimas de restrição, sendo ideal para uso como padrão de peso molecular conhecido para eletroforese em gel de agarose. O Ladder apresenta bandas de maior intensidade que irão servir como pontos de referência (geralmente três bandas).
 
 ::: {.callout-note appearance="simple"}
 ## Como fazemos
 
-No Nupgen há duas opções de Ladder para serem utilizados como padrão, o Ladder 100 pb e o Ladder 1 Kb. O marcador DNA Ladder 100 pb é o mais utilizado nos protocolos do laboratório e consiste em múltiplas repetições de fragmentos de DNA (12 fragmentos), separados a cada 100 pb até 1 Kb, com dois fragmentos adicionais de 1500 e 2072 pb. Já o marcador de peso molecular DNA Ladder 1 Kb contém 14 fragmentos facilmente identificáveis, comumente utilizado para a identificação de massa molecular de fragmentos de DNA entre 250 bp a 10 Kb.
+No Nupgen há duas opções de Ladder para serem utilizados como padrão, o Ladder 100 pb e o Ladder 1 Kb. O marcador DNA Ladder 100 pb é o mais utilizado nos protocolos do laboratório e consiste em múltiplas repetições de fragmentos de DNA, separados a cada 100 pb até 1 Kb (ou 1400 pb), com fragmentos adicionais de 1500 e 2000 (ou 2072) pb. Já o marcador de peso molecular DNA Ladder 1 Kb contém 14 fragmentos facilmente identificáveis, comumente utilizado para a identificação de massa molecular de fragmentos de DNA entre 250 bp a 10 Kb.
 :::
 
-![](figures/ladder1000pb.jpg){width="145"}
+::: {layout-ncol="2"}
+
+![](figures/ladder1000pb.jpg){height="150"}
+
+![](figures/ladder_100bp_invitrogen.jpeg){height="200"}
+
+:::
 
 ## Lambda
 
 Lambda é um bacteriófago de *Escherichia coli* e seu DNA contém 48.502 pares de nucleotídeos. É utilizado como DNA padrão com concentrações conhecidas (por exemplo 5, 10 e 20 ng/μL) para quantificar o DNA extraído de amostras alvo de estudos por meio da comparação visual pela fluorescência e espessura das bandas. O DNA fago Lambda é adquirido de empresas com uma concentração estoque específica e para ser utilizado na rotina do laboratório é preciso realizar a diluição com base nas concentrações desejadas.
 
 ::: callout-caution
-O DNA fago **Lambda** é utilizado para a quantificação em diferentes concentrações, enquanto o **Ladder** é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação.
+O DNA fago **Lambda** é utilizado para a quantificação de DNA extraído em diferentes concentrações, enquanto o **Ladder** é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação.
 :::
 
-## Gel agarose
+## Loading
+
+Texto
+
+## Gel de agarose
 
 texto texto
 
@@ -51,13 +61,13 @@ texto texto
 | Cuba - 60 mL            |
 |-------------------------|
 | 0,6g de agarose         |
-| 12 mL de TBE            |
+| 12 mL de TBE 5X         |
 | 48 mL de água destilada |
 
 | Cuba - 120 mL           |
 |-------------------------|
 | 1,2g de agarose         |
-| 24 mL de TBE            |
+| 24 mL de TBE 5X         |
 | 96 mL de água destilada |
 
 ### Gel 1,4%
@@ -65,7 +75,7 @@ texto texto
 | Cuba - 120 mL           |
 |-------------------------|
 | 1,68g de agarose        |
-| 24 mL de TBE            |
+| 24 mL de TBE 5X         |
 | 96 mL de água destilada |
 
 ### Gel 3%
@@ -73,7 +83,7 @@ texto texto
 | Cuba - 120 mL           |
 |-------------------------|
 | 3,6g de agarose         |
-| 24 mL de TBE            |
+| 24 mL de TBE 5X         |
 | 96 mL de água destilada |
 
 ## Eletroforese de Amplificação e Purificação.
@@ -91,15 +101,17 @@ Obs: O gel para purificação deverá ser novo, enquanto o da amplificação pod
 ::: callout-important
 -   Fio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).
 -   Gel agarose 1% (pode ser reutilizado).
--   Correr a 90 volts, por aproximadamente 1 hora.
--   Colocar o Ladder 100 pb no primeiro poço.
+-   Realizar a corrida eletroforética a 90 volts, por aproximadamente 1 hora.
+-   Aplicar o Ladder 100 pb no primeiro poço.
 :::
 
 ## Eletroforese de Quantificação.
 
 **Quantificação com gel de agarose**
 
-A eletroforese para quantificação não é realizada para todos os grupos trabalhados no laboratório. O gel para quantificação deverá ser novo.
+A eletroforese para quantificação de DNA não é realizada para todos os organismos trabalhados no laboratório pois em alguns casos (como na extração de parasitos) a quantidade de DNA extraído é muito pequena para ser visualizado no gel. 
+
+O gel para quantificação deverá ser novo.
 
 Lambda:
 
