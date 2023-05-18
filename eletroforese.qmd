@@ -33,11 +33,9 @@ No Nupgen há duas opções de Ladder para serem utilizados como padrão, o Ladd
 :::
 
 ::: {layout-ncol="2"}
-
 ![](figures/ladder1000pb.jpg){height="150"}
 
 ![](figures/ladder_100bp_invitrogen.jpeg){height="200"}
-
 :::
 
 ## Lambda
@@ -50,11 +48,14 @@ O DNA fago **Lambda** é utilizado para a quantificação de DNA extraído em di
 
 ## Loading
 
-Texto
+O loading é utilizado para facilitar a visualização da corrida tanto no momento de aplicação das amostras de DNA no gel, quanto ao final da corrida através de sua coloração roxa. Além disso, ele possui a função de aumentar a densidade da amostra, evitando com que ela suba e trasnforde dos poços durante a corrida do gel. Essa solução é composta com corante azul de bromofenol e sacarose. Como o DNA não possui cor, também se adiciona um corante que emite fluorescência para que se consiga visualizá-lo com clareza no momento em que é exposto à luz UV ou LED no transiluminador. Os corantes normalmente utilizados são o brometo de etídio (agente mutagênico e carcinogênico), Saffer e GelRed.
 
 ## Gel de agarose
 
-texto texto
+O gel de agarose é a matriz na qual é aplicada a amostra e que permite realizar a separação de moléculas de DNA do polo negativo para o positivo. A agarose é um polissacarídeo extraído de uma alga marinha que, quando solidificada, forma uma rede porosa. O tamanho dos poros dependente da concentração de agarose utilizada para fazer o gel, quanto maior concentração de agarose menores os poros dificultando a migração de grandes moléculas de DNA. Essa matriz cria uma resistência, onde moléculas menores migram mais rápido e moléculas maiores mais devagar. A capacidade de separar moléculas por tamanho pode ser útil em diversas aplicações de pesquisa, como por exemplo identificar o tamanho das amostras desconhecidas em comparação com fragmentos conhecidos.
+
+O gel de agarose deve ser preparado ajustando-se a concentração apropriada para separar os fragmentos de DNA presentes nas amostras estudadas. Normalmente, as concentrações de agarose no gel variam de 1% a 3%. Exemplos de dilução serão dadas no tópico a seguir. 
+
 
 ### Gel 1%
 
@@ -109,7 +110,7 @@ Obs: O gel para purificação deverá ser novo, enquanto o da amplificação pod
 
 **Quantificação com gel de agarose**
 
-A eletroforese para quantificação de DNA não é realizada para todos os organismos trabalhados no laboratório pois em alguns casos (como na extração de parasitos) a quantidade de DNA extraído é muito pequena para ser visualizado no gel. 
+A eletroforese para quantificação de DNA não é realizada para todos os organismos trabalhados no laboratório pois em alguns casos (como na extração de parasitos) a quantidade de DNA extraído é muito pequena para ser visualizado no gel.
 
 O gel para quantificação deverá ser novo.
 

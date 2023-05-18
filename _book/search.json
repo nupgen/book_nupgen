@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Laboratório de Genética Molecular - Nupgen - DBC/Nupélia",
     "section": "",
-    "text": "Início\nEste é o manual online do Nupgen, o Laboratório de Genética Molecular do Nupélia (DBC/Nupélia). Aqui você poderá encontrar textos explicativos sobre nossa linha de pesquisa, as metodologias utilizadas em nosso laboratório, bem como os protocolos atualizados. Este é um material introdutório destinado principalmente aos alunos do laboratório e pode servir como guia para as tarefas mais técnicas. Esperamos que ele funcione como um Procedimento Operacional Padrão (POP) em nosso laboratório, mantendo as equipes alinhadas, elevando a produtividade e evitando o desperdício de recursos dentro do laboratório. Este manual não precisa ser lido de forma sequencial e cada capítulo é independente de outros, no entanto, organizamos os capítulos seguindo a lógica de trabalho no laboratório para tornar a leitura mais fluida.\nO objetivo deste manual não é substituir a colaboração entre alunos do laboratório, mas sim garantir que pequenos detalhes não sejam perdidos com o passar do tempo. Na verdade, esperamos que os tópicos deste manual sejam exaustivamente discutidos entre os alunos, a fim de melhorar este conteúdo e gerar novas perguntas que ajudem no desenvolvimento da pesquisa.\nUma versão em PDF deste manual pode ser acessada pelo seguinte link: Manual PDF\nEste manual foi escrito em Quarto.\nA capa deste manual foi feita pelo Marco Paganini, do nosso laboratório.\nOrganização: Bruno Mioto\nAutores: Adrian Silva, Bárbara Scorsim, Bruno Mioto, Eloisa de Páris e Mayara Passere"
+    "text": "Início\nEste é o manual online do Nupgen, o Laboratório de Genética Molecular do Nupélia (DBC/Nupélia). Aqui você poderá encontrar textos explicativos sobre nossa linha de pesquisa, as metodologias utilizadas em nosso laboratório, bem como os protocolos atualizados. Este é um material introdutório destinado principalmente aos alunos do laboratório e pode servir como guia para as tarefas mais técnicas. Esperamos que ele funcione como um Procedimento Operacional Padrão (POP) em nosso laboratório, mantendo as equipes alinhadas, elevando a produtividade e evitando o desperdício de recursos dentro do laboratório. Este manual não precisa ser lido de forma sequencial e cada capítulo é independente de outros, no entanto, organizamos os capítulos seguindo a lógica de trabalho no laboratório para tornar a leitura mais fluida.\nO objetivo deste manual não é substituir a colaboração entre alunos do laboratório, mas sim garantir que pequenos detalhes não sejam perdidos com o passar do tempo. Na verdade, esperamos que os tópicos deste manual sejam exaustivamente discutidos entre os alunos, a fim de melhorar este conteúdo e gerar novas perguntas que ajudem no desenvolvimento da pesquisa.\nUma versão em PDF deste manual pode ser acessada pelo seguinte link: Manual PDF\nEste manual foi escrito em Quarto.\nA capa deste manual foi feita pelo Marco Paganini, do nosso laboratório.\nOrganização: Bruno Mioto\nAutores: Adrian Silva, Bárbara Scorsim, Bruno Mioto, Eloisa de Páris, Laura Ramos e Mayara Passere"
   },
   {
     "objectID": "genetica-e-marcadores.html#o-que-é-a-genética-molecular",
@@ -35,11 +35,11 @@
     "text": "2.2 Linhas de Pesquisa\nAtualmente, o Nupgen realiza pesquisas objetivando detectar polimorfismos genéticos em populações naturais de organismos: peixes, parasitos, macrófitas, macroinvertebrados, microrganismos, além de estudos utilizando DNA ambiental. Assim, os pesquisadores e alunos do laboratório conduzem as seguintes linhas de pesquisa:\n\nTaxonomia\nConsiste na identificação dos organismos utilizando marcadores moleculares. Projetos nessa linha de pesquisa costumam ocorrer em parceria com outros laboratórios, que contribuem com a identificação morfológica do organismo. A adição da genética molecular facilita a detecção de espécies novas, híbridos e espécies crípticas, por exemplo.\n\n\nSistemática filogenética\nDiferente da taxonomia, projetos envolvendo Sistemática Filogenética não buscam somente identificar os organismos, mas também levantar hipóteses sobre a relação evolutiva entre eles (entre espécies de um mesmo gênero, por exemplo).\n\n\nGenética de populações\nA Genética de populações busca entender o fluxo gênico em uma população natural, podendo endereçar questões acerca de processos de especiação e adaptação, e podendo observar os efeitos da seleção natural, deriva genética e dos efeitos de gargalo.\n\n\nBiogeografia\nBiogeografia é uma linha de pesquisa multidisciplinar que busca entender a distribuição de um grupo de organismos em correlação com a evolução ambiental (escala de tempo geológica), gerando resultados importantes para a conservação da biodiversidade."
   },
   {
-    "objectID": "lab.html#projetos-do-nupgen",
-    "href": "lab.html#projetos-do-nupgen",
+    "objectID": "lab.html#organismos-estudados-no-nupgen",
+    "href": "lab.html#organismos-estudados-no-nupgen",
     "title": "2  O Laboratório",
-    "section": "2.3 Projetos do Nupgen",
-    "text": "2.3 Projetos do Nupgen\n\nPeixes\nIctiofaunas de reservatórios aquáticos podem ser formadas por organismos nativos e invasores. O estudo de populações nativas é importante para verificar a presença e interação desses organismos de determinada região. Invasores, quando presentes, modificam o habitat e o sistema onde foram introduzidos, podendo levar a perda de biodiversidade local e alterações genéticas. Assim, estudos moleculares permitem estimar a diversidade e verificar as alterações genéticas que ocorrem nestes animais.\n\n\nMacrófitas\nAs macrófitas aquáticas, quando invasoras, constituem uma ameaça em termos ecológicos e também econômicos. A correta identificação e a elucidação da diversidade genética desses organismos podem auxiliar na compreensão dos mecanismos de dispersão e colonização, como também no manejo adequado das espécies.\n\n\nParasitos\nA relação parasito-hospedeiro possui grande importância nos ambientes naturais. O conhecimento da biodiversidade de parasitos contribui com o levantamento de espécies de hospedeiros no local, além de direcionar métodos de manejo para parasitos com potencial zoonótico.\n\n\nMicrorganismos\nMesmo invisíveis a olho nu, os microrganismos possuem grande importância em ambientes aquáticos, servindo como níveis inferiores na cadeia alimentar. Alguns organismos podem influenciar na qualidade d’água, por isso conhecer a diversidade destes microrganismos é fundamental.\n\n\nGenes opsins\nO estudo de proteínas visuais possibilita observar e comparar a influência de fatores ecológicos no processo evolutivo de diversas linhagens, identificando como as espécies se adaptam a diversas pressões seletivas existentes no habitat.\n\n\nDNA Ambiental\nA partir de amostras de água, é possível obter fragmentos de DNA de organismos que estiveram neste ambiente. Peixes, microrganismos, anfíbios, parasitos e muitos outros organismos deixam rastros genéticos e podemos estudá-los indiretamente a partir de técnicas de sequenciamento de nova geração."
+    "section": "2.3 Organismos estudados no Nupgen",
+    "text": "2.3 Organismos estudados no Nupgen\n\nPeixes\nIctiofaunas de ambientes aquáticos podem ser formadas por organismos nativos e invasores. O estudo genético permite verificar níveis de variação genética, perda de biodiversidade e alterações relacionadas a processos dehibridização.\nO estudo de populações nativas é importante para verificar a presença e interação desses organismos de determinada região. Invasores, quando presentes, modificam o habitat e o sistema onde foram introduzidos, podendo levar a perda de biodiversidade local e alterações genéticas. Assim, estudos moleculares permitem estimar a diversidade e verificar as alterações genéticas que ocorrem nestes animais.\n\n\nMacrófitas\nAs macrófitas aquáticas, quando invasoras, constituem uma ameaça em termos ecológicos e também econômicos. A correta identificação e a elucidação da diversidade genética desses organismos podem auxiliar na compreensão dos mecanismos de dispersão e colonização, como também no manejo adequado das espécies.\n\n\nParasitos\nA relação parasito-hospedeiro possui grande importância nos ambientes naturais. O conhecimento da biodiversidade de parasitos contribui com o levantamento de espécies de hospedeiros no local, além de direcionar métodos de manejo para parasitos com potencial zoonótico.\n\n\nMicrorganismos\nMesmo invisíveis a olho nu, os microrganismos possuem grande importância em ambientes aquáticos, servindo como níveis inferiores na cadeia alimentar. Alguns organismos podem influenciar na qualidade d’água, por isso conhecer a diversidade destes microrganismos é fundamental.\n\n\nGenes opsins\nO estudo de proteínas visuais possibilita observar e comparar a influência de fatores ecológicos no processo evolutivo de diversas linhagens, identificando como as espécies se adaptam a diversas pressões seletivas existentes no habitat.\n\n\nDNA Ambiental\nA partir de amostras ambientais, é possível obter fragmentos de DNA de organismos que estiveram neste ambiente. Peixes, microrganismos, anfíbios, parasitos e muitos outros organismos deixam rastros genéticos e podemos estudá-los indiretamente a partir de técnicas de sequenciamento de nova geração."
   },
   {
     "objectID": "equipamentos.html#centrífugas",
@@ -119,6 +119,34 @@
     "text": "3.11 Agitador magnético\nO Agitador magnético é um equipamento de laboratório utilizado para realizar misturas de diversas soluções. Para que a mistura aconteça, é colocado dentro do recipiente uma pulga (barra magnética), que irá fazer a agitação do líquido enquanto o aparelho estiver ligado. O agitador funciona como um ímã que gira acoplado a um motor elétrico, mexendo consequentemente a pulga promovendo a mistura da solução. É mais utilizado no preparado de tampão TBE estoque, visto que é necessário uma boa homogeneização da solução.\n\n\n\n\n\nEsse agitador/pulga encontra-se no laboratório do Bloco G90."
   },
   {
+    "objectID": "biosseguranca.html",
+    "href": "biosseguranca.html",
+    "title": "4  Biossegurança",
+    "section": "",
+    "text": "Falar sobre biossegurança no lab\nLimpeza, contaminação, perigos, EPI, etc\nProdutos perigosos: Ácido bórica"
+  },
+  {
+    "objectID": "coletas.html#campo",
+    "href": "coletas.html#campo",
+    "title": "5  Coletas",
+    "section": "5.1 Campo",
+    "text": "5.1 Campo\nToda viagem de campo é bem complicada, pois temos que fazer várias coisas com antecedência e não podemos esquecer nada.\n\nLicença de coleta\nToda coleta de material biológico deve ter uma licença de coleta, pois retirar animais silvestres da natureza é crime. Por isso é essencial conversar com os professores responsáveis antes e providenciar. Leve a autorização impressa dentro de um saco plástico transparente para não molhar. O PELD já possui uma licença geral de coleta.\n\n\nLocal de coleta\nDefinir o local que será realizada a coleta é muito importante, pois quanto melhor o local, menos esforço amostral será necessário e, consequentemente, menos dinheiro será gasto. Converse com outras pessoas que já realizaram coletas no mesmo ambiente previamente.\nÉ muito importante conhecer o ponto de coleta, bem como planejar a infraestrutura, alimentação e quantas pessoas serão necessárias.\nPreparação para viagem"
+  },
+  {
+    "objectID": "coletas.html#dados",
+    "href": "coletas.html#dados",
+    "title": "5  Coletas",
+    "section": "5.2 Dados",
+    "text": "5.2 Dados\nEm qualquer coleta deve ser registrado o maior número de dados possível, afim de facilitar o trabalho futuro ou mesmo para prever possíveis questionamentos de revisores. Alguns dados muito importante são:\n\nCoordenadas;\nEspécie coletada;\nNúmero de espécimes;\nLocal;\nFotos e descrição do ambiente;"
+  },
+  {
+    "objectID": "coletas.html#triagem",
+    "href": "coletas.html#triagem",
+    "title": "5  Coletas",
+    "section": "5.3 Triagem",
+    "text": "5.3 Triagem\nApós coletar os espécimes, é necessário realizar a triagem para garantir a qualidade do estudo. Com caramujos geralmente são triados os parasitos, com peixes podemos retirar o tecido, etc."
+  },
+  {
     "objectID": "diluicoes.html#etanol",
     "href": "diluicoes.html#etanol",
     "title": "6  Diluições",
@@ -168,25 +196,32 @@
     "text": "6.7 Tampão TBE 5x (estoque)\nPara preparar 1000 mL\n\n54 g de Tris-Base\n27,5 g de Ácido Bórico\n20 mL de EDTA 0,5M pH 8,0\n\nCompletar para 1000 mL com água destilada\nModo de preparo: em um becker, adicionar um pouco da água destilada. Ir adicionando aos poucos os reagentes, utilizando o agitador magnético para homogeneizar a solução. Ao final, utilizando uma proveta, completar o volume de água que falta e armazenar em frascos de vidro (tampa laranja). Etiquetar e autoclavar."
   },
   {
-    "objectID": "diluicoes.html#tampão-tbe-1x-corrida",
-    "href": "diluicoes.html#tampão-tbe-1x-corrida",
+    "objectID": "diluicoes.html#tampão-tbe-1x-corrida-eletroforética",
+    "href": "diluicoes.html#tampão-tbe-1x-corrida-eletroforética",
     "title": "6  Diluições",
-    "section": "6.8 Tampão TBE 1x (corrida)",
-    "text": "6.8 Tampão TBE 1x (corrida)\n\\(C1 * V1 = C2 * V2\\)\n5(estoque) * V1 = 1 * 1000 mL\nV1 = 1000/5\nV1 = 200 mL de TBE 5x\nCompletar para 1000 mL de água destilada (= 800 mL)"
+    "section": "6.8 Tampão TBE 1x (corrida eletroforética)",
+    "text": "6.8 Tampão TBE 1x (corrida eletroforética)\nPara preparar 1000 mL\n\\(C1 * V1 = C2 * V2\\)\n5(estoque) * V1 = 1 * 1000 mL\nV1 = 1000/5\nV1 = 200 mL de TBE 5x\nCompletar para 1000 mL de água destilada (= 800 mL)"
   },
   {
-    "objectID": "diluicoes.html#peg-20-nacl-25m-para-75-ml",
-    "href": "diluicoes.html#peg-20-nacl-25m-para-75-ml",
+    "objectID": "diluicoes.html#tampão-coleta-macrófitas",
+    "href": "diluicoes.html#tampão-coleta-macrófitas",
     "title": "6  Diluições",
-    "section": "6.10 PEG 20% NaCl 2,5M (para 75 mL)",
-    "text": "6.10 PEG 20% NaCl 2,5M (para 75 mL)\n\n15 g de Polietilenoglicol\n10,95 g de NaCl\n\nCompletar para 75 mL com água Milli-Q\nModo de preparo: colocar em um becker um pouco da água e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água que falta e com o auxílio de uma seringa passar a solução pelo filtro (0,2 µM – azul). Ir colocando em tubos Falcon para autoclavar. Após autoclavada, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira."
+    "section": "6.9 Tampão Coleta Macrófitas",
+    "text": "6.9 Tampão Coleta Macrófitas\nPara preparar 1000 mL\n\nTris HCl - 10 mL\nEDTA (0,5mM) - 2 mL\nÁgua destilada - 988ml\n\npH = 8,0\nModo de preparo: Colocar 10ml do Tris HCl e 2ml do EDTA (0,5mM) em um frasco de vidro (tampa laranja ou azul), completar o volume com água destilada. Agitar o frasco para misturar bem e medir o pH com as fitinhas, para conferir se está correto; caso não esteja, basta ajustar com as soluções para pH. Etiquetar e autoclavar."
   },
   {
-    "objectID": "diluicoes.html#diluição-primer-liofilizado",
-    "href": "diluicoes.html#diluição-primer-liofilizado",
+    "objectID": "diluicoes.html#peg-20-nacl-25m",
+    "href": "diluicoes.html#peg-20-nacl-25m",
     "title": "6  Diluições",
-    "section": "6.11 Diluição primer liofilizado",
-    "text": "6.11 Diluição primer liofilizado\nQuantidade em nmol x 1000 / 60 = Quantidade de água Milli-Q\nAcrescentar essa quantidade de água no tubo do primer\nObs: 60 porque é a concentração utilizada para diluição dos primers no laboratório (= 60 µM)"
+    "section": "6.10 PEG 20% NaCl 2,5M",
+    "text": "6.10 PEG 20% NaCl 2,5M\nPara preparar 75 mL\n\n15 g de Polietilenoglicol\n10,95 g de NaCl\n\nCompletar o volume para 75 mL com água ultrapura (Milli-Q)\nModo de preparo: colocar em um becker um pouco da água ultrapura e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água para 75 mL e com o auxílio de uma seringa passar a solução por um filtro (0,2 µM – azul). Acondicionar em tubos Falcon para autoclavar. Após autoclavado, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira."
+  },
+  {
+    "objectID": "diluicoes.html#diluição-de-primer-liofilizado",
+    "href": "diluicoes.html#diluição-de-primer-liofilizado",
+    "title": "6  Diluições",
+    "section": "6.11 Diluição de primer liofilizado",
+    "text": "6.11 Diluição de primer liofilizado\nQuantidade em nmol x 1000 / 60 = Quantidade de água ultrapura (Milli-Q)\nAcrescentar a quantidade obtida de água diretamente no tubo do primer liofilizado.\nObs: 60 µM é a concentração utilizada para diluição dos primers no laboratório."
   },
   {
     "objectID": "extracao.html#protocolo-de-extração-de-dna---promega-peixes",
@@ -210,18 +245,18 @@
     "text": "7.3 Protocolo de Extração de DNA - Promega Macrófitas\n\n\nTubos de 1,5 mL.\nAmostras + nitrogênio líquido (macerar).\nAdicionar 600 μl de Nuclei Lysis Solution (logo após macerar).\nBanho de 15 minutos a 65° C.\nAdicionar 3 μl de RNAse.\nVirar o tubo 5x.\nColocar no banho por 15 minutos a 37° C (pode segurar na mão).\nDeixar por 5 minutos em temperatura ambiente.\nAdicionar 200 μl de Protein Precipitation Solution.\nVórtex.\nCentrifugar por 3 minutos a 16.000 ou 13.000 rpm.\nSeparar sobrenadante e descartar o resto.\nAdicionar 600 μl de isopropanol ao sobrenadante.\nVirar 5x.\nCentrifugar por 1 minuto a 16.000 ou 13.000 rpm.\nDescartar sobrenadante.\nAdicionar 600 μl de etanol 70%.\nVirar 5x.\nCentrifugar por 1 minuto a 16.000 ou 13.000 rpm.\nDescartar sobrenadante.\nDeixar o tubo secar por 15 minutos na estufa.\nAdicionar 50 μl de DNA Rehydration Solution."
   },
   {
-    "objectID": "extracao.html#protocolo-de-extração-de-dna-com-colunas---qiagen-parasitos",
-    "href": "extracao.html#protocolo-de-extração-de-dna-com-colunas---qiagen-parasitos",
-    "title": "6  Extração",
-    "section": "6.4 Protocolo de Extração de DNA com Colunas - QIAGEN Parasitos",
-    "text": "6.4 Protocolo de Extração de DNA com Colunas - QIAGEN Parasitos\n\nDeixar o mínimo possível de líquido na amostra antes de começar.\nAdicionar 180 μL de Buffer ATL.\nAdicionar 20 μL de proteinase K. Misturar com vórtex e incubar a 56º C até completa lise celular (30min - 2h). Misturar com vórtex ocasionalmente durante a incubação.\nMisturar com vórtex por 15 segundos.\nAdicionar 200 μL de Buffer AL. Misturar bem com vórtex.\nAdicionar 200 μL de etanol (96-100%). Misturar bem com vórtex.\nPipetar a mistura em uma coluna de centrifugação DNeasy Mini colocada em um tubo de coleta. Centrifugar a 8.000 rpm (≥6.000 x g) por 1 minuto. Descartar o líquido filtrado e o tubo de coleta.\nColocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW1. Centrifugar por 1 minuto a 8.000 rpm. Descartar o líquido filtrado e o tubo de coleta.\nColocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW2. Centrifugar por 3 minutos a 14.000 rpm (≥20.000 x g). Descartar o líquido filtrado e o tubo de coleta.\nTransferir a coluna para um eppendorf de 1,5 mL.\nAdicionar 50 μL de Buffer AE no centro da membrana da coluna para a eluição do DNA. Incubar por 1 minuto a temperatura ambiente (15-25º C). Centrifugar por 1 minuto a 8.000 rpm.\nDescartar a coluna e guardar o DNA extraído."
+    "objectID": "extracao.html#protocolo-de-extração-de-dna-com-colunas---qiagen-parasitos-e-macrófitas",
+    "href": "extracao.html#protocolo-de-extração-de-dna-com-colunas---qiagen-parasitos-e-macrófitas",
+    "title": "7  Extração",
+    "section": "7.4 Protocolo de Extração de DNA com Colunas - QIAGEN Parasitos e Macrófitas",
+    "text": "7.4 Protocolo de Extração de DNA com Colunas - QIAGEN Parasitos e Macrófitas\n\nDeixar o mínimo possível de líquido na amostra antes de começar.\nAdicionar 180 μL de Buffer ATL.\nAdicionar 20 μL de proteinase K. Homogeneizar com vórtex e incubar a 56º C até completa lise celular (30min - 2h). Homogeneizar com vórtex ocasionalmente durante a incubação.\nHomogeneizar com vórtex por 15 segundos.\nAdicionar 200 μL de Buffer AL. Homogeneizar bem com vórtex.\nAdicionar 200 μL de etanol (96-100%). Homogeneizar  bem com vórtex.\nPipetar a mistura em uma coluna de centrifugação DNeasy Mini colocada em um tubo de coleta. Centrifugar a 8.000 rpm (≥6.000 x g) por 1 minuto. Descartar o líquido filtrado e o tubo de coleta.\nColocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW1. Centrifugar por 1 minuto a 8.000 rpm. Descartar o líquido filtrado e o tubo de coleta.\nColocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW2. Centrifugar por 3 minutos a 14.000 rpm (≥20.000 x g). Descartar o líquido filtrado e o tubo de coleta.\nTransferir a coluna para um eppendorf de 1,5 mL.\nAdicionar 50 μL de Buffer AE no centro da membrana da coluna para a eluição do DNA. Incubar por 1 minuto a temperatura ambiente (15-25º C). Centrifugar por 1 minuto a 8.000 rpm.\nDescartar a coluna e guardar o DNA extraído."
   },
   {
     "objectID": "eletroforese.html#ladder",
     "href": "eletroforese.html#ladder",
     "title": "8  Eletroforese",
     "section": "8.1 Ladder",
-    "text": "8.1 Ladder\nO Ladder é um marcador de peso molecular utilizado para determinar o tamanho dos fragmentos após a amplificação do DNA. É composto por produtos de PCR e plasmídeos digeridos com enzimas de restrição, sendo ideal para uso como padrão de peso molecular conhecido para eletroforese em gel de agarose. O Ladder apresenta bandas de maior intensidade que irão servir como pontos de referência (geralmente duas bandas para o Ladder 100 pb e três bandas para o Ladder 1 Kb).\n\n\n\n\n\n\nComo fazemos\n\n\n\nNo Nupgen há duas opções de Ladder para serem utilizados como padrão, o Ladder 100 pb e o Ladder 1 Kb. O marcador DNA Ladder 100 pb é o mais utilizado nos protocolos do laboratório e consiste em múltiplas repetições de fragmentos de DNA (12 fragmentos), separados a cada 100 pb até 1 Kb, com dois fragmentos adicionais de 1500 e 2072 pb. Já o marcador de peso molecular DNA Ladder 1 Kb contém 14 fragmentos facilmente identificáveis, comumente utilizado para a identificação de massa molecular de fragmentos de DNA entre 250 bp a 10 Kb."
+    "text": "8.1 Ladder\nO Ladder é um marcador de peso molecular utilizado para determinar o tamanho dos fragmentos após a amplificação do DNA. É composto por produtos de PCR e plasmídeos digeridos com enzimas de restrição, sendo ideal para uso como padrão de peso molecular conhecido para eletroforese em gel de agarose. O Ladder apresenta bandas de maior intensidade que irão servir como pontos de referência (geralmente três bandas).\n\n\n\n\n\n\nComo fazemos\n\n\n\nNo Nupgen há duas opções de Ladder para serem utilizados como padrão, o Ladder 100 pb e o Ladder 1 Kb. O marcador DNA Ladder 100 pb é o mais utilizado nos protocolos do laboratório e consiste em múltiplas repetições de fragmentos de DNA, separados a cada 100 pb até 1 Kb (ou 1400 pb), com fragmentos adicionais de 1500 e 2000 (ou 2072) pb. Já o marcador de peso molecular DNA Ladder 1 Kb contém 14 fragmentos facilmente identificáveis, comumente utilizado para a identificação de massa molecular de fragmentos de DNA entre 250 bp a 10 Kb."
   },
   {
     "objectID": "eletroforese.html#lambda",
@@ -231,39 +266,32 @@
     "text": "8.2 Lambda\nLambda é um bacteriófago de Escherichia coli e seu DNA contém 48.502 pares de nucleotídeos. É utilizado como DNA padrão com concentrações conhecidas (por exemplo 5, 10 e 20 ng/μL) para quantificar o DNA extraído de amostras alvo de estudos por meio da comparação visual pela fluorescência e espessura das bandas. O DNA fago Lambda é adquirido de empresas com uma concentração estoque específica e para ser utilizado na rotina do laboratório é preciso realizar a diluição com base nas concentrações desejadas.\n\n\n\n\n\n\nCuidado\n\n\n\nO DNA fago Lambda é utilizado para a quantificação de DNA extraído em diferentes concentrações, enquanto o Ladder é utilizado na eletroforese para verificar o tamanho do fragmento de interesse amplificado após a PCR e nos géis de purificação."
   },
   {
-    "objectID": "eletroforese.html#gel-agarose",
-    "href": "eletroforese.html#gel-agarose",
+    "objectID": "eletroforese.html#loading",
+    "href": "eletroforese.html#loading",
     "title": "8  Eletroforese",
-    "section": "8.3 Gel agarose",
-    "text": "8.3 Gel agarose\ntexto texto\n\nGel 1%\n\n\n\nCuba - 60 mL\n\n\n\n\n0,6g de agarose\n\n\n12 mL de TBE\n\n\n48 mL de água destilada\n\n\n\n\n\n\nCuba - 120 mL\n\n\n\n\n1,2g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada\n\n\n\n\n\nGel 1,4%\n\n\n\nCuba - 120 mL\n\n\n\n\n1,68g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada\n\n\n\n\n\nGel 3%\n\n\n\nCuba - 120 mL\n\n\n\n\n3,6g de agarose\n\n\n24 mL de TBE\n\n\n96 mL de água destilada"
+    "section": "8.3 Loading",
+    "text": "8.3 Loading\nO loading é utilizado para facilitar a visualização da corrida tanto no momento de aplicação das amostras de DNA no gel, quanto ao final da corrida através de sua coloração roxa. Além disso, ele possui a função de aumentar a densidade da amostra, evitando com que ela suba e trasnforde dos poços durante a corrida do gel. Essa solução é composta com corante azul de bromofenol e sacarose. Como o DNA não possui cor, também se adiciona um corante que emite fluorescência para que se consiga visualizá-lo com clareza no momento em que é exposto à luz UV ou LED no transiluminador. Os corantes normalmente utilizados são o brometo de etídio (agente mutagênico e carcinogênico), Saffer e GelRed."
   },
   {
-    "objectID": "eletroforese.html#protocolo-para-quantificação",
-    "href": "eletroforese.html#protocolo-para-quantificação",
+    "objectID": "eletroforese.html#gel-de-agarose",
+    "href": "eletroforese.html#gel-de-agarose",
     "title": "8  Eletroforese",
-    "section": "8.4 Protocolo para quantificação",
-    "text": "8.4 Protocolo para quantificação\ntexto"
+    "section": "8.4 Gel de agarose",
+    "text": "8.4 Gel de agarose\nO gel de agarose é a matriz na qual é aplicada a amostra e que permite realizar a separação de moléculas de DNA do polo negativo para o positivo. A agarose é um polissacarídeo extraído de uma alga marinha que, quando solidificada, forma uma rede porosa. O tamanho dos poros dependente da concentração de agarose utilizada para fazer o gel, quanto maior concentração de agarose menores os poros dificultando a migração de grandes moléculas de DNA. Essa matriz cria uma resistência, onde moléculas menores migram mais rápido e moléculas maiores mais devagar. A capacidade de separar moléculas por tamanho pode ser útil em diversas aplicações de pesquisa, como por exemplo identificar o tamanho das amostras desconhecidas em comparação com fragmentos conhecidos.\nO gel de agarose deve ser preparado ajustando-se a concentração apropriada para separar os fragmentos de DNA presentes nas amostras estudadas. Normalmente, as concentrações de agarose no gel variam de 1% a 3%. Exemplos de dilução serão dadas no tópico a seguir.\n\nGel 1%\n\n\n\nCuba - 60 mL\n\n\n\n\n0,6g de agarose\n\n\n12 mL de TBE 5X\n\n\n48 mL de água destilada\n\n\n\n\n\n\nCuba - 120 mL\n\n\n\n\n1,2g de agarose\n\n\n24 mL de TBE 5X\n\n\n96 mL de água destilada\n\n\n\n\n\nGel 1,4%\n\n\n\nCuba - 120 mL\n\n\n\n\n1,68g de agarose\n\n\n24 mL de TBE 5X\n\n\n96 mL de água destilada\n\n\n\n\n\nGel 3%\n\n\n\nCuba - 120 mL\n\n\n\n\n3,6g de agarose\n\n\n24 mL de TBE 5X\n\n\n96 mL de água destilada"
   },
   {
-    "objectID": "eletroforese.html#protocolo-para-amplificação",
-    "href": "eletroforese.html#protocolo-para-amplificação",
+    "objectID": "eletroforese.html#eletroforese-de-amplificação-e-purificação.",
+    "href": "eletroforese.html#eletroforese-de-amplificação-e-purificação.",
     "title": "8  Eletroforese",
-    "section": "8.5 Protocolo para amplificação",
-    "text": "8.5 Protocolo para amplificação\ntexto"
+    "section": "8.5 Eletroforese de Amplificação e Purificação.",
+    "text": "8.5 Eletroforese de Amplificação e Purificação.\nObs: O gel para purificação deverá ser novo, enquanto o da amplificação pode ser reutilizado.\n\nLadder 100 pb\n2 μL de loading + 1 μL de GelRed + 2 μL de Ladder 100 pb\n\n\nPor amostra\n2 μL de loading + 1 μL de GelRed + 3 μL da PCR\n\n\n\n\n\n\nImportante\n\n\n\n\nFio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).\nGel agarose 1% (pode ser reutilizado).\nRealizar a corrida eletroforética a 90 volts, por aproximadamente 1 hora.\nAplicar o Ladder 100 pb no primeiro poço."
   },
   {
-    "objectID": "eletroforese.html#protocolo-para-purificação",
-    "href": "eletroforese.html#protocolo-para-purificação",
+    "objectID": "eletroforese.html#eletroforese-de-quantificação.",
+    "href": "eletroforese.html#eletroforese-de-quantificação.",
     "title": "8  Eletroforese",
-    "section": "8.6 Protocolo para purificação",
-    "text": "8.6 Protocolo para purificação\ntexto"
-  },
-  {
-    "objectID": "eletroforese.html#preparação-para-eletroforese",
-    "href": "eletroforese.html#preparação-para-eletroforese",
-    "title": "8  Eletroforese",
-    "section": "8.7 Preparação para eletroforese",
-    "text": "8.7 Preparação para eletroforese\n\nLadder 100 pb\n2 μL de loading + 1 μL de GelRed + 2 μL de Ladder 100 pb\n\n\nPor amostra\n2 μL de loading + 1 μL de GelRed + 3 μL da PCR\n\n\n\n\n\n\nImportante\n\n\n\n\nFio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).\nGel agarose 1% (pode ser reutilizado).\nCorrer a 90 volts, por aproximadamente 1 hora.\nColocar o Ladder 100 pb no primeiro poço."
+    "section": "8.6 Eletroforese de Quantificação.",
+    "text": "8.6 Eletroforese de Quantificação.\nQuantificação com gel de agarose\nA eletroforese para quantificação de DNA não é realizada para todos os organismos trabalhados no laboratório pois em alguns casos (como na extração de parasitos) a quantidade de DNA extraído é muito pequena para ser visualizado no gel.\nO gel para quantificação deverá ser novo.\nLambda:\n\nLambda 5ng/μL - 5μL + 1 μL de GelRed\nLambda 10ng/μL - 5μL + 1 μL de GelRed\nLambda 20ng/μL - 5μL + 1 μL de GelRed\n\nAmostra - 2 μL de loading + 1 μL de GelRed + 3 μL da PCR\nQuantificação com Nanodrop"
   },
   {
     "objectID": "quantificacao.html#preparação-por-amostra",
@@ -280,46 +308,46 @@
     "text": "9.2 Diluição do DNA para 5ng/μL\n\\(C1 * V1 = C2 * V2\\)\nC1 – concentração da amostra (inicial)\nV1 – quantidade de DNA necessária (descobrir)\nC2 – concentração para diluir (vai diluir para 5 ng)\nV2 – volume final total (50 μL)\nOBS: Quantidade de água Milli-Q é: 50 μL - quantidade de DNA"
   },
   {
-    "objectID": "amplificacao.html",
-    "href": "amplificacao.html",
-    "title": "9  Amplificação",
-    "section": "",
-    "text": "Amplificação é o nome dado ao processo de replicação de uma região específica do DNA alvo de um estudo de modo que seja possível produzir um grande número de cópias desse mesmo segmento.\nA técnica utilizada para a amplificação é a reação em cadeia da polimerase (PCR), para a execução dessa técnica é preciso primeiramente fazer a seleção do marcador molecular que será utilizado, ou seja, a região do DNA de interesse a ser replicada, isso irá variar conforme as necessidades do estudo em questão. Com base nessa escolha, serão utilizados reagentes específicos com utilidades diferentes para que a reação aconteça.\n\n\n\n\n\n\nAprendendo\n\n\n\nOs reagentes utilizados são:\n\nO DNA extraído;\nUm par de oligonucleotídeos iniciadores, os chamados primers, sendo um foward (-->) e um reverse (<--). Eles irão se ligar na região que deve ser amplificada e permitir a ação de uma enzima polimerizadora;\nA enzima DNA polimerase. Normalmente a enzima utilizada nas reações de PCR é proveniente da bactéria Thermus aquaticus (por isso Taq), uma espécie termófila adaptada a viver em águas de alta temperatura, dessa forma, a enzima advinda dela é termoestável e consequentemente resistente às altas temperaturas da PCR sem sofrer desnaturação;\nBases nitrogenadas livres, os desoxirribonucleotídeos (dNTPs);\nTampão de reação (MgCl2-), importante para agir como cofator da DNA polimerase;\nSolução tampão, com o objetivo de manter o pH da reação estável durante o ciclo de amplificação;\nÁgua Milli-Q, para completar o volume necessário.\n\n\n\n\n\n\nReagentes utilizados na PCR\n\n\nA mistura desses componentes é levada ao termociclador, um aparelho com a capacidade de aquecer e resfriar as amostras, isso é importante porque são temperaturas específicas que permitem a abertura das fitas, anelamento dos primers e a ação da enzima DNA-polimerase. Comumente, dividimos a PCR em três etapas, são elas:\n\nDesnaturação: Nesse momento as fitas de DNA, configuradas em dupla-hélice, terão suas ligações de hidrogênio quebradas, sendo assim separadas. Essa etapa ocorre graças à elevação da temperatura do termociclador a temperaturas acima de 90° C.\nAnelamento: Com as fitas já desnaturadas, a temperatura do aparelho é reduzida comumente para valores entre 45° C e 65° C e o par de primers, chamados de iniciadores, se ligam com as suas sequências complementares na fita molde.\nPolimerização: O termociclador regula a sua temperatura para 72° C, atingindo a temperatura ótima para a ação da enzima DNA polimerase, que começa a síntese de novas fitas utilizando as dNTPs livres como matéria prima. A síntese só é possível graças à disponibilidade de extremidades 3’OH livres pertencentes aos primers.\n\nAs três etapas citadas anteriormente são repetidas em cerca de 20 a 30 ciclos, possibilitando que até bilhões de cópias da região selecionada sejam produzidas."
+    "objectID": "amplificacao.html#protocolo-de-amplificação",
+    "href": "amplificacao.html#protocolo-de-amplificação",
+    "title": "10  Amplificação",
+    "section": "10.1 Protocolo de amplificação",
+    "text": "10.1 Protocolo de amplificação\nPara uma reação de PCR iremos precisar de:\n\nTubo de 0,5 (novo)\nTubos de 0,2 (novo)\nReagentes\nDNA\nMarcador permanente\n\n\n\n\n\n\n\nComo fazemos\n\n\n\n\n1º Passo: Escrever em cada tubinho de 0,2 o número da amostra referente (lembrando de fazer um tubo branco, ou seja, esse é um tubinho onde não colocamos DNA, apenas o mix);\n2º Passo: Preparar o mix;\n3º Passo: Distribuir o mix nos tubinhos de 0,2;\n4º Passo: Acrescentar o DNA correspondente em cada tubinho;\n5º Passo: Colocar a reação no termociclador.\n\n\n\nO tubo de 0,5 será utilizado para realizar o mix da PCR. O mix nada mais é que a junção de todos os reagentes que precisamos em um único tubo para facilitar na hora de pipetar. Para cada amostra que queremos realizar PCR com 2μl de DNA, precisa dos seguintes reagentes e quantidades:\n\n\n\nReagentes\nQuantidade\n\n\n\n\nÁgua Milli-Q\n17,50 μL\n\n\nTampão 10X\n2,50 μL\n\n\nMgCl2\n1,00 μL\n\n\ndNTPs\n1,00 μL\n\n\nPrimer 1\n0,40 μL\n\n\nPrimer 2\n0,40 μL\n\n\nTaq\n0,20 μL\n\n\n\nObs: Para uma reação com uma quantidade diferente de 2μl de DNA, o valor alterado para mais ou para menos será sempre da Água Mq.\nLembrando que para realizar a PCR, é preciso multiplicar o valor da tabela pelo número de amostras que serão preparadas, somando sempre o branco e mais uma para margem de erro. Você pode acessar a tabela para impressão com esses cálculos já realizados no link &lt;______&gt;.\nApós realizado o mix, para uma reação de 2μl de DNA, iremos transferir do tubo do mix 23μl para cada um dos tubinhos de 0,2 (uma reação deve ter volume total de 25μl). Nesse momento pode utilizar a mesma ponteira, já que se trata dos mesmos reagentes.\nFeito isso, feche o tubo do branco, pois ele já se encontra finalizado e pode iniciar a distribuição do DNA nos tubinhos de 0,2 respectivos, lembrando de trocar a ponteira a cada amostra."
   },
   {
     "objectID": "purificacao.html#purificação-com-polietilenoglicol-peg",
     "href": "purificacao.html#purificação-com-polietilenoglicol-peg",
     "title": "11  Purificação",
     "section": "11.1 Purificação com Polietilenoglicol (PEG)",
-    "text": "11.1 Purificação com Polietilenoglicol (PEG)\n\nAdicionar 50 μL de PEG 20% NaCl 25m. em um tubo de 1,5 mL.\nTransferir a PCR para o tubo e misturar.\nIncubar o conteúdo do tubo a 37oC por 15 minutos.\nCentrifugar a reação + PEG por 15 minutos a 12000 rpm.\nRetirar o sobrenadante sem tocar na parede do tubo e descartar – usar pipeta.\nAdicionar 62,5 μL de etanol 80% (álcool Merck) gelado no tubo – colocar na parede.\nCentrifugar por 2 minutos.\nVirar o tubo, descartando o sobrenadante.\nDeixar secar até não ter mais gotas – pode ser na estufa.\nRessuspender com 10 μL de água Milli-Q lavando a parede do tubo de 5 a 6 vezes.\n\n\n\n\n\nRosenthal, André, Oliver Coutelle, e Molly Craxton. 1993. \"Large-scale production of DNA sequencing templates by microtitre format PCR\". Nucleic acids research 21 (1): 173–74. http://www.ncbi.nlm.nih.gov/pubmed/8441614."
+    "text": "11.1 Purificação com Polietilenoglicol (PEG)\n\nAdicionar 50 μL de PEG 20% NaCl 25m. em um tubo de 1,5 mL.\nTransferir a PCR para o tubo e misturar.\nIncubar o conteúdo do tubo a 37oC por 15 minutos.\nCentrifugar a reação + PEG por 15 minutos a 12000 rpm.\nRetirar o sobrenadante sem tocar na parede do tubo e descartar – usar pipeta.\nAdicionar 62,5 μL de etanol 80% (álcool Merck) gelado no tubo – colocar na parede.\nCentrifugar por 2 minutos.\nVirar o tubo, descartando o sobrenadante.\nDeixar secar até não ter mais gotas – pode ser na estufa.\nRessuspender com 10 μL de água Milli-Q lavando a parede do tubo de 5 a 6 vezes.\n\n\n\n\n\nRosenthal, André, Oliver Coutelle, e Molly Craxton. 1993. “Large-scale production of DNA sequencing templates by microtitre format PCR”. Nucleic acids research 21 (1): 173–74. http://www.ncbi.nlm.nih.gov/pubmed/8441614."
   },
   {
     "objectID": "sequenciamento.html",
     "href": "sequenciamento.html",
-    "title": "11  Sequenciamento",
+    "title": "12  Sequenciamento",
     "section": "",
     "text": "Depois de realizada a purificação, o fragmento purificado pode ser sequenciado. O sequenciamento de DNA consiste no processo de determinação da sequência de nucleotídeos (A, T, G e C) em um fragmento de DNA. A informação contida nessas sequências de nucleotídeos possibilita diversos tipos de aplicações, como, por exemplo, identificar o organismo ao qual pertence uma amostra, diagnosticar uma doença genética, aplicar em estudos de filogenia e diversidade genética, entre outros.\n\n\n\n\n\n\nAprendendo\n\n\n\nExistem vários métodos para o sequenciamento do DNA, tais como:\n\nO método enzimático (1ª Geração) de Frederik Sanger (1980);\nO método de pirosequenciamento (2ª Geração) de Mostafa Ronaghi (1996);\nO de 3ª Geração, Single Molecule Real Time (SMRT) - DNA Sequencing;\nMétodos mais modernos conhecidos como Sequenciamento de Nova Geração (NGS).\n\n\n\nA técnica desenvolvida por Sanger e colaboradores possibilitou a determinação da sequência nucleotídica e se tornou mais acessível devido aos avanços recentes na fabricação de equipamentos automatizados. Além disso, é um dos métodos mais utilizados (inclusive nos trabalhos do Nupgen) e consiste na adição de um reagente único: os didesoxirribonucleotídeos trifosfatados (ddNTPs). É realizada uma reação de sequenciamento, contendo os mesmos reagentes utilizados na Reação em Cadeia da Polimerase, com a presença dos ddNTPS, ou seja, terminadores de cadeia para os quatro nucleotídeos (ddATP, ddTTP, ddCTP, ddGTP), cada um deles marcado com um corante fluorescente de cores diferentes.\n\nA variação no tamanho dos fragmentos acontece por essa adição de nucleotídeos modificados (ddNTPs) juntamente com nucleotídeos normais (dNTPs). Os ddNTPS não possuem o radical hidroxila (OH) no carbono 3’ da ribose, então ao serem incorporados na fita que está sendo sintetizada, haverá a interrupção dessa síntese. É uma adição aleatória e produzirá fragmentos terminados em cada uma das posições dos nucleotídeos da sequência de DNA que se deseja analisar. Dessa maneira, o método de Sanger consiste na produção de fragmentos de DNA com tamanhos que diferem em um nucleotídeo, utilizando como molde uma fita simples de DNA.\n\n\n\n\n\n\n\n\n\n\nOs equipamentos automatizados utilizados hoje em dia para o sequenciamento possuem capilares extremamente finos que por meio da migração por eletroforese capilar, irão alinhar os fragmentos com base em seu tamanho (do menor para o maior), detectando por um feixe de laser a marcação de cada um dos quatro ddNTPs com a molécula fluorescente. Isso permite identificar qual foi o nucleotídeo adicionado em cada posição terminal dos fragmentos, construindo a sequência da molécula de DNA alvo dos estudos. Essa técnica é geralmente utilizada para o sequenciamento de moléculas com aproximadamente 100 e 1000 pb. Como resultado do sequenciamento, são obtidos os eletroferogramas, que apresentam picos representando cada um dos nucleotídeos e consequentemente a sequência do fragmento de interesse.\n\n\n\n\n\n\nEletroferograma\n\n\n\n\n\n\n\n\n\n\n\nComo fazemos\n\n\n\nAtualmente, o Nupgen envia as amostras para o sequenciamento para a empresa ACTGene Análises Moleculares LTDA que utilizada o sequenciador automatizado Applied Biosystems® AB 3500 Genetic Analyzer (sequenciamento de Sanger). Essa empresa é do Rio Grande do Sul, então as amostras são preparadas e devidamente acondicionadas para serem enviadas pelos correios.\nSite da ACTGene: https://actgene.com.br/\nInformações sobre envio/preparo das amostras: https://actgene.com.br/wp-content/uploads/2022/06/ACTGene_Guia-preparo-de-amostras.pdf"
   },
   {
     "objectID": "bancos-geneticos.html#genbank",
     "href": "bancos-geneticos.html#genbank",
-    "title": "12  Bancos de Dados Genéticos",
-    "section": "12.1 GenBank",
-    "text": "12.1 GenBank\nLink: https://www.ncbi.nlm.nih.gov/genbank/\nO GenBank é um banco de dados de sequências de DNA mantido pelo National Center for Biotechnology Information (NCBI), um instituto do National Institutes of Health (NIH) dos Estados Unidos. Ele armazena sequências de DNA de diversas fontes, incluindo genomas, sequências de expressão gênica, sequências de proteínas e etc.\nO GenBank é um recurso valioso para os pesquisadores de genética molecular porque permite o acesso a uma ampla variedade de sequências de DNA, tornando mais fácil a realização de análises e pesquisas. Além disso, o GenBank permite a submissão de novas sequências de DNA pelos usuários, o que permite o compartilhamento de dados entre os pesquisadores.\nTodo trabalho ao ser publicado deve submeter as sequências utilizadas para o GenBank, dessa forma outros pesquisadores podem utilizar em suas próprias análises."
+    "title": "13  Bancos de Dados Genéticos",
+    "section": "13.1 GenBank",
+    "text": "13.1 GenBank\nLink: https://www.ncbi.nlm.nih.gov/genbank/\nO GenBank é um banco de dados de sequências de DNA mantido pelo National Center for Biotechnology Information (NCBI), um instituto do National Institutes of Health (NIH) dos Estados Unidos. Ele armazena sequências de DNA de diversas fontes, incluindo genomas, sequências de expressão gênica, sequências de proteínas e etc.\nO GenBank é um recurso valioso para os pesquisadores de genética molecular porque permite o acesso a uma ampla variedade de sequências de DNA, tornando mais fácil a realização de análises e pesquisas. Além disso, o GenBank permite a submissão de novas sequências de DNA pelos usuários, o que permite o compartilhamento de dados entre os pesquisadores.\nTodo trabalho ao ser publicado deve submeter as sequências utilizadas para o GenBank, dessa forma outros pesquisadores podem utilizar em suas próprias análises."
   },
   {
     "objectID": "bancos-geneticos.html#bold-systems",
     "href": "bancos-geneticos.html#bold-systems",
-    "title": "12  Bancos de Dados Genéticos",
-    "section": "12.2 BOLD Systems",
-    "text": "12.2 BOLD Systems\nLink: http://boldsystems.org/\nO BOLD Systems (Barcode of Life Data Systems) é um projeto de ciência cidadã que visa coletar e armazenar sequências de DNA barcodes (COI) de espécies de todo o mundo. O DNA barcode é um trecho curto de DNA que pode ser usado para identificar espécies de maneira rápida e precisa. Ele é amplamente utilizado em biologia evolutiva e conservação de espécies e é uma ferramenta valiosa para a identificação de espécies em ambientes complexos, como ecossistemas tropicais.\nO BOLD Systems é mantido pelo Instituto de Biodiversidade do Canadá e é uma iniciativa internacional que conta com a participação de cientistas, conservacionistas e cidadãos do mundo todo. Ele possui uma base de dados online que armazena as sequências de DNA barcodes coletadas e permite o acesso a essas sequências pelos usuários."
+    "title": "13  Bancos de Dados Genéticos",
+    "section": "13.2 BOLD Systems",
+    "text": "13.2 BOLD Systems\nLink: http://boldsystems.org/\nO BOLD Systems (Barcode of Life Data Systems) é um projeto de ciência cidadã que visa coletar e armazenar sequências de DNA barcodes (COI) de espécies de todo o mundo. O DNA barcode é um trecho curto de DNA que pode ser usado para identificar espécies de maneira rápida e precisa. Ele é amplamente utilizado em biologia evolutiva e conservação de espécies e é uma ferramenta valiosa para a identificação de espécies em ambientes complexos, como ecossistemas tropicais.\nO BOLD Systems é mantido pelo Instituto de Biodiversidade do Canadá e é uma iniciativa internacional que conta com a participação de cientistas, conservacionistas e cidadãos do mundo todo. Ele possui uma base de dados online que armazena as sequências de DNA barcodes coletadas e permite o acesso a essas sequências pelos usuários."
   },
   {
     "objectID": "bancos-geneticos.html#blast",
     "href": "bancos-geneticos.html#blast",
-    "title": "12  Bancos de Dados Genéticos",
-    "section": "12.3 BLAST",
-    "text": "12.3 BLAST\nLink: https://blast.ncbi.nlm.nih.gov/Blast.cgi\nO BLAST (Basic Local Alignment Search Tool) é uma ferramenta amplamente utilizada pelos pesquisadores de genética molecular para realizar buscas de sequências de DNA em bancos de dados de sequências. Ele é mantido pelo National Center for Biotechnology Information (NCBI) e está disponível gratuitamente na internet.\nO BLAST funciona comparando uma sequência de entrada com as sequências armazenadas em um banco de dados de referência e encontrando as sequências mais similares. Ele utiliza uma técnica de alinhamento de sequências chamada alinhamento local, que permite o alinhamento apenas de trechos similares das sequências, ignorando trechos com pouca similaridade.\nO BLAST é amplamente utilizado em diversas análises de genética molecular, como a identificação de genes e/ou espécies."
+    "title": "13  Bancos de Dados Genéticos",
+    "section": "13.3 BLAST",
+    "text": "13.3 BLAST\nLink: https://blast.ncbi.nlm.nih.gov/Blast.cgi\nO BLAST (Basic Local Alignment Search Tool) é uma ferramenta amplamente utilizada pelos pesquisadores de genética molecular para realizar buscas de sequências de DNA em bancos de dados de sequências. Ele é mantido pelo National Center for Biotechnology Information (NCBI) e está disponível gratuitamente na internet.\nO BLAST funciona comparando uma sequência de entrada com as sequências armazenadas em um banco de dados de referência e encontrando as sequências mais similares. Ele utiliza uma técnica de alinhamento de sequências chamada alinhamento local, que permite o alinhamento apenas de trechos similares das sequências, ignorando trechos com pouca similaridade.\nO BLAST é amplamente utilizado em diversas análises de genética molecular, como a identificação de genes e/ou espécies."
   },
   {
     "objectID": "softwares.html#bioedit",
@@ -396,68 +424,68 @@
     "href": "softwares.html#popart",
     "title": "14  Softwares",
     "section": "14.11 PopArt",
-    "text": "14.11 PopArt\n\nÚtil para: Haplótipos / Árvore - Edição"
+    "text": "14.11 PopArt\n\nÚtil para: Haplótipos\nLink: https://popart.maths.otago.ac.nz/download/\nAs redes de haplótipos são usadas na análise de dados genéticos populacionais para visualizar relações genealógicas no nível intraespecífico e fazer inferências sobre biogeografia de populações. O PopArt (Population Analysis with Reticulate Trees) é um software para análise genética populacional usando redes de haplótipos.\nA principal função do PopArt é o escaneamento e visualização de relações genéticas entre espécimes, realizado com a inclusão de dados de sequências de DNA, em formato Nexus. Após a rede de haplótipos ter sido inferida, o softawe permite que os usuários modifiquem vários aspectos da aparência da rede, incluindo cores, fontes e posições de nós e rótulos. O software permite a visualização quantitativa de espécimes presentes em cada haplótipo (pela diferença de tamanho de cada círculo representativo de haplótipo) e as mutações entre eles (quantidade de traços contínuos entre os haplótipos). Ademais, os usuários também podem exibir informações auxiliares associadas a sequências de haplótipos, como localizações geográficas onde as amostras foram coletadas ou informações fenotípicas, mostradas em um gráfico de pizza entre os nós da rede.\nO PopArt permite que os usuários usem três métodos populares de inferência de rede de haplótipos: TCS, redes de abrangência mínima (MSN) e redes de junção mediana (MJN). A rede TCS é construída usando uma abordagem aglomerativa onde os clusters são progressivamente combinados com uma ou mais arestas de conexão; para detalhes ver Clement et al. (2002). As redes construídas pelo método MSN, contêm todas as arestas que aparecem em uma árvore geradora mínima das sequências, ou seja, todas as redes que contêm apenas nós que representam sequências de entrada conectadas por aresta. Uma deficiência do método MSN é que ele não tenta inferir quaisquer nós adicionais ou sequências ancestrais, mesmo quando pode haver evidências consideráveis da existência de tais nós. Por fim, o método MJN inclui nós para representar sequências inferidas (não amostradas) adicionando iterativamente vetores de sequência ‘mediana’ quando esses nós encurtam o comprimento total de a rede.\nPrós: fácil visualização dos haplótipos em uma rede autoexplicativa.\nContras: poucas atualizações do software, o que dificulta encontrar a origem dos “bugs” quando é rodada a análise.\n\n\n\n\nClement, M., Q. Snell, P. Walke, D. Posada, e K. Crandall. 2002. “TCS: estimating gene genealogies”. Proceedings 16th International Parallel and Distributed Processing Symposium. https://doi.org/10.1109/ipdps.2002.1016585."
   },
   {
     "objectID": "pacotes-r.html#pacote-nupgen-r",
     "href": "pacotes-r.html#pacote-nupgen-r",
-    "title": "14  Pacotes R",
-    "section": "14.1 Pacote nupgen (R)",
-    "text": "14.1 Pacote nupgen (R)\nLink: https://brunomioto.github.io/nupgen/\nEste é um pacote criado com algumas funções internas do nosso laboratório, são elas:\n\nRenomear arquivos PHYLIP com label_phy()\nObter informações de sequências do GenBank com info_genbank()\nAs informações buscadas são:\n\nCódigo do GenBank\nNome do organismo\nPaís de origem (pode conter mais informações)\nLatitude\nLongitude\nGene\n\nFormatar resultados da Delimitação de Espécies do PTP (ou bPTP) com ptp_results()\n\nInstalação\n\nif (!requireNamespace(\"remotes\", quietly = TRUE)){\n    install.packages(\"remotes\")\n  }\nremotes::install_github(\"brunomioto/nupgen\")"
+    "title": "15  Pacotes R",
+    "section": "15.1 Pacote nupgen (R)",
+    "text": "15.1 Pacote nupgen (R)\nLink: https://brunomioto.github.io/nupgen/\nEste é um pacote criado com algumas funções internas do nosso laboratório, são elas:\n\nRenomear arquivos PHYLIP com label_phy()\nObter informações de sequências do GenBank com info_genbank()\nAs informações buscadas são:\n\nCódigo do GenBank\nNome do organismo\nPaís de origem (pode conter mais informações)\nLatitude\nLongitude\nGene\n\nFormatar resultados da Delimitação de Espécies do PTP (ou bPTP) com ptp_results()\n\nInstalação\n\nif (!requireNamespace(\"remotes\", quietly = TRUE)){\n    install.packages(\"remotes\")\n  }\nremotes::install_github(\"brunomioto/nupgen\")"
   },
   {
     "objectID": "pacotes-r.html#rocc",
     "href": "pacotes-r.html#rocc",
-    "title": "14  Pacotes R",
-    "section": "14.2 Rocc",
-    "text": "14.2 Rocc\nLink: https://docs.ropensci.org/bold/\nBaixa dados do specieslink\nInstalação\n\nif (!requireNamespace(\"remotes\", quietly = TRUE)){\n    install.packages(\"remotes\")\n  }\nremotes::install_github(\"liibre/Rocc\")"
+    "title": "15  Pacotes R",
+    "section": "15.2 Rocc",
+    "text": "15.2 Rocc\nLink: https://docs.ropensci.org/bold/\nBaixa dados do specieslink\nInstalação\n\nif (!requireNamespace(\"remotes\", quietly = TRUE)){\n    install.packages(\"remotes\")\n  }\nremotes::install_github(\"liibre/Rocc\")"
   },
   {
     "objectID": "pacotes-r.html#bold",
     "href": "pacotes-r.html#bold",
-    "title": "14  Pacotes R",
-    "section": "14.3 bold",
-    "text": "14.3 bold\nLink: https://docs.ropensci.org/bold/\nBaixa dados do bold\nInstalação\n\ninstall.packages(\"bold\")"
+    "title": "15  Pacotes R",
+    "section": "15.3 bold",
+    "text": "15.3 bold\nLink: https://docs.ropensci.org/bold/\nBaixa dados do bold\nInstalação\n\ninstall.packages(\"bold\")"
   },
   {
     "objectID": "pacotes-r.html#refdb",
     "href": "pacotes-r.html#refdb",
-    "title": "14  Pacotes R",
-    "section": "14.4 refdb",
-    "text": "14.4 refdb\nLink: https://fkeck.github.io/refdb/index.html\nBaixa dados do genbank\nInstalação\n\nif (!requireNamespace(\"remotes\", quietly = TRUE)){\n    install.packages(\"remotes\")\n  }\nremotes::install_github(\"fkeck/refdb\")"
+    "title": "15  Pacotes R",
+    "section": "15.4 refdb",
+    "text": "15.4 refdb\nLink: https://fkeck.github.io/refdb/index.html\nBaixa dados do genbank\nInstalação\n\nif (!requireNamespace(\"remotes\", quietly = TRUE)){\n    install.packages(\"remotes\")\n  }\nremotes::install_github(\"fkeck/refdb\")"
   },
   {
     "objectID": "pacotes-r.html#herodotools",
     "href": "pacotes-r.html#herodotools",
-    "title": "14  Pacotes R",
-    "section": "14.5 Herodotools",
-    "text": "14.5 Herodotools\nLink: https://gabrielnakamura.github.io/Herodotools/index.html\nBiogeografia\nInstalação\n\nif (!requireNamespace(\"remotes\", quietly = TRUE)){\n    install.packages(\"remotes\")\n  }\nremotes::install_github(\"GabrielNakamura/Herodotools\")"
+    "title": "15  Pacotes R",
+    "section": "15.5 Herodotools",
+    "text": "15.5 Herodotools\nLink: https://gabrielnakamura.github.io/Herodotools/index.html\nBiogeografia\nInstalação\n\nif (!requireNamespace(\"remotes\", quietly = TRUE)){\n    install.packages(\"remotes\")\n  }\nremotes::install_github(\"GabrielNakamura/Herodotools\")"
   },
   {
     "objectID": "pacotes-r.html#ggtree",
     "href": "pacotes-r.html#ggtree",
-    "title": "14  Pacotes R",
-    "section": "14.6 ggtree",
-    "text": "14.6 ggtree\nLink: https://guangchuangyu.github.io/ggtree-book/chapter-ggtree.html\nEdição de árvores\nInstalação\n\ninstall.packages(\"ggtree\")"
+    "title": "15  Pacotes R",
+    "section": "15.6 ggtree",
+    "text": "15.6 ggtree\nLink: https://guangchuangyu.github.io/ggtree-book/chapter-ggtree.html\nEdição de árvores\nInstalação\n\ninstall.packages(\"ggtree\")"
   },
   {
     "objectID": "pacotes-r.html#ggmsa",
     "href": "pacotes-r.html#ggmsa",
-    "title": "14  Pacotes R",
-    "section": "14.7 ggmsa",
-    "text": "14.7 ggmsa\nLink: http://yulab-smu.top/ggmsa/\nVisualização de sequências\nInstalação\n\nif (!requireNamespace(\"remotes\", quietly = TRUE)){\n    install.packages(\"remotes\")\n  }\nremotes::install_github(\"YuLab-SMU/ggmsa\")"
+    "title": "15  Pacotes R",
+    "section": "15.7 ggmsa",
+    "text": "15.7 ggmsa\nLink: http://yulab-smu.top/ggmsa/\nVisualização de sequências\nInstalação\n\nif (!requireNamespace(\"remotes\", quietly = TRUE)){\n    install.packages(\"remotes\")\n  }\nremotes::install_github(\"YuLab-SMU/ggmsa\")"
   },
   {
     "objectID": "edicao-sequencias.html#passo-a-passo-para-edição-de-sequências",
     "href": "edicao-sequencias.html#passo-a-passo-para-edição-de-sequências",
-    "title": "15  Edição de sequências",
-    "section": "15.1 Passo a passo para edição de sequências",
-    "text": "15.1 Passo a passo para edição de sequências\nPara realizar uma edição correta e livre de vieses, vamos utilizar papel e caneta além do BioEdit e MEGA. Peça ajuda para alguém que já fez isso antes.\n\nAbra o eletroferograma com o BioEdit e anote cada observação da sequência em um papel, destacando o início e final da sequência, junto da numeração do nucleotídeo e a modificação a ser feita, por exemplo:\n\n\nSeq1 - A04\n\nInício \n34\n----->\nATGCTA\n\npb      134 145 167\nAntes    Y   K   W\n         |   |   |\nAgora    C   G   A\n\nFim\n    673 \n----->\nTGCCTA\n\nFaça isso para a sequência inteira. O ideal é que você faça isso com todas as suas sequências de uma vez.\n\nAbra o MEGA e realize as edições na seguinte ordem: 1. Correções de pb, 2. Corte do final da sequência, 3. Corte do início da sequência. Isso vai garantir que os números relativos a cada nucleotídeo não mude durante a edição."
+    "title": "16  Edição de sequências",
+    "section": "16.1 Passo a passo para edição de sequências",
+    "text": "16.1 Passo a passo para edição de sequências\nPara realizar uma edição correta e livre de vieses, vamos utilizar papel e caneta além do BioEdit e MEGA. Peça ajuda para alguém que já fez isso antes.\n\nAbra o eletroferograma com o BioEdit e anote cada observação da sequência em um papel, destacando o início e final da sequência, junto da numeração do nucleotídeo e a modificação a ser feita, por exemplo:\n\n\nSeq1 - A04\n\nInício \n34\n-----&gt;\nATGCTA\n\npb      134 145 167\nAntes    Y   K   W\n         |   |   |\nAgora    C   G   A\n\nFim\n    673 \n-----&gt;\nTGCCTA\n\nFaça isso para a sequência inteira. O ideal é que você faça isso com todas as suas sequências de uma vez.\n\nAbra o MEGA e realize as edições na seguinte ordem: 1. Correções de pb, 2. Corte do final da sequência, 3. Corte do início da sequência. Isso vai garantir que os números relativos a cada nucleotídeo não mude durante a edição."
   },
   {
     "objectID": "alinhamento.html",
     "href": "alinhamento.html",
-    "title": "16  Alinhamento",
+    "title": "17  Alinhamento",
     "section": "",
     "text": "MEGA, raxML, phyML\nAdicionar referências para cada um\nMEGA 7:"
   },
@@ -466,111 +494,6 @@
     "href": "references.html",
     "title": "Referências",
     "section": "",
-    "text": "Anthony J. F. Griffiths, Susan R. Wessler, Sean B. Carroll, and John\nDoebley. 2016. Introdução à Genética. 11th ed. Guanabara\nKoogan.\n\n\nBruce Alberts, Alexander Johnson, Julian Lewis, David Morgan, Martin\nRaff, Keith Roberts, Peter Walter, John Wilson, and Tim Hunt. 2017.\nBiologia Molecular Da Célula. 6th ed. Porto Alegre: Artmed.\n\n\nPeter Snustad, and Michael J. Simmons. 2017. Fundamentos Da\nGenética. 7th ed. Rio de Janeiro: Guanabara Koogan.\n\n\nRosenthal, André, Oliver Coutelle, and Molly Craxton. 1993.\n“Large-Scale Production of DNA Sequencing Templates by Microtitre\nFormat PCR.” Nucleic Acids Research 21 (1): 173–74. http://www.ncbi.nlm.nih.gov/pubmed/8441614."
-  },
-  {
-    "objectID": "lab.html#organismos-estudados-no-nupgen",
-    "href": "lab.html#organismos-estudados-no-nupgen",
-    "title": "2  O Laboratório",
-    "section": "2.3 Organismos estudados no Nupgen",
-    "text": "2.3 Organismos estudados no Nupgen\n\nPeixes\nIctiofaunas de ambientes aquáticos podem ser formadas por organismos nativos e invasores. O estudo genético permite verificar níveis de variação genética, perda de biodiversidade e alterações relacionadas a processos dehibridização.\nO estudo de populações nativas é importante para verificar a presença e interação desses organismos de determinada região. Invasores, quando presentes, modificam o habitat e o sistema onde foram introduzidos, podendo levar a perda de biodiversidade local e alterações genéticas. Assim, estudos moleculares permitem estimar a diversidade e verificar as alterações genéticas que ocorrem nestes animais.\n\n\nMacrófitas\nAs macrófitas aquáticas, quando invasoras, constituem uma ameaça em termos ecológicos e também econômicos. A correta identificação e a elucidação da diversidade genética desses organismos podem auxiliar na compreensão dos mecanismos de dispersão e colonização, como também no manejo adequado das espécies.\n\n\nParasitos\nA relação parasito-hospedeiro possui grande importância nos ambientes naturais. O conhecimento da biodiversidade de parasitos contribui com o levantamento de espécies de hospedeiros no local, além de direcionar métodos de manejo para parasitos com potencial zoonótico.\n\n\nMicrorganismos\nMesmo invisíveis a olho nu, os microrganismos possuem grande importância em ambientes aquáticos, servindo como níveis inferiores na cadeia alimentar. Alguns organismos podem influenciar na qualidade d’água, por isso conhecer a diversidade destes microrganismos é fundamental.\n\n\nGenes opsins\nO estudo de proteínas visuais possibilita observar e comparar a influência de fatores ecológicos no processo evolutivo de diversas linhagens, identificando como as espécies se adaptam a diversas pressões seletivas existentes no habitat.\n\n\nDNA Ambiental\nA partir de amostras ambientais, é possível obter fragmentos de DNA de organismos que estiveram neste ambiente. Peixes, microrganismos, anfíbios, parasitos e muitos outros organismos deixam rastros genéticos e podemos estudá-los indiretamente a partir de técnicas de sequenciamento de nova geração."
-  },
-  {
-    "objectID": "biosseguranca.html",
-    "href": "biosseguranca.html",
-    "title": "4  Biossegurança",
-    "section": "",
-    "text": "Falar sobre biossegurança no lab\nLimpeza, contaminação, perigos, EPI, etc\nProdutos perigosos: Ácido bórica"
-  },
-  {
-    "objectID": "extracao.html#protocolo-de-extração-de-dna-com-colunas---qiagen-parasitos-e-macrófitas",
-    "href": "extracao.html#protocolo-de-extração-de-dna-com-colunas---qiagen-parasitos-e-macrófitas",
-    "title": "7  Extração",
-    "section": "7.4 Protocolo de Extração de DNA com Colunas - QIAGEN Parasitos e Macrófitas",
-    "text": "7.4 Protocolo de Extração de DNA com Colunas - QIAGEN Parasitos e Macrófitas\n\nDeixar o mínimo possível de líquido na amostra antes de começar.\nAdicionar 180 μL de Buffer ATL.\nAdicionar 20 μL de proteinase K. Homogeneizar com vórtex e incubar a 56º C até completa lise celular (30min - 2h). Homogeneizar com vórtex ocasionalmente durante a incubação.\nHomogeneizar com vórtex por 15 segundos.\nAdicionar 200 μL de Buffer AL. Homogeneizar bem com vórtex.\nAdicionar 200 μL de etanol (96-100%). Homogeneizar  bem com vórtex.\nPipetar a mistura em uma coluna de centrifugação DNeasy Mini colocada em um tubo de coleta. Centrifugar a 8.000 rpm (≥6.000 x g) por 1 minuto. Descartar o líquido filtrado e o tubo de coleta.\nColocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW1. Centrifugar por 1 minuto a 8.000 rpm. Descartar o líquido filtrado e o tubo de coleta.\nColocar a coluna em um novo tubo de coleta do kit. Adicionar 500 μL de Buffer AW2. Centrifugar por 3 minutos a 14.000 rpm (≥20.000 x g). Descartar o líquido filtrado e o tubo de coleta.\nTransferir a coluna para um eppendorf de 1,5 mL.\nAdicionar 50 μL de Buffer AE no centro da membrana da coluna para a eluição do DNA. Incubar por 1 minuto a temperatura ambiente (15-25º C). Centrifugar por 1 minuto a 8.000 rpm.\nDescartar a coluna e guardar o DNA extraído."
-  },
-  {
-    "objectID": "diluicoes.html#tampão-coleta-macrófitas",
-    "href": "diluicoes.html#tampão-coleta-macrófitas",
-    "title": "6  Diluições",
-    "section": "6.9 Tampão Coleta Macrófitas",
-    "text": "6.9 Tampão Coleta Macrófitas\nPara preparar 1000 mL\n\nTris HCl - 10 mL\nEDTA (0,5mM) - 2 mL\nÁgua destilada - 988ml\n\npH = 8,0\nModo de preparo: Colocar 10ml do Tris HCl e 2ml do EDTA (0,5mM) em um frasco de vidro (tampa laranja ou azul), completar o volume com água destilada. Agitar o frasco para misturar bem e medir o pH com as fitinhas, para conferir se está correto; caso não esteja, basta ajustar com as soluções para pH. Etiquetar e autoclavar."
-  },
-  {
-    "objectID": "amplificacao.html#protocolo-de-amplificação",
-    "href": "amplificacao.html#protocolo-de-amplificação",
-    "title": "10  Amplificação",
-    "section": "10.1 Protocolo de amplificação",
-    "text": "10.1 Protocolo de amplificação\nPara uma reação de PCR iremos precisar de:\n\nTubo de 0,5 (novo)\nTubos de 0,2 (novo)\nReagentes\nDNA\nMarcador permanente\n\n\n\n\n\n\n\nComo fazemos\n\n\n\n\n1º Passo: Escrever em cada tubinho de 0,2 o número da amostra referente (lembrando de fazer um tubo branco, ou seja, esse é um tubinho onde não colocamos DNA, apenas o mix);\n2º Passo: Preparar o mix;\n3º Passo: Distribuir o mix nos tubinhos de 0,2;\n4º Passo: Acrescentar o DNA correspondente em cada tubinho;\n5º Passo: Colocar a reação no termociclador.\n\n\n\nO tubo de 0,5 será utilizado para realizar o mix da PCR. O mix nada mais é que a junção de todos os reagentes que precisamos em um único tubo para facilitar na hora de pipetar. Para cada amostra que queremos realizar PCR com 2μl de DNA, precisa dos seguintes reagentes e quantidades:\n\n\n\nReagentes\nQuantidade\n\n\n\n\nÁgua Milli-Q\n17,50 μL\n\n\nTampão 10X\n2,50 μL\n\n\nMgCl2\n1,00 μL\n\n\ndNTPs\n1,00 μL\n\n\nPrimer 1\n0,40 μL\n\n\nPrimer 2\n0,40 μL\n\n\nTaq\n0,20 μL\n\n\n\nObs: Para uma reação com uma quantidade diferente de 2μl de DNA, o valor alterado para mais ou para menos será sempre da Água Mq.\nLembrando que para realizar a PCR, é preciso multiplicar o valor da tabela pelo número de amostras que serão preparadas, somando sempre o branco e mais uma para margem de erro. Você pode acessar a tabela para impressão com esses cálculos já realizados no link <______>.\nApós realizado o mix, para uma reação de 2μl de DNA, iremos transferir do tubo do mix 23μl para cada um dos tubinhos de 0,2 (uma reação deve ter volume total de 25μl). Nesse momento pode utilizar a mesma ponteira, já que se trata dos mesmos reagentes.\nFeito isso, feche o tubo do branco, pois ele já se encontra finalizado e pode iniciar a distribuição do DNA nos tubinhos de 0,2 respectivos, lembrando de trocar a ponteira a cada amostra."
-  },
-  {
-    "objectID": "eletroforese.html#loading",
-    "href": "eletroforese.html#loading",
-    "title": "8  Eletroforese",
-    "section": "8.3 Loading",
-    "text": "8.3 Loading\nTexto"
-  },
-  {
-    "objectID": "eletroforese.html#gel-de-agarose",
-    "href": "eletroforese.html#gel-de-agarose",
-    "title": "8  Eletroforese",
-    "section": "8.4 Gel de agarose",
-    "text": "8.4 Gel de agarose\ntexto texto\n\nGel 1%\n\n\n\nCuba - 60 mL\n\n\n\n\n0,6g de agarose\n\n\n12 mL de TBE 5X\n\n\n48 mL de água destilada\n\n\n\n\n\n\nCuba - 120 mL\n\n\n\n\n1,2g de agarose\n\n\n24 mL de TBE 5X\n\n\n96 mL de água destilada\n\n\n\n\n\nGel 1,4%\n\n\n\nCuba - 120 mL\n\n\n\n\n1,68g de agarose\n\n\n24 mL de TBE 5X\n\n\n96 mL de água destilada\n\n\n\n\n\nGel 3%\n\n\n\nCuba - 120 mL\n\n\n\n\n3,6g de agarose\n\n\n24 mL de TBE 5X\n\n\n96 mL de água destilada"
-  },
-  {
-    "objectID": "eletroforese.html#eletroforese-de-amplificação-e-purificação.",
-    "href": "eletroforese.html#eletroforese-de-amplificação-e-purificação.",
-    "title": "8  Eletroforese",
-    "section": "8.5 Eletroforese de Amplificação e Purificação.",
-    "text": "8.5 Eletroforese de Amplificação e Purificação.\nObs: O gel para purificação deverá ser novo, enquanto o da amplificação pode ser reutilizado.\n\nLadder 100 pb\n2 μL de loading + 1 μL de GelRed + 2 μL de Ladder 100 pb\n\n\nPor amostra\n2 μL de loading + 1 μL de GelRed + 3 μL da PCR\n\n\n\n\n\n\nImportante\n\n\n\n\nFio preto em cima (polo negativo) e o fio vermelho embaixo (polo positivo).\nGel agarose 1% (pode ser reutilizado).\nRealizar a corrida eletroforética a 90 volts, por aproximadamente 1 hora.\nAplicar o Ladder 100 pb no primeiro poço."
-  },
-  {
-    "objectID": "eletroforese.html#eletroforese-de-quantificação.",
-    "href": "eletroforese.html#eletroforese-de-quantificação.",
-    "title": "8  Eletroforese",
-    "section": "8.6 Eletroforese de Quantificação.",
-    "text": "8.6 Eletroforese de Quantificação.\nQuantificação com gel de agarose\nA eletroforese para quantificação de DNA não é realizada para todos os organismos trabalhados no laboratório pois em alguns casos (como na extração de parasitos) a quantidade de DNA extraído é muito pequena para ser visualizado no gel.\nO gel para quantificação deverá ser novo.\nLambda:\n\nLambda 5ng/μL - 5μL + 1 μL de GelRed\nLambda 10ng/μL - 5μL + 1 μL de GelRed\nLambda 20ng/μL - 5μL + 1 μL de GelRed\n\nAmostra - 2 μL de loading + 1 μL de GelRed + 3 μL da PCR\nQuantificação com Nanodrop"
-  },
-  {
-    "objectID": "coletas.html#campo",
-    "href": "coletas.html#campo",
-    "title": "5  Coletas",
-    "section": "5.1 Campo",
-    "text": "5.1 Campo\nToda viagem de campo é bem complicada, pois temos que fazer várias coisas com antecedência e não podemos esquecer nada.\n\nLicença de coleta\nToda coleta de material biológico deve ter uma licença de coleta, pois retirar animais silvestres da natureza é crime. Por isso é essencial conversar com os professores responsáveis antes e providenciar. Leve a autorização impressa dentro de um saco plástico transparente para não molhar. O PELD já possui uma licença geral de coleta.\n\n\nLocal de coleta\nDefinir o local que será realizada a coleta é muito importante, pois quanto melhor o local, menos esforço amostral será necessário e, consequentemente, menos dinheiro será gasto. Converse com outras pessoas que já realizaram coletas no mesmo ambiente previamente.\nÉ muito importante conhecer o ponto de coleta, bem como planejar a infraestrutura, alimentação e quantas pessoas serão necessárias.\nPreparação para viagem"
-  },
-  {
-    "objectID": "coletas.html#dados",
-    "href": "coletas.html#dados",
-    "title": "5  Coletas",
-    "section": "5.2 Dados",
-    "text": "5.2 Dados\nEm qualquer coleta deve ser registrado o maior número de dados possível, afim de facilitar o trabalho futuro ou mesmo para prever possíveis questionamentos de revisores. Alguns dados muito importante são:\n\nCoordenadas;\nEspécie coletada;\nNúmero de espécimes;\nLocal;\nFotos e descrição do ambiente;"
-  },
-  {
-    "objectID": "coletas.html#triagem",
-    "href": "coletas.html#triagem",
-    "title": "5  Coletas",
-    "section": "5.3 Triagem",
-    "text": "5.3 Triagem\nApós coletar os espécimes, é necessário realizar a triagem para garantir a qualidade do estudo. Com caramujos geralmente são triados os parasitos, com peixes podemos retirar o tecido, etc."
-  },
-  {
-    "objectID": "diluicoes.html#tampão-tbe-1x-corrida-eletroforética",
-    "href": "diluicoes.html#tampão-tbe-1x-corrida-eletroforética",
-    "title": "6  Diluições",
-    "section": "6.8 Tampão TBE 1x (corrida eletroforética)",
-    "text": "6.8 Tampão TBE 1x (corrida eletroforética)\nPara preparar 1000 mL\n\\(C1 * V1 = C2 * V2\\)\n5(estoque) * V1 = 1 * 1000 mL\nV1 = 1000/5\nV1 = 200 mL de TBE 5x\nCompletar para 1000 mL de água destilada (= 800 mL)"
-  },
-  {
-    "objectID": "diluicoes.html#peg-20-nacl-25m",
-    "href": "diluicoes.html#peg-20-nacl-25m",
-    "title": "6  Diluições",
-    "section": "6.10 PEG 20% NaCl 2,5M",
-    "text": "6.10 PEG 20% NaCl 2,5M\nPara preparar 75 mL\n\n15 g de Polietilenoglicol\n10,95 g de NaCl\n\nCompletar o volume para 75 mL com água ultrapura (Milli-Q)\nModo de preparo: colocar em um becker um pouco da água ultrapura e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água para 75 mL e com o auxílio de uma seringa passar a solução por um filtro (0,2 µM – azul). Acondicionar em tubos Falcon para autoclavar. Após autoclavado, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira."
-  },
-  {
-    "objectID": "diluicoes.html#diluição-de-primer-liofilizado",
-    "href": "diluicoes.html#diluição-de-primer-liofilizado",
-    "title": "6  Diluições",
-    "section": "6.11 Diluição de primer liofilizado",
-    "text": "6.11 Diluição de primer liofilizado\nQuantidade em nmol x 1000 / 60 = Quantidade de água ultrapura (Milli-Q)\nAcrescentar a quantidade obtida de água diretamente no tubo do primer liofilizado.\nObs: 60 µM é a concentração utilizada para diluição dos primers no laboratório."
+    "text": "Anthony J. F. Griffiths, Susan R. Wessler, Sean B. Carroll, and John\nDoebley. 2016. Introdução à Genética. 11th ed. Guanabara\nKoogan.\n\n\nBruce Alberts, Alexander Johnson, Julian Lewis, David Morgan, Martin\nRaff, Keith Roberts, Peter Walter, John Wilson, and Tim Hunt. 2017.\nBiologia Molecular Da Célula. 6th ed. Porto Alegre: Artmed.\n\n\nClement, M., Q. Snell, P. Walke, D. Posada, and K. Crandall. 2002.\n“TCS: Estimating Gene Genealogies.” Proceedings 16th\nInternational Parallel and Distributed Processing Symposium. https://doi.org/10.1109/ipdps.2002.1016585.\n\n\nPeter Snustad, and Michael J. Simmons. 2017. Fundamentos Da\nGenética. 7th ed. Rio de Janeiro: Guanabara Koogan.\n\n\nRosenthal, André, Oliver Coutelle, and Molly Craxton. 1993.\n“Large-Scale Production of DNA Sequencing Templates by Microtitre\nFormat PCR.” Nucleic Acids Research 21 (1): 173–74. http://www.ncbi.nlm.nih.gov/pubmed/8441614."
   }
 ]

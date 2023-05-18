@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.280">
+<meta name="generator" content="quarto-1.3.235">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,10 +17,29 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -61,13 +80,6 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Enviar"
   }
 }</script>
-<script type="application/json" class="js-hypothesis-config">
-{
-  "theme": "clean",
-  "openSidebar": false
-}
-</script>
-<script async="" src="https://hypothes.is/embed.js"></script>
 
 
 </head>
@@ -76,11 +88,16 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Softwares</span></h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./bancos-geneticos.html">Análises</a></li><li class="breadcrumb-item"><a href="./softwares.html"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Softwares</span></a></li></ol></nav>
+      <a class="flex-grow-1" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Procurar" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -88,20 +105,20 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Laboratório de Genética Molecular - Nupgen - DBC/Nupélia</a> 
         <div class="sidebar-tools-main">
-    <a href="https://github.com/nupgen/book_nupgen" title="Source Code" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/nupgen/book_nupgen" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
 </div>
     </div>
       </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
+        <div id="quarto-search" class="" title="Procurar"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -131,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./coletas.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Coleta</span></a>
+  <a href="./coletas.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Coletas</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -222,29 +239,30 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Índice</h2>
    
   <ul>
-  <li><a href="#bioedit" id="toc-bioedit" class="nav-link active" data-scroll-target="#bioedit"><span class="toc-section-number">14.1</span>  BioEdit</a></li>
-  <li><a href="#mega" id="toc-mega" class="nav-link" data-scroll-target="#mega"><span class="toc-section-number">14.2</span>  MEGA</a></li>
-  <li><a href="#iqtree" id="toc-iqtree" class="nav-link" data-scroll-target="#iqtree"><span class="toc-section-number">14.3</span>  IQTree</a></li>
-  <li><a href="#jmodeltest" id="toc-jmodeltest" class="nav-link" data-scroll-target="#jmodeltest"><span class="toc-section-number">14.4</span>  jModelTest</a></li>
-  <li><a href="#raxml" id="toc-raxml" class="nav-link" data-scroll-target="#raxml"><span class="toc-section-number">14.5</span>  RAxML</a></li>
-  <li><a href="#phyml" id="toc-phyml" class="nav-link" data-scroll-target="#phyml"><span class="toc-section-number">14.6</span>  PhyML</a></li>
-  <li><a href="#dnasp" id="toc-dnasp" class="nav-link" data-scroll-target="#dnasp"><span class="toc-section-number">14.7</span>  DNAsp</a></li>
-  <li><a href="#delimitadores-de-espécies" id="toc-delimitadores-de-espécies" class="nav-link" data-scroll-target="#delimitadores-de-espécies"><span class="toc-section-number">14.8</span>  Delimitadores de espécies</a>
+  <li><a href="#bioedit" id="toc-bioedit" class="nav-link active" data-scroll-target="#bioedit"><span class="header-section-number">14.1</span> BioEdit</a></li>
+  <li><a href="#mega" id="toc-mega" class="nav-link" data-scroll-target="#mega"><span class="header-section-number">14.2</span> MEGA</a></li>
+  <li><a href="#iqtree" id="toc-iqtree" class="nav-link" data-scroll-target="#iqtree"><span class="header-section-number">14.3</span> IQTree</a></li>
+  <li><a href="#jmodeltest" id="toc-jmodeltest" class="nav-link" data-scroll-target="#jmodeltest"><span class="header-section-number">14.4</span> jModelTest</a></li>
+  <li><a href="#raxml" id="toc-raxml" class="nav-link" data-scroll-target="#raxml"><span class="header-section-number">14.5</span> RAxML</a></li>
+  <li><a href="#phyml" id="toc-phyml" class="nav-link" data-scroll-target="#phyml"><span class="header-section-number">14.6</span> PhyML</a></li>
+  <li><a href="#dnasp" id="toc-dnasp" class="nav-link" data-scroll-target="#dnasp"><span class="header-section-number">14.7</span> DNAsp</a></li>
+  <li><a href="#delimitadores-de-espécies" id="toc-delimitadores-de-espécies" class="nav-link" data-scroll-target="#delimitadores-de-espécies"><span class="header-section-number">14.8</span> Delimitadores de espécies</a>
   <ul class="collapse">
   <li><a href="#ptp" id="toc-ptp" class="nav-link" data-scroll-target="#ptp">PTP</a></li>
   <li><a href="#abgd" id="toc-abgd" class="nav-link" data-scroll-target="#abgd">ABGD</a></li>
   <li><a href="#asap" id="toc-asap" class="nav-link" data-scroll-target="#asap">ASAP</a></li>
   <li><a href="#gmyc" id="toc-gmyc" class="nav-link" data-scroll-target="#gmyc">GMYC</a></li>
   </ul></li>
-  <li><a href="#figtree" id="toc-figtree" class="nav-link" data-scroll-target="#figtree"><span class="toc-section-number">14.9</span>  FigTree</a></li>
-  <li><a href="#itol" id="toc-itol" class="nav-link" data-scroll-target="#itol"><span class="toc-section-number">14.10</span>  iTOL</a></li>
-  <li><a href="#popart" id="toc-popart" class="nav-link" data-scroll-target="#popart"><span class="toc-section-number">14.11</span>  PopArt</a></li>
+  <li><a href="#figtree" id="toc-figtree" class="nav-link" data-scroll-target="#figtree"><span class="header-section-number">14.9</span> FigTree</a></li>
+  <li><a href="#itol" id="toc-itol" class="nav-link" data-scroll-target="#itol"><span class="header-section-number">14.10</span> iTOL</a></li>
+  <li><a href="#popart" id="toc-popart" class="nav-link" data-scroll-target="#popart"><span class="header-section-number">14.11</span> PopArt</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/nupgen/book_nupgen/issues/new" class="toc-action">Sugerir modificação</a></p></div></div></nav>
     </div>
@@ -253,7 +271,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Softwares</span></h1>
+<h1 class="title"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Softwares</span></h1>
 </div>
 
 
@@ -292,12 +310,12 @@ ul.task-list li input[type="checkbox"] {
 <p>O MEGA (Molecular Evolutionary Genetics Analysis) é um software de análise de genética molecular utilizado para estudar a evolução e a relação filogenética entre sequências de DNA, RNA ou proteínas. Ele é amplamente utilizado por pesquisadores em diversas áreas da genética molecular, incluindo biologia evolutiva, genômica e epidemiologia de doenças.</p>
 <p>O MEGA possui uma ampla gama de recursos, incluindo alinhamento de sequências, inferência de árvores filogenéticas, análise de substituição de nucleotídeos e proteínas, e muito mais. Ele também permite a visualização e análise de dados de diversas maneiras, como gráficos e tabelas.</p>
 <p>Ele um software fácil de usar, com uma interface intuitiva e uma ampla base de usuários e recursos on-line disponíveis. Ele é compatível com Windows, MacOS e Linux e está disponível para download gratuito em seu site oficial.</p>
-<div class="callout-warning callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Aviso
 </div>
 </div>
@@ -394,12 +412,12 @@ Aviso
 <p><strong>Link: <a href="https://bioinfo.mnhn.fr/abi/public/abgd/abgdweb.html" class="uri">https://bioinfo.mnhn.fr/abi/public/abgd/abgdweb.html</a></strong></p>
 <p><strong>Artigo:</strong> <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05239.x"><strong>https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05239.x</strong></a></p>
 <p>texto</p>
-<div class="callout-important callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Importante
 </div>
 </div>
@@ -441,10 +459,20 @@ Importante
 <section id="popart" class="level2" data-number="14.11">
 <h2 data-number="14.11" class="anchored" data-anchor-id="popart"><span class="header-section-number">14.11</span> PopArt</h2>
 <p><img src="./figures/softwares/popart.png" align="right" height="138"></p>
-<p><strong>Útil para: <span style="background-color: #f1f1f1; color: #2171b5;">Haplótipos</span> / <span style="background-color: #f1f1f1; color: #238b45;">Árvore - Edição</span></strong></p>
-<hr>
+<p><strong>Útil para: <span style="background-color: #f1f1f1; color: #2171b5;">Haplótipos</span></strong></p>
+<p><strong>Link: <a href="https://popart.maths.otago.ac.nz/download/" class="uri">https://popart.maths.otago.ac.nz/download/</a></strong></p>
+<p>As redes de haplótipos são usadas na análise de dados genéticos populacionais para visualizar relações genealógicas no nível intraespecífico e fazer inferências sobre biogeografia de populações. O PopArt (Population Analysis with Reticulate Trees) é um software para análise genética populacional usando redes de haplótipos.</p>
+<p>A principal função do PopArt é o escaneamento e visualização de relações genéticas entre espécimes, realizado com a inclusão de dados de sequências de DNA, em formato Nexus. Após a rede de haplótipos ter sido inferida, o softawe permite que os usuários modifiquem vários aspectos da aparência da rede, incluindo cores, fontes e posições de nós e rótulos. O software permite a visualização quantitativa de espécimes presentes em cada haplótipo (pela diferença de tamanho de cada círculo representativo de haplótipo) e as mutações entre eles (quantidade de traços contínuos entre os haplótipos). Ademais, os usuários também podem exibir informações auxiliares associadas a sequências de haplótipos, como localizações geográficas onde as amostras foram coletadas ou informações fenotípicas, mostradas em um gráfico de pizza entre os nós da rede.</p>
+<p>O PopArt permite que os usuários usem três métodos populares de inferência de rede de haplótipos: TCS, redes de abrangência mínima (MSN) e redes de junção mediana (MJN). A rede TCS é construída usando uma abordagem aglomerativa onde os clusters são progressivamente combinados com uma ou mais arestas de conexão; para detalhes ver Clement et al. <span class="citation" data-cites="clement2002">(<a href="references.html#ref-clement2002" role="doc-biblioref">2002</a>)</span>. As redes construídas pelo método MSN, contêm todas as arestas que aparecem em uma árvore geradora mínima das sequências, ou seja, todas as redes que contêm apenas nós que representam sequências de entrada conectadas por aresta. Uma deficiência do método MSN é que ele não tenta inferir quaisquer nós adicionais ou sequências ancestrais, mesmo quando pode haver evidências consideráveis da existência de tais nós. Por fim, o método MJN inclui nós para representar sequências inferidas (não amostradas) adicionando iterativamente vetores de sequência ‘mediana’ quando esses nós encurtam o comprimento total de a rede.</p>
+<p><strong>Prós:</strong> fácil visualização dos haplótipos em uma rede autoexplicativa.</p>
+<p><strong>Contras:</strong> poucas atualizações do software, o que dificulta encontrar a origem dos “bugs” quando é rodada a análise.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-clement2002" class="csl-entry" role="listitem">
+Clement, M., Q. Snell, P. Walke, D. Posada, e K. Crandall. 2002. <span>“TCS: estimating gene genealogies”</span>. <em>Proceedings 16th International Parallel and Distributed Processing Symposium</em>. <a href="https://doi.org/10.1109/ipdps.2002.1016585">https://doi.org/10.1109/ipdps.2002.1016585</a>.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -475,9 +503,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -542,6 +584,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -585,7 +713,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
-    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

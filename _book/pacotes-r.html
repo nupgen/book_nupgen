@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.280">
+<meta name="generator" content="quarto-1.3.235">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Laboratório de Genética Molecular - Nupgen - DBC/Nupélia - 14&nbsp; Pacotes R</title>
+<title>Laboratório de Genética Molecular - Nupgen - DBC/Nupélia - 15&nbsp; Pacotes R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -17,9 +17,10 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
@@ -124,13 +125,6 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     "search-submit-button-title": "Enviar"
   }
 }</script>
-<script type="application/json" class="js-hypothesis-config">
-{
-  "theme": "clean",
-  "openSidebar": false
-}
-</script>
-<script async="" src="https://hypothes.is/embed.js"></script>
 
 
 </head>
@@ -139,11 +133,16 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Pacotes R</span></h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./bancos-geneticos.html">Análises</a></li><li class="breadcrumb-item"><a href="./pacotes-r.html"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Pacotes R</span></a></li></ol></nav>
+      <a class="flex-grow-1" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Procurar" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -151,20 +150,20 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Laboratório de Genética Molecular - Nupgen - DBC/Nupélia</a> 
         <div class="sidebar-tools-main">
-    <a href="https://github.com/nupgen/book_nupgen" title="Source Code" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/nupgen/book_nupgen" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
 </div>
     </div>
       </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
+        <div id="quarto-search" class="" title="Procurar"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -189,7 +188,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./coletas.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Coleta</span></a>
+  <a href="./biosseguranca.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Biossegurança</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./coletas.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Coletas</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -202,37 +206,37 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./diluicoes.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Diluições</span></a>
+  <a href="./diluicoes.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Diluições</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./extracao.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Extração</span></a>
+  <a href="./extracao.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Extração</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./eletroforese.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Eletroforese</span></a>
+  <a href="./eletroforese.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Eletroforese</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./quantificacao.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Quantificação</span></a>
+  <a href="./quantificacao.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Quantificação</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./amplificacao.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Amplificação</span></a>
+  <a href="./amplificacao.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Amplificação</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purificacao.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Purificação</span></a>
+  <a href="./purificacao.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Purificação</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sequenciamento.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Sequenciamento</span></a>
+  <a href="./sequenciamento.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Sequenciamento</span></a>
   </div>
 </li>
       </ul>
@@ -247,27 +251,27 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./bancos-geneticos.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Bancos de Dados Genéticos</span></a>
+  <a href="./bancos-geneticos.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Bancos de Dados Genéticos</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./softwares.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Softwares</span></a>
+  <a href="./softwares.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Softwares</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pacotes-r.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Pacotes R</span></a>
+  <a href="./pacotes-r.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Pacotes R</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./edicao-sequencias.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Edição de sequências</span></a>
+  <a href="./edicao-sequencias.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Edição de sequências</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./alinhamento.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Alinhamento</span></a>
+  <a href="./alinhamento.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Alinhamento</span></a>
   </div>
 </li>
       </ul>
@@ -280,19 +284,20 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Índice</h2>
    
   <ul>
-  <li><a href="#pacote-nupgen-r" id="toc-pacote-nupgen-r" class="nav-link active" data-scroll-target="#pacote-nupgen-r"><span class="toc-section-number">14.1</span>  Pacote nupgen (R)</a></li>
-  <li><a href="#rocc" id="toc-rocc" class="nav-link" data-scroll-target="#rocc"><span class="toc-section-number">14.2</span>  Rocc</a></li>
-  <li><a href="#bold" id="toc-bold" class="nav-link" data-scroll-target="#bold"><span class="toc-section-number">14.3</span>  bold</a></li>
-  <li><a href="#refdb" id="toc-refdb" class="nav-link" data-scroll-target="#refdb"><span class="toc-section-number">14.4</span>  refdb</a></li>
-  <li><a href="#herodotools" id="toc-herodotools" class="nav-link" data-scroll-target="#herodotools"><span class="toc-section-number">14.5</span>  Herodotools</a></li>
-  <li><a href="#ggtree" id="toc-ggtree" class="nav-link" data-scroll-target="#ggtree"><span class="toc-section-number">14.6</span>  ggtree</a></li>
-  <li><a href="#ggmsa" id="toc-ggmsa" class="nav-link" data-scroll-target="#ggmsa"><span class="toc-section-number">14.7</span>  ggmsa</a></li>
+  <li><a href="#pacote-nupgen-r" id="toc-pacote-nupgen-r" class="nav-link active" data-scroll-target="#pacote-nupgen-r"><span class="header-section-number">15.1</span> Pacote nupgen (R)</a></li>
+  <li><a href="#rocc" id="toc-rocc" class="nav-link" data-scroll-target="#rocc"><span class="header-section-number">15.2</span> Rocc</a></li>
+  <li><a href="#bold" id="toc-bold" class="nav-link" data-scroll-target="#bold"><span class="header-section-number">15.3</span> bold</a></li>
+  <li><a href="#refdb" id="toc-refdb" class="nav-link" data-scroll-target="#refdb"><span class="header-section-number">15.4</span> refdb</a></li>
+  <li><a href="#herodotools" id="toc-herodotools" class="nav-link" data-scroll-target="#herodotools"><span class="header-section-number">15.5</span> Herodotools</a></li>
+  <li><a href="#ggtree" id="toc-ggtree" class="nav-link" data-scroll-target="#ggtree"><span class="header-section-number">15.6</span> ggtree</a></li>
+  <li><a href="#ggmsa" id="toc-ggmsa" class="nav-link" data-scroll-target="#ggmsa"><span class="header-section-number">15.7</span> ggmsa</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/nupgen/book_nupgen/issues/new" class="toc-action">Sugerir modificação</a></p></div></div></nav>
     </div>
@@ -301,7 +306,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Pacotes R</span></h1>
+<h1 class="title"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Pacotes R</span></h1>
 </div>
 
 
@@ -320,8 +325,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>Utilizamos o R para organizar dados, tratar tabelas, criar índices, realizar testes estatísticos e finalizar com lindos gráficos. Tudo isso é possível através do uso das ferramentas certas, que geralmente são distribuídas em <strong>pacotes</strong>, que nada mais são que conjuntos de funções específicas.</p>
 <p>Obviamente é inviável e até foge do escopo deste livro trazer uma introdução ao R e ecologia quantitativa, mas recentemente foi lançado um livro on-line escrito por pesquisadores brasileiros com toda uma introdução neste tópico, é o livro <a href="https://analises-ecologicas.netlify.app/">Análises Ecológicas no R</a> (que foi escrito no R como este aqui). Caso precise de ajuda com o R ou afins, estamos à disposição para ajudar (praticamente todos os laboratórios do Nupélia utilizam o R para análises).</p>
 <p>Para a pesquisa com Genética Molecular, existem alguns pacotes que podem ajudar.</p>
-<section id="pacote-nupgen-r" class="level2" data-number="14.1">
-<h2 data-number="14.1" class="anchored" data-anchor-id="pacote-nupgen-r"><span class="header-section-number">14.1</span> Pacote nupgen (R)</h2>
+<section id="pacote-nupgen-r" class="level2" data-number="15.1">
+<h2 data-number="15.1" class="anchored" data-anchor-id="pacote-nupgen-r"><span class="header-section-number">15.1</span> Pacote nupgen (R)</h2>
 <p><strong>Link: <a href="https://brunomioto.github.io/nupgen/">https://brunomioto.github.io/nupgen/</a></strong></p>
 <p>Este é um pacote criado com algumas funções internas do nosso laboratório, são elas:</p>
 <ul>
@@ -346,8 +351,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"brunomioto/nupgen"</span>)</span></code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
-<section id="rocc" class="level2" data-number="14.2">
-<h2 data-number="14.2" class="anchored" data-anchor-id="rocc"><span class="header-section-number">14.2</span> Rocc</h2>
+<section id="rocc" class="level2" data-number="15.2">
+<h2 data-number="15.2" class="anchored" data-anchor-id="rocc"><span class="header-section-number">15.2</span> Rocc</h2>
 <p><strong>Link: <a href="https://docs.ropensci.org/bold/">https://docs.ropensci.org/bold/</a></strong></p>
 <p>Baixa dados do specieslink</p>
 <p><strong>Instalação</strong></p>
@@ -358,8 +363,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"liibre/Rocc"</span>)</span></code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
-<section id="bold" class="level2" data-number="14.3">
-<h2 data-number="14.3" class="anchored" data-anchor-id="bold"><span class="header-section-number">14.3</span> bold</h2>
+<section id="bold" class="level2" data-number="15.3">
+<h2 data-number="15.3" class="anchored" data-anchor-id="bold"><span class="header-section-number">15.3</span> bold</h2>
 <p><strong>Link: <a href="https://docs.ropensci.org/bold/">https://docs.ropensci.org/bold/</a></strong></p>
 <p>Baixa dados do bold</p>
 <p><strong>Instalação</strong></p>
@@ -367,8 +372,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"bold"</span>)</span></code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
-<section id="refdb" class="level2" data-number="14.4">
-<h2 data-number="14.4" class="anchored" data-anchor-id="refdb"><span class="header-section-number">14.4</span> refdb</h2>
+<section id="refdb" class="level2" data-number="15.4">
+<h2 data-number="15.4" class="anchored" data-anchor-id="refdb"><span class="header-section-number">15.4</span> refdb</h2>
 <p><strong>Link: <a href="https://fkeck.github.io/refdb/index.html">https://fkeck.github.io/refdb/index.html</a></strong></p>
 <p>Baixa dados do genbank</p>
 <p><strong>Instalação</strong></p>
@@ -379,8 +384,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"fkeck/refdb"</span>)</span></code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
-<section id="herodotools" class="level2" data-number="14.5">
-<h2 data-number="14.5" class="anchored" data-anchor-id="herodotools"><span class="header-section-number">14.5</span> Herodotools</h2>
+<section id="herodotools" class="level2" data-number="15.5">
+<h2 data-number="15.5" class="anchored" data-anchor-id="herodotools"><span class="header-section-number">15.5</span> Herodotools</h2>
 <p><strong>Link: <a href="https://gabrielnakamura.github.io/Herodotools/index.html">https://gabrielnakamura.github.io/Herodotools/index.html</a></strong></p>
 <p>Biogeografia</p>
 <p><strong>Instalação</strong></p>
@@ -391,8 +396,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"GabrielNakamura/Herodotools"</span>)</span></code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
-<section id="ggtree" class="level2" data-number="14.6">
-<h2 data-number="14.6" class="anchored" data-anchor-id="ggtree"><span class="header-section-number">14.6</span> ggtree</h2>
+<section id="ggtree" class="level2" data-number="15.6">
+<h2 data-number="15.6" class="anchored" data-anchor-id="ggtree"><span class="header-section-number">15.6</span> ggtree</h2>
 <p><strong>Link: <a href="https://guangchuangyu.github.io/ggtree-book/chapter-ggtree.html">https://guangchuangyu.github.io/ggtree-book/chapter-ggtree.html</a></strong></p>
 <p>Edição de árvores</p>
 <p><strong>Instalação</strong></p>
@@ -400,8 +405,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"ggtree"</span>)</span></code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
-<section id="ggmsa" class="level2" data-number="14.7">
-<h2 data-number="14.7" class="anchored" data-anchor-id="ggmsa"><span class="header-section-number">14.7</span> ggmsa</h2>
+<section id="ggmsa" class="level2" data-number="15.7">
+<h2 data-number="15.7" class="anchored" data-anchor-id="ggmsa"><span class="header-section-number">15.7</span> ggmsa</h2>
 <p><strong>Link: <a href="http://yulab-smu.top/ggmsa/">http://yulab-smu.top/ggmsa/</a></strong></p>
 <p>Visualização de sequências</p>
 <p><strong>Instalação</strong></p>
@@ -443,9 +448,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -510,6 +529,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -553,7 +658,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
-    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -568,12 +673,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./softwares.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Softwares</span></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Softwares</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
       <a href="./edicao-sequencias.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Edição de sequências</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Edição de sequências</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

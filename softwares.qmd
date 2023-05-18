@@ -208,6 +208,16 @@ O FigTree possui uma ampla gama de recursos de visualização, como opções de 
 
 <img src="/figures/softwares/popart.png" align="right" height="138"/>
 
-**Útil para: [Haplótipos]{style="background-color: #f1f1f1; color: #2171b5;"} / [Árvore - Edição]{style="background-color: #f1f1f1; color: #238b45;"}**
+**Útil para: [Haplótipos]{style="background-color: #f1f1f1; color: #2171b5;"}**
 
-------------------------------------------------------------------------
+**Link: <https://popart.maths.otago.ac.nz/download/>**
+
+As redes de haplótipos são usadas na análise de dados genéticos populacionais para visualizar relações genealógicas no nível intraespecífico e fazer inferências sobre biogeografia de populações. O PopArt (Population Analysis with Reticulate Trees) é um software para análise genética populacional usando redes de haplótipos.
+
+A principal função do PopArt é o escaneamento e visualização de relações genéticas entre espécimes, realizado com a inclusão de dados de sequências de DNA, em formato Nexus. Após a rede de haplótipos ter sido inferida, o softawe permite que os usuários modifiquem vários aspectos da aparência da rede, incluindo cores, fontes e posições de nós e rótulos. O software permite a visualização quantitativa de espécimes presentes em cada haplótipo (pela diferença de tamanho de cada círculo representativo de haplótipo) e as mutações entre eles (quantidade de traços contínuos entre os haplótipos). Ademais, os usuários também podem exibir informações auxiliares associadas a sequências de haplótipos, como localizações geográficas onde as amostras foram coletadas ou informações fenotípicas, mostradas em um gráfico de pizza entre os nós da rede.
+
+O PopArt permite que os usuários usem três métodos populares de inferência de rede de haplótipos: TCS, redes de abrangência mínima (MSN) e redes de junção mediana (MJN). A rede TCS é construída usando uma abordagem aglomerativa onde os clusters são progressivamente combinados com uma ou mais arestas de conexão; para detalhes ver Clement et al. [-@clement2002]. As redes construídas pelo método MSN, contêm todas as arestas que aparecem em uma árvore geradora mínima das sequências, ou seja, todas as redes que contêm apenas nós que representam sequências de entrada conectadas por aresta. Uma deficiência do método MSN é que ele não tenta inferir quaisquer nós adicionais ou sequências ancestrais, mesmo quando pode haver evidências consideráveis da existência de tais nós. Por fim, o método MJN inclui nós para representar sequências inferidas (não amostradas) adicionando iterativamente vetores de sequência 'mediana' quando esses nós encurtam o comprimento total de a rede.
+
+**Prós:** fácil visualização dos haplótipos em uma rede autoexplicativa.
+
+**Contras:** poucas atualizações do software, o que dificulta encontrar a origem dos "bugs" quando é rodada a análise.

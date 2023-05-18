@@ -54,8 +54,8 @@ format:
     link-external-icon: true
     link-external-newwindow: true
     #embed-resources: true
-  pdf:
-    documentclass: scrreprt
+  # pdf:
+  #   documentclass: scrreprt
 
 editor: visual
 
