@@ -34,7 +34,6 @@ Para isso, utilizamos os seguintes diagramas:
 ![](figures/equipamentos/balanceamento_24.png){fig-align="center"}
 
 Caso ocorra uma das situações impossíveis de balanceamento, adicione um tubo a mais sem amostra.
-
 :::
 
 ## Termocicladores
@@ -120,9 +119,8 @@ A fonte é utilizada para ligar os cabos de energia à cuba de eletroforese e fo
 ::: {layout-ncol="2"}
 ![](figures/equipamentos/Fonte%20para%20eletroforese.png){fig-align="center" height="300"}
 
-![](figures/equipamentos/Fonte para eletroforese2.png){fig-align="center" height="300"}
+![](figures/equipamentos/Fonte%20para%20eletroforese2.png){fig-align="center" height="300"}
 :::
-
 
 Há uma fonte no laboratório do Bloco G90 e uma no laboratório do Bloco G80.
 
