@@ -12,7 +12,7 @@ Toda viagem de campo é bem complicada, pois temos que fazer várias coisas com 
 
 ### Licença de coleta
 
-Toda coleta de material biológico deve ter uma licença de coleta, pois retirar animais silvestres da natureza é crime. Por isso é essencial conversar com os professores responsáveis antes e providenciar. Leve a autorização impressa dentro de um saco plástico transparente para não molhar. O PELD já possui uma licença geral de coleta.
+**Toda coleta de material biológico deve ter uma licença de coleta**, pois retirar animais silvestres da natureza é crime. Por isso é essencial conversar com os professores responsáveis antes e providenciar. Leve a autorização impressa dentro de um saco plástico transparente para não molhar. O PELD já possui uma licença geral de coleta.
 
 ### Local de coleta
 
@@ -26,23 +26,60 @@ Preparação para viagem
 
 Em qualquer coleta deve ser registrado o maior número de dados possível, afim de facilitar o trabalho futuro ou mesmo para prever possíveis questionamentos de revisores. Alguns dados muito importante são:
 
-- Coordenadas;
+-   Coordenadas;
 
-- Espécie coletada;
+-   Espécie coletada;
 
-- Número de espécimes;
+-   Número de espécimes;
 
-- Local;
+-   Local;
 
-- Fotos e descrição do ambiente;
-
+-   Fotos e descrição do ambiente;
 
 ## Triagem
 
 Após coletar os espécimes, é necessário realizar a triagem para garantir a qualidade do estudo. Com caramujos geralmente são triados os parasitos, com peixes podemos retirar o tecido, etc.
 
+## Protocolo de coleta de tecido de peixe - PELD
 
+### Materiais
 
+-   Tubos eppendorf com aproximadamente 1 mL de álcool 92,8% ou absoluto numerados (é mais indicado utilizar papel vegetal escrito com caneta nanquim dentro do tubo);
 
+-   3 Bisturis com 5 lâminas;
 
+-   4 pinças de tamanhos diferentes;
 
+-   1 tesoura;
+
+-   1 litro de álcool 92,8% ou absoluto e 1 funil;
+
+-   5 pares de luvas;
+
+-   Toalhas de papel
+
+### Procedimento
+
+-   Colocar um papel absorvente embaixo para colocar o peixe;
+
+-   Colocar o peixe sempre com a cabeça para o lado direito antes de retirar o tecido;
+
+-   Coletar tecido com cerca de 3cm de largura e 1 a 2 cm de altura da região latero-dorsal como apresentado em vermelho na figura abaixo;
+
+![Local de coleta de tecido de peixes](figures/coletas/peixe_coleta.png)
+
+-   Com uma pinça, retirar o tecido que foi cortado;
+
+-   Armazenar em tubos com álcool absoluto devidamente etiquetados;
+
+-   Informações que são importantes anotar: número do PELD/número do peixe; data; provável espécie; ambiente/localidade/subsistema. Exemplo: **TUC 1 -- 20601 -- Cichla kelberi -- Lagoa dos patos**
+
+::: callout-caution
+## Atenção e cuidados
+
+Antes da utilização, os utensílios (pinça, bisturi, lâminas etc.) devem ser autoclavados;
+
+Tomar cuidado ao abrir as lâminas e colocar no bisturi, sempre colocar e remover as lâminas com o auxílio de uma pinça;
+
+Entre cada peixe, antes de retirar o tecido, limpar bem com álcool e flambar a lâmina do bisturi e a ponta da pinça (mergulhar no álcool e acender o isqueiro).
+:::

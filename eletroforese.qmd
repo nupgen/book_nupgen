@@ -54,8 +54,7 @@ O loading é utilizado para facilitar a visualização da corrida tanto no momen
 
 O gel de agarose é a matriz na qual é aplicada a amostra e que permite realizar a separação de moléculas de DNA do polo negativo para o positivo. A agarose é um polissacarídeo extraído de uma alga marinha que, quando solidificada, forma uma rede porosa. O tamanho dos poros dependente da concentração de agarose utilizada para fazer o gel, quanto maior concentração de agarose menores os poros dificultando a migração de grandes moléculas de DNA. Essa matriz cria uma resistência, onde moléculas menores migram mais rápido e moléculas maiores mais devagar. A capacidade de separar moléculas por tamanho pode ser útil em diversas aplicações de pesquisa, como por exemplo identificar o tamanho das amostras desconhecidas em comparação com fragmentos conhecidos.
 
-O gel de agarose deve ser preparado ajustando-se a concentração apropriada para separar os fragmentos de DNA presentes nas amostras estudadas. Normalmente, as concentrações de agarose no gel variam de 1% a 3%. Exemplos de dilução serão dadas no tópico a seguir. 
-
+O gel de agarose deve ser preparado ajustando-se a concentração apropriada para separar os fragmentos de DNA presentes nas amostras estudadas. Normalmente, as concentrações de agarose no gel variam de 1% a 3%. Exemplos de dilução serão dadas no tópico a seguir.
 
 ### Gel 1%
 
