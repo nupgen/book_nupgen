@@ -147,6 +147,13 @@
     "text": "5.3 Triagem\nApós coletar os espécimes, é necessário realizar a triagem para garantir a qualidade do estudo. Com caramujos geralmente são triados os parasitos, com peixes podemos retirar o tecido, etc."
   },
   {
+    "objectID": "coletas.html#protocolo-de-coleta-de-tecido-de-peixe---peld",
+    "href": "coletas.html#protocolo-de-coleta-de-tecido-de-peixe---peld",
+    "title": "5  Coletas",
+    "section": "5.4 Protocolo de coleta de tecido de peixe - PELD",
+    "text": "5.4 Protocolo de coleta de tecido de peixe - PELD\n\nMateriais\n\nTubos eppendorf com aproximadamente 1 mL de álcool 92,8% ou absoluto numerados (é mais indicado utilizar papel vegetal escrito com caneta nanquim dentro do tubo);\n3 Bisturis com 5 lâminas;\n4 pinças de tamanhos diferentes;\n1 tesoura;\n1 litro de álcool 92,8% ou absoluto e 1 funil;\n5 pares de luvas;\nToalhas de papel\n\n\n\nProcedimento\n\nColocar um papel absorvente embaixo para colocar o peixe;\nColocar o peixe sempre com a cabeça para o lado direito antes de retirar o tecido;\nColetar tecido com cerca de 3cm de largura e 1 a 2 cm de altura da região latero-dorsal como apresentado em vermelho na figura abaixo;\n\n\n\n\nLocal de coleta de tecido de peixes\n\n\n\nCom uma pinça, retirar o tecido que foi cortado;\nArmazenar em tubos com álcool absoluto devidamente etiquetados;\nInformações que são importantes anotar: número do PELD/número do peixe; data; provável espécie; ambiente/localidade/subsistema. Exemplo: TUC 1 – 20601 – Cichla kelberi – Lagoa dos patos\n\n\n\n\n\n\n\nAtenção e cuidados\n\n\n\nAntes da utilização, os utensílios (pinça, bisturi, lâminas etc.) devem ser autoclavados;\nTomar cuidado ao abrir as lâminas e colocar no bisturi, sempre colocar e remover as lâminas com o auxílio de uma pinça;\nEntre cada peixe, antes de retirar o tecido, limpar bem com álcool e flambar a lâmina do bisturi e a ponta da pinça (mergulhar no álcool e acender o isqueiro)."
+  },
+  {
     "objectID": "diluicoes.html#etanol",
     "href": "diluicoes.html#etanol",
     "title": "6  Diluições",
@@ -488,5 +495,12 @@
     "title": "17  Alinhamento",
     "section": "",
     "text": "MEGA, raxML, phyML\nAdicionar referências para cada um\nMEGA 7:"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Referências",
+    "section": "",
+    "text": "Anthony J. F. Griffiths, Susan R. Wessler, Sean B. Carroll, and John\nDoebley. 2016. Introdução à Genética. 11th ed. Guanabara\nKoogan.\n\n\nBruce Alberts, Alexander Johnson, Julian Lewis, David Morgan, Martin\nRaff, Keith Roberts, Peter Walter, John Wilson, and Tim Hunt. 2017.\nBiologia Molecular Da Célula. 6th ed. Porto Alegre: Artmed.\n\n\nClement, M., Q. Snell, P. Walke, D. Posada, and K. Crandall. 2002.\n“TCS: Estimating Gene Genealogies.” Proceedings 16th\nInternational Parallel and Distributed Processing Symposium. https://doi.org/10.1109/ipdps.2002.1016585.\n\n\nPeter Snustad, and Michael J. Simmons. 2017. Fundamentos Da\nGenética. 7th ed. Rio de Janeiro: Guanabara Koogan.\n\n\nRosenthal, André, Oliver Coutelle, and Molly Craxton. 1993.\n“Large-Scale Production of DNA Sequencing Templates by Microtitre\nFormat PCR.” Nucleic Acids Research 21 (1): 173–74. http://www.ncbi.nlm.nih.gov/pubmed/8441614."
   }
 ]
