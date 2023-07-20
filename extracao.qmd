@@ -100,53 +100,61 @@ Atualmente no Nupgen são utilizados dois kits de extração diferentes: **Wizar
 
 ## Protocolo de Extração de DNA - Promega **Macrófitas**
 
-![](figures/extracao-macrofitas.JPG)
+![](figures/extracao-macrofitas.JPG){width=80% fig-align="center"}
 
-1.  Tubos de 1,5 mL.
+1. Nos tubos de 1,5 mL escrever o código da amostra correspondente, colocar o código no tubo Falcon também – Passo anterior ao início da extração.
 
-2.  Amostras + nitrogênio líquido (macerar).
+2. Com uma pinça, pegar a folha da macrófita e colocar no cadinho (caso a folha seja muito grande, pode cortar ela para caber inteira); despejar nitrogênio líquido no cadinho e com o auxílio do pistilo macerar a amostra (usar mais de uma vez o nitrogênio para macerar bem).
 
-3.  Adicionar 600 μl de Nuclei Lysis Solution (logo após macerar).
+3. Ao terminar a maceração, transferir um pouco do pó formado para o tubo de 1,5 mL correspondente (pode usar a pazinha de plástico para facilitar).
 
-4.  Banho de 15 minutos a 65° C.
+4. Adicionar 600 μL de Nuclei Lysis Solution (logo após macerar).
 
-5.  Adicionar 3 μl de RNAse.
+5. Deixar no banho-maria por 15 minutos a 65°C.
 
-6.  Virar o tubo 5x.
+6. Adicionar 3 μL de RNAse.
 
-7.  Colocar no banho por 15 minutos a 37° C (pode segurar na mão).
+7. Inverter o tubo 5x.
 
-8.  Deixar por 5 minutos em temperatura ambiente.
+8. Colocar no banho-maria por 15 minutos a 37°C.
 
-9.  Adicionar 200 μl de Protein Precipitation Solution.
+9. Deixar por 5 minutos em temperatura ambiente.
 
-10. Vórtex.
+10. Adicionar 200 μL de Protein Precipitation Solution.
 
-11. Centrifugar por 3 minutos a 16.000 ou 13.000 rpm.
+11. Homogeneizar no vórtex.
 
-12. Separar sobrenadante e descartar o resto.
+12. Centrifugar por 3 minutos a 16.000 g ou 13.000 rpm.
 
-13. Adicionar 600 μl de isopropanol ao sobrenadante.
+13. Retirar o sobrenadante e transferir para um novo tubo de 1,5 mL. Descartar o precipitado.
 
-14. Virar 5x.
+14. Adicionar 600 μL de isopropanol ao sobrenadante.
 
-15. Centrifugar por 1 minuto a 16.000 ou 13.000 rpm.
+15. Inverter o tubo 5x.
 
-16. Descartar sobrenadante.
+16. Centrifugar por 1 minuto a 16.000 g ou 13.000 rpm.
 
-17. Adicionar 600 μl de etanol 70%.
+17. Descartar o sobrenadante.
 
-18. Virar 5x.
+18. Adicionar 600 μL de etanol 70%.
 
-19. Centrifugar por 1 minuto a 16.000 ou 13.000 rpm.
+19. Inverter o tubo 5x.
 
-20. Descartar sobrenadante.
+20. Centrifugar por 1 minuto a 16.000 g ou 13.000 rpm.
 
-21. Deixar o tubo secar por 15 minutos na estufa.
+21. Descartar o sobrenadante.
 
-22. Adicionar 50 μl de DNA Rehydration Solution.
+22. Deixar o tubo secar por 15 minutos na estufa ou até não ter mais gotas de álcool.
 
-## Protocolo de Extração de DNA com Colunas - QIAGEN **Parasitos e Macrófitas**
+23. Adicionar 30/50 μL de DNA Rehydration Solution.
+
+## Protocolo de Extração de DNA com Colunas - **QIAGEN DNEasy Blood and Tissue** - **Parasitos**
+
+::: {.callout-warning}
+## Atenção
+
+Existem 2 kits de coluna diferentes, o **QIAGEN DNEasy Blood and Tissue** e o **QIAGEN QIAamp DNA Blood Mini**. Preste atenção em qual será o kit utilizado.
+:::
 
 1.  Deixar o mínimo possível de líquido na amostra antes de começar.
 
@@ -158,7 +166,7 @@ Atualmente no Nupgen são utilizados dois kits de extração diferentes: **Wizar
 
 5.  Adicionar 200 μL de Buffer AL. Homogeneizar bem com vórtex.
 
-6.  Adicionar 200 μL de etanol (96-100%). Homogeneizar  bem com vórtex.
+6.  Adicionar 200 μL de etanol (96-100%). Homogeneizar bem com vórtex.
 
 7.  Pipetar a mistura em uma coluna de centrifugação DNeasy Mini colocada em um tubo de coleta. Centrifugar a 8.000 rpm (≥6.000 x g) por 1 minuto. Descartar o líquido filtrado e o tubo de coleta.
 
@@ -171,3 +179,35 @@ Atualmente no Nupgen são utilizados dois kits de extração diferentes: **Wizar
 11. Adicionar 50 μL de Buffer AE no centro da membrana da coluna para a eluição do DNA. Incubar por 1 minuto a temperatura ambiente (15-25º C). Centrifugar por 1 minuto a 8.000 rpm.
 
 12. Descartar a coluna e guardar o DNA extraído.
+
+## Protocolo de Extração de DNA com Colunas - **QIAGEN QIAamp DNA Blood Mini** - **Parasitos**
+
+::: {.callout-warning}
+## Atenção
+
+Existem 2 kits de coluna diferentes, o **QIAGEN DNEasy Blood and Tissue** e **QIAGEN QIAamp DNA Blood Mini**. Preste atenção em qual será o kit utilizado.
+:::
+
+1. Deixar o mínimo possível de líquido na amostra antes de começar.
+
+2. Adicionar 200 µL de Buffer AL.
+
+3. Adicionar 20 µL de proteinase K. Misturar com vórtex e incubar a 56ºC até completa lise celular (30min - 2h). Misturar com vórtex ocasionalmente durante a incubação.
+
+4. Misturar com vórtex por 15 segundos.
+
+5. Adicionar 200 µL de etanol (96-100%). Misturar bem com vórtex.
+
+6. Pipetar a mistura em uma coluna de centrifugação DNeasy Mini colocada em um tubo de coleta. Centrifugar a 8000 rpm (≥6000 x g) por 1 minuto. Descartar o líquido filtrado e o tubo de coleta.
+
+7. Colocar a coluna em um novo tubo de coleta do kit. Adicionar 500 µL de Buffer AW1. Centrifugar por 1 minuto a 8000 rpm. Descartar o líquido filtrado e o tubo de coleta.
+
+8. Colocar a coluna em um novo tubo de coleta do kit. Adicionar 500 µL de Buffer AW2. Centrifugar por 3 minutos a 14.000 rpm (≥20.000 x g). Descartar o líquido filtrado e o tubo de coleta.
+
+9. Transferir a coluna para um eppendorf de 1,5 mL.
+
+10. Adicionar 50 µL de Buffer AE no centro da membrana da coluna para a eluição do DNA. Incubar por 1 minuto a temperatura ambiente (15-25ºC). Centrifugar por 1 minuto a 8000 rpm.
+
+11. Descartar a coluna e guardar o DNA extraído.
+
+

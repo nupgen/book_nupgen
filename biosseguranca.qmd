@@ -2,9 +2,36 @@
 title: "Biossegurança"
 ---
 
-
 Falar sobre biossegurança no lab
 
 Limpeza, contaminação, perigos, EPI, etc
 
-Produtos perigosos: Ácido bórica
+Produtos perigosos: Ácido bórico
+
+A biossegurança é um conjunto de normas e medidas empregadas para prevenir os trabalhadores de riscos e evitar acidentes de trabalho envolvendo agentes biológicos e reagentes nocivos, agindo diretamente na contenção e eliminação dos riscos de exposição. Segundo a Anvisa, a biossegurança é uma "condição de segurança alcançada por um conjunto de ações destinadas a prevenir, controlar, reduzir ou eliminar riscos inerentes às atividades que possam comprometer a saúde humana, animal e o meio ambiente". Entretanto, apenas em 1970 o conceito de biossegurança foi implementando, visto que se observou que profissionais de laboratórios e da área da saúde apresentavam uma taxa maior de certas doenças em relação a outros profissionais, e partir dessa data, começou-se a criar métodos e regras para que o ambiente de trabalho desses profissionais fosse mais seguro. As normas de biossegurança estão presentes na legislação brasileira, dispostas na Lei de Biossegurança 11.105 de 24 de março de 2015.
+
+Existe um conjunto de normas a prevenir o risco da exposição a agentes biológicos infecciosos e reagentes químicos comumente manuseados pelos profissionais do laboratório. De maneira general, existem quatro princípios da biossegurança, sendo eles a avaliação de risco, a universalidade, as barreiras e a eliminação. Na avaliação do risco, os trabalhadores que manipulam agentes biológicos e reagentes devem saber os riscos e dominar as práticas e técnicas requeridas para manejá-los de forma segura. A universalidade prega que as medidas de biossegurança devem ser cumpridas por todos. Já as barreiras, são elementos utilizados como contenção contra a contaminação biológica, como equipamentos de segurança: luvas, macacões ou máscaras. Por fim, a eliminação garante que qualquer resíduo gerado deve ser descartado, seguindo de forma estrita determinados procedimentos específicos em função de sua tipologia.
+
+Além da exposição a agentes biológicos frequentemente utilizados nas pesquisas laboratoriais, como microrganismos (bactérias, fungos, protozoários e parasitas), peixes e macrófitas, os pesquisadores manuseiam frequentemente reagentes tóxicos e inflamáveis. Os reagentes tóxicos presentes no laboratório de Biologia Molecular são o ácido bórico, que pode absorvido pelo trato gastrointestinal e inalação causando reações alérgicas, irritação nos olhos e no sistema respiratório; e o brometo de etídio, antigamente utilizado para a coloração do gel de agarose e considerado um agente mutagênico, tóxico, possivelmente carcinogênico e teratogênico. Já os reagentes inflamáveis utilizados com frequência no laboratório são o álcool isopropílico e etanol 100%, os quais devem ser manuseados com cuidado devido a sua capacidade de combustão rápida.
+
+Assim, as atividades de biossegurança são fundamentais para proteção dos pesquisadores contra exposições ou liberações não intencionais de reagentes patogênicos. Essas atividades são implementadas usando um esquema de avaliação de risco e garantia de um local de trabalho seguro onde medidas adequadas sejam aplicadas para minimizar a probabilidade e gravidade de qualquer exposição em potencial a agentes patológicos, toxinas ou sua liberação acidental.
+
+Reduzir os riscos aos quais os trabalhadores estão expostos é essencial nestes casos, ainda mais se levarmos em conta os tipos de materiais e de reagentes que eles utilizam em suas rotinas e ambientes de trabalho. Existem práticas de biossegurança simples para assegurar os pesquisadores, como os procedimentos relacionados com as Boas Práticas de Limpeza ou Higiene (BPL) e o uso de equipamentos de proteção individual (EPIs) e coletiva EPCs), os quais possuem o objetivo de proteger os profissionais do contato com substâncias danosas como reagentes tóxicos e material biológico.
+
+Alguns EPIs utilizados no laboratório de Genética Molecular são:
+
+-   Luvas descartáveis para a proteção das mãos;
+
+-   Jalecos e aventais de manga longa para a proteção dos membros superiores e tronco;
+
+-   Máscaras e óculos para evitar a inalação dos agentes nocivos e proteção do rosto;
+
+-   Sapatos fechados e calça para a proteção dos membros inferiores.
+
+Já os EPC comumente utilizados são:
+
+-   Fluxo laminar, utilizado para manusear reagentes nocivos;
+
+-   Lava olhos, usado para limpeza rápida dos olhos caso um agente lesivo atinja o rosto do profissional;
+
+-   Autoclave, utilizada para a esterilização de instrumentos por calor.

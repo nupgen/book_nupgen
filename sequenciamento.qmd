@@ -41,5 +41,5 @@ Atualmente, o Nupgen envia as amostras para o sequenciamento para a empresa ACTG
 
 Site da ACTGene: <https://actgene.com.br/>
 
-Informações sobre envio/preparo das amostras: <https://actgene.com.br/wp-content/uploads/2022/06/ACTGene_Guia-preparo-de-amostras.pdf>
+Informações sobre envio/preparo das amostras: <https://drive.google.com/file/d/1wJPOQqOsw7ssV9__xieTJWnxmKY-hQ3i/view>
 :::
