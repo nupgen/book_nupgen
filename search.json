@@ -130,7 +130,7 @@
     "href": "coletas.html#campo",
     "title": "5  Coletas",
     "section": "5.1 Campo",
-    "text": "5.1 Campo\nToda viagem de campo é bem complicada, pois temos que fazer várias coisas com antecedência e não podemos esquecer nada.\n\nLicença de coleta\nToda coleta de material biológico deve ter uma licença de coleta, pois retirar animais silvestres da natureza é crime. Por isso é essencial conversar com os professores responsáveis antes e providenciar. Leve a autorização impressa dentro de um saco plástico transparente para não molhar. O PELD já possui uma licença geral de coleta.\n\n\nLocal de coleta\nDefinir o local que será realizada a coleta é muito importante, pois quanto melhor o local, menos esforço amostral será necessário e, consequentemente, menos dinheiro será gasto. Converse com outras pessoas que já realizaram coletas no mesmo ambiente previamente.\nÉ muito importante conhecer o ponto de coleta, bem como planejar a infraestrutura, alimentação e quantas pessoas serão necessárias.\nPreparação para viagem"
+    "text": "5.1 Campo\nToda viagem de campo é bem complicada, pois temos que fazer várias coisas com antecedência e não podemos esquecer nada.\n\nLicença de coleta\nToda coleta de material biológico deve ter uma licença de coleta, pois retirar animais silvestres da natureza é crime. Por isso é essencial conversar com os professores responsáveis antes e providenciar. Leve a autorização impressa dentro de um saco plástico transparente para não molhar. O PELD já possui uma licença geral de coleta.\n\n\nLocal de coleta\nDefinir o local que será realizada a coleta é fundamental, pois quanto melhor o local, menos esforço amostral será necessário e, consequentemente, menos dinheiro será gasto. Converse com outras pessoas que já realizaram coletas no mesmo ambiente previamente.\nÉ muito importante conhecer o ponto de coleta, bem como planejar a infraestrutura, alimentação e quantas pessoas serão necessárias.\nQualquer viagem maior para uma coleta deve ser muito bem planejada, já que existem diversos riscos e problemas inerentes de uma coleta. Abaixo temos uma lista de coisas importantes a serem planejadas antes de uma coleta.\n\nKit de primeiros socorros\nLocalização de hospitais próximos com soro antiofídico\nBotinas e roupas fáceis para coleta\nTubos, álcool e material para coleta de tecido"
   },
   {
     "objectID": "coletas.html#dados",
@@ -168,67 +168,81 @@
     "text": "6.2 GelRed\nPara preparar 500 μL\nEm um tubo de 1,5 mL envolto com fita e papel alumínio, adicionar:\n\n1 μL de GelRed (estoque)\n499 μL de água ultrapura (Milli-Q)"
   },
   {
-    "objectID": "diluicoes.html#ladder-100pb",
-    "href": "diluicoes.html#ladder-100pb",
+    "objectID": "diluicoes.html#ladder-100pb-invitrogen",
+    "href": "diluicoes.html#ladder-100pb-invitrogen",
     "title": "6  Diluições",
-    "section": "6.3 Ladder 100pb",
-    "text": "6.3 Ladder 100pb\nPara preparar 100 μL\nEm um tubo de 1,5 mL, adicionar:\n\n10 μL de Ladder (estoque 0,5 μg/μL)\n90 μL de água ultrapura (Milli-Q)"
+    "section": "6.3 Ladder 100pb (Invitrogen)",
+    "text": "6.3 Ladder 100pb (Invitrogen)\nPara preparar 100 μL\nEm um tubo de 1,5 mL, adicionar:\n\n10 μL de Ladder (estoque 0,5 μg/μL)\n90 μL de água ultrapura (Milli-Q)"
+  },
+  {
+    "objectID": "diluicoes.html#ladder-100pb-ludwig",
+    "href": "diluicoes.html#ladder-100pb-ludwig",
+    "title": "6  Diluições",
+    "section": "6.4 Ladder 100pb (Ludwig)",
+    "text": "6.4 Ladder 100pb (Ludwig)\nTestando a diluição"
+  },
+  {
+    "objectID": "diluicoes.html#ladder-1kb",
+    "href": "diluicoes.html#ladder-1kb",
+    "title": "6  Diluições",
+    "section": "6.5 Ladder 1kb",
+    "text": "6.5 Ladder 1kb\nPara preparar 100 μL\nEm um tubo de 1,5 mL, adicionar:\n\n5 μL de Ladder (estoque 1 μg/μL)\n95 μL de água ultrapura (Milli-Q)"
   },
   {
     "objectID": "diluicoes.html#lambda",
     "href": "diluicoes.html#lambda",
     "title": "6  Diluições",
-    "section": "6.4 Lambda",
-    "text": "6.4 Lambda\n\nLambda 5ng/μL (para 1000 μL)\n\n9,27 μL de lambda (conferir concentração)\n990,73 μL de água ultrapura (Milli-Q)\n\n\n\nLambda 10ng/μL (para 1000 μL)\n\n18,56 μL de lambda\n981,44 μL de água ultrapura (Milli-Q)\n\n\n\nLambda 20ng/μL (para 1000 μL)\n\n37,11 μL de lambda\n962,89 μL de água ultrapura (Milli-Q)"
+    "section": "6.6 Lambda",
+    "text": "6.6 Lambda\n\nLambda 5ng/μL (para 1000 μL)\n\n9,27 μL de lambda (conferir concentração)\n990,73 μL de água ultrapura (Milli-Q)\n\n\n\nLambda 10ng/μL (para 1000 μL)\n\n18,56 μL de lambda\n981,44 μL de água ultrapura (Milli-Q)\n\n\n\nLambda 20ng/μL (para 1000 μL)\n\n37,11 μL de lambda\n962,89 μL de água ultrapura (Milli-Q)"
   },
   {
     "objectID": "diluicoes.html#primer-para-uso-10-μm",
     "href": "diluicoes.html#primer-para-uso-10-μm",
     "title": "6  Diluições",
-    "section": "6.5 Primer para uso (10 μM)",
-    "text": "6.5 Primer para uso (10 μM)\nPara preparar 60 μL\nEm um tubo, adicionar:\n\n10 μL do primer estoque (60 μM - conferir concentração)\n50 μL de água ultrapura (Milli-Q)"
+    "section": "6.7 Primer para uso (10 μM)",
+    "text": "6.7 Primer para uso (10 μM)\nPara preparar 60 μL\nEm um tubo, adicionar:\n\n10 μL do primer estoque (60 μM - conferir concentração)\n50 μL de água ultrapura (Milli-Q)"
   },
   {
     "objectID": "diluicoes.html#proteinase-k-20-mgml",
     "href": "diluicoes.html#proteinase-k-20-mgml",
     "title": "6  Diluições",
-    "section": "6.6 Proteinase K 20 mg/mL",
-    "text": "6.6 Proteinase K 20 mg/mL\nPara preparar 1 mL\n\n20 mg de Proteinase K (estoque)\n1 mL de água ultrapura (Milli-Q)\n\nModo de preparo: lavar bem uma espátula, fazer a desinfecção com álcool 70% e pesar a Proteinase K em um microtubo novo (1,5 mL). Adicionar a água ultrapura (Milli-Q) e ressuspender bem com a pipeta. Agitar a solução no vórtex para homogeneizar bem. Manter no freezer."
+    "section": "6.8 Proteinase K 20 mg/mL",
+    "text": "6.8 Proteinase K 20 mg/mL\nPara preparar 1 mL\n\n20 mg de Proteinase K (estoque)\n1 mL de água ultrapura (Milli-Q)\n\nModo de preparo: lavar bem uma espátula, fazer a desinfecção com álcool 70% e pesar a Proteinase K em um microtubo novo (1,5 mL). Adicionar a água ultrapura (Milli-Q) e ressuspender bem com a pipeta. Agitar a solução no vórtex para homogeneizar bem. Manter no freezer."
   },
   {
     "objectID": "diluicoes.html#tampão-tbe-5x-estoque",
     "href": "diluicoes.html#tampão-tbe-5x-estoque",
     "title": "6  Diluições",
-    "section": "6.7 Tampão TBE 5x (estoque)",
-    "text": "6.7 Tampão TBE 5x (estoque)\nPara preparar 1000 mL\n\n54 g de Tris-Base\n27,5 g de Ácido Bórico\n20 mL de EDTA 0,5M pH 8,0\n\nCompletar para 1000 mL com água destilada\nModo de preparo: em um becker, adicionar um pouco da água destilada. Ir adicionando aos poucos os reagentes, utilizando o agitador magnético para homogeneizar a solução. Ao final, utilizando uma proveta, completar o volume de água que falta e armazenar em frascos de vidro (tampa laranja). Etiquetar e autoclavar."
+    "section": "6.9 Tampão TBE 5x (estoque)",
+    "text": "6.9 Tampão TBE 5x (estoque)\nPara preparar 1000 mL\n\n54 g de Tris-Base\n27,5 g de Ácido Bórico\n20 mL de EDTA 0,5M pH 8,0\n\nCompletar para 1000 mL com água destilada\nModo de preparo: em um becker, adicionar um pouco da água destilada. Ir adicionando aos poucos os reagentes, utilizando o agitador magnético para homogeneizar a solução. Ao final, utilizando uma proveta, completar o volume de água que falta e armazenar em frascos de vidro (tampa laranja). Etiquetar e autoclavar."
   },
   {
     "objectID": "diluicoes.html#tampão-tbe-1x-corrida-eletroforética",
     "href": "diluicoes.html#tampão-tbe-1x-corrida-eletroforética",
     "title": "6  Diluições",
-    "section": "6.8 Tampão TBE 1x (corrida eletroforética)",
-    "text": "6.8 Tampão TBE 1x (corrida eletroforética)\nPara preparar 1000 mL\n\\(C1 * V1 = C2 * V2\\)\n5(estoque) * V1 = 1 * 1000 mL\nV1 = 1000/5\nV1 = 200 mL de TBE 5x\nCompletar para 1000 mL de água destilada (= 800 mL)"
+    "section": "6.10 Tampão TBE 1x (corrida eletroforética)",
+    "text": "6.10 Tampão TBE 1x (corrida eletroforética)\nPara preparar 1000 mL\n\\(C1 * V1 = C2 * V2\\)\n5(estoque) * V1 = 1 * 1000 mL\nV1 = 1000/5\nV1 = 200 mL de TBE 5x\nCompletar para 1000 mL de água destilada (= 800 mL)"
   },
   {
     "objectID": "diluicoes.html#tampão-coleta-macrófitas",
     "href": "diluicoes.html#tampão-coleta-macrófitas",
     "title": "6  Diluições",
-    "section": "6.9 Tampão Coleta Macrófitas",
-    "text": "6.9 Tampão Coleta Macrófitas\nPara preparar 1000 mL\n\nTris HCl - 10 mL\nEDTA (0,5mM) - 2 mL\nÁgua destilada - 988ml\n\npH = 8,0\nModo de preparo: Colocar 10ml do Tris HCl e 2ml do EDTA (0,5mM) em um frasco de vidro (tampa laranja ou azul), completar o volume com água destilada. Agitar o frasco para misturar bem e medir o pH com as fitinhas, para conferir se está correto; caso não esteja, basta ajustar com as soluções para pH. Etiquetar e autoclavar."
+    "section": "6.11 Tampão Coleta Macrófitas",
+    "text": "6.11 Tampão Coleta Macrófitas\nPara preparar 1000 mL\n\nTris HCl - 10 mL\nEDTA (0,5mM) - 2 mL\nÁgua destilada - 988ml\n\npH = 8,0\nModo de preparo: Colocar 10ml do Tris HCl e 2ml do EDTA (0,5mM) em um frasco de vidro (tampa laranja ou azul), completar o volume com água destilada. Agitar o frasco para misturar bem e medir o pH com as fitinhas, para conferir se está correto; caso não esteja, basta ajustar com as soluções para pH. Etiquetar e autoclavar."
   },
   {
     "objectID": "diluicoes.html#peg-20-nacl-25m",
     "href": "diluicoes.html#peg-20-nacl-25m",
     "title": "6  Diluições",
-    "section": "6.10 PEG 20% NaCl 2,5M",
-    "text": "6.10 PEG 20% NaCl 2,5M\nPara preparar 75 mL\n\n15 g de Polietilenoglicol\n10,95 g de NaCl\n\nCompletar o volume para 75 mL com água ultrapura (Milli-Q)\nModo de preparo: colocar em um becker um pouco da água ultrapura e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água para 75 mL e com o auxílio de uma seringa passar a solução por um filtro (0,2 µM – azul). Acondicionar em tubos Falcon para autoclavar. Após autoclavado, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira."
+    "section": "6.12 PEG 20% NaCl 2,5M",
+    "text": "6.12 PEG 20% NaCl 2,5M\nPara preparar 75 mL\n\n15 g de Polietilenoglicol\n10,95 g de NaCl\n\nCompletar o volume para 75 mL com água ultrapura (Milli-Q)\nModo de preparo: colocar em um becker um pouco da água ultrapura e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água para 75 mL e com o auxílio de uma seringa passar a solução por um filtro (0,2 µM – azul). Acondicionar em tubos Falcon para autoclavar. Após autoclavado, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira."
   },
   {
     "objectID": "diluicoes.html#diluição-de-primer-liofilizado",
     "href": "diluicoes.html#diluição-de-primer-liofilizado",
     "title": "6  Diluições",
-    "section": "6.11 Diluição de primer liofilizado",
-    "text": "6.11 Diluição de primer liofilizado\nQuantidade em nmol x 1000 / 60 = Quantidade de água ultrapura (Milli-Q)\nAcrescentar a quantidade obtida de água diretamente no tubo do primer liofilizado.\nObs: 60 µM é a concentração utilizada para diluição dos primers no laboratório."
+    "section": "6.13 Diluição de primer liofilizado",
+    "text": "6.13 Diluição de primer liofilizado\nQuantidade em nmol x 1000 / 60 = Quantidade de água ultrapura (Milli-Q)\nAcrescentar a quantidade obtida de água diretamente no tubo do primer liofilizado.\nObs: 60 µM é a concentração utilizada para diluição dos primers no laboratório."
   },
   {
     "objectID": "extracao.html#protocolo-de-extração-de-dna---promega-peixes",
