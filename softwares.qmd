@@ -18,9 +18,11 @@ O BioEdit permite a visualização de eletroferogramas de maneira fácil e rápi
 
 Além da visualização de eletroferogramas, o BioEdit é amplamente utilizado em diversas outras tarefas de genética molecular, como edição de sequências, anotação de genes e análise de expressão gênica.
 
-Usos
-
 **Prós**
+
+- Gratuito
+
+- Fácil de utilizar
 
 **Contras**
 
@@ -42,8 +44,6 @@ Ele um software fácil de usar, com uma interface intuitiva e uma ampla base de 
 Atualmente o MEGA está na versão **11**, mas contém um ou outro bug que pode atrapalhar bastante. O MEGA **7** possui quase todas as ferramentas que precisamos e é mais estável. Recomendamos usar essa versão para coisas básicas.
 :::
 
-Usos
-
 **Prós**
 
 -   É simples e fácil de aprender.
@@ -52,23 +52,23 @@ Usos
 
 -   Roda no computador e algumas análises (como árvores ML) podem ser bem demoradas.
 
-## IQTree
+## IQTree (servidor)
 
 <img src="/figures/softwares/iqtree.png" align="right" height="138"/>
 
 **Útil para: [Modelo]{style="background-color: #f1f1f1; color: #ae017e;"} / [Árvore]{style="background-color: #f1f1f1; color: #238b45;"}**
 
-Usos
-
 **Prós**
+
+- Fácil utilização.
+
+- Velocidade na análise devido ao servidor.
 
 **Contras**
 
 ## jModelTest
 
 **Útil para: [Modelo]{style="background-color: #f1f1f1; color: #ae017e;"}**
-
-Usos
 
 **Prós**
 
@@ -106,7 +106,7 @@ O RAxML possui vários métodos de inferência de árvores filogenéticas, como 
 
 Phylogenetic Maximum Likelihood (PhyML) é um servidor online para gerar inferências filogenéticas pelo método de máxima verossimilhança. O servidor é intuitivo, portanto, de fácil uso. Para gerar uma árvore filogenética no PhyML, é preciso fornecer um arquivo de alinhamento no formato PHYLIP (é possível exportar alinhamentos neste formato na versão do MEGA **10**). Após o término das análises, o PhyML fornece um arquivo zip que contém, além da árvore, outros relatórios estatísticos (como a lista dos modelos evolutivos, por exemplo)
 
-**Prós:**
+**Prós**
 
 -   Fácil uso;
 
@@ -116,7 +116,7 @@ Phylogenetic Maximum Likelihood (PhyML) é um servidor online para gerar inferê
 
 -   Não requer uso de memória do computador, ele roda em servidor.
 
-**Contras:**
+**Contras**
 
 -   Utiliza o formato PHYLIP, diferente de outros que utilizam FASTA, por isso é possível que o usuário tenha que formatar os terminais da árvore, um trabalho manual desgastante. Recomendamos o uso do pacote [nupgen](pacotes-r.qmd#pacote-nupgen-r) no R para corrigir este problema;
 
@@ -132,6 +132,17 @@ A capacidade de análise de milhões de regiões de sequência de DNA em uma só
 
 O programa permite a caracterização detalhada dos níveis e padrões de variação da sequência de DNA em diferentes escalas de tempo, utilizando variantes polimórficas (dados intra-específicos), dados de divergência (dados interespecíficos ou interpopulação), ou uma combinação de ambos. É possível calcular diversidade haplotípica, nucleotídica, bem como a quantidade distintas de haplótipos (quando analisadas duas ou mais sequências de DNA).
 
+
+**Prós**
+
+- Retorna os resultados de forma fácil de entender
+
+**Contras**
+
+- É antigo
+
+- O output de algumas análises pode ser difícil de tabelar. O resultado da análise de haplótipos pode ser convertido em tabela utilizando o pacote [nupgen](pacotes-r.qmd#pacote-nupgen-r).
+
 ## Delimitadores de espécies
 
 **Útil para: [Delim. Espécies]{style="background-color: #f1f1f1; color: #000000;"}**
@@ -146,21 +157,21 @@ Como estes são métodos complementares, serão apresentados em conjunto.
 
 **Link: <https://species.h-its.org/ptp/>**
 
-texto
+**Artigo:** [**https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btt499**](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btt499)
 
 O arquivo gerado pode ser convertido em tabela utilizando o pacote [nupgen](pacotes-r.qmd#pacote-nupgen-r).
 
+
 ### ABGD
+
+::: callout-important
+"The **ASAP** analysis uses pairwise genetic distance to automatically find the barcode gap to divide the dataset into a list of several partitions ranked by a score. This new algorithm overcomes the limitations of its predecessor, **ABGD** ([Puillandre et al., 2012](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05239.x)), by selecting the best partition using the 'ASAP score' calculated by the probabilities of groups to be panmictic species and the barcode gap widths." ([Mendoza-Ramírez et al., 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9487))
+:::
 
 **Link: <https://bioinfo.mnhn.fr/abi/public/abgd/abgdweb.html>**
 
 **Artigo:** [**https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05239.x**](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05239.x)
 
-texto
-
-::: callout-important
-"The **ASAP** analysis uses pairwise genetic distance to automatically find the barcode gap to divide the dataset into a list of several partitions ranked by a score. This new algorithm overcomes the limitations of its predecessor, **ABGD** ([Puillandre et al., 2012](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05239.x)), by selecting the best partition using the 'ASAP score' calculated by the probabilities of groups to be panmictic species and the barcode gap widths." ([Mendoza-Ramírez et al., 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9487))
-:::
 
 ### ASAP
 
@@ -168,13 +179,9 @@ texto
 
 **Artigo: <https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13281>**
 
-texto
-
 ### GMYC
 
 **Link: <https://species.h-its.org/gmyc/>**
-
-texto
 
 Os resultados são gerados utilizando um servidor que apenas roda um código em R na nuvem. Como o site não permite mais baixar os resultados em forma de tabela, fizemos um aplicativo em Shiny para uso interno que permite isso: <https://brunomioto.shinyapps.io/shiny_gmyc/>
 
@@ -190,7 +197,11 @@ O FigTree possui uma ampla gama de recursos de visualização, como opções de 
 
 **Prós**
 
+- Tem uma interface de usuário simples.
+
 **Contras**
+
+- Não salva edições intermediárias. Então sempre deve recomeçar do zero.
 
 ## iTOL
 
@@ -202,7 +213,13 @@ O FigTree possui uma ampla gama de recursos de visualização, como opções de 
 
 **Prós**
 
+- É bem atualizado com diversas funções.
+
 **Contras**
+
+- Não salva edições intermediárias. Então sempre deve recomeçar do zero.
+
+- Precisa de internet.
 
 ## PopArt
 
@@ -218,6 +235,22 @@ A principal função do PopArt é o escaneamento e visualização de relações 
 
 O PopArt permite que os usuários usem três métodos populares de inferência de rede de haplótipos: TCS, redes de abrangência mínima (MSN) e redes de junção mediana (MJN). A rede TCS é construída usando uma abordagem aglomerativa onde os clusters são progressivamente combinados com uma ou mais arestas de conexão; para detalhes ver Clement et al. [-@clement2002]. As redes construídas pelo método MSN, contêm todas as arestas que aparecem em uma árvore geradora mínima das sequências, ou seja, todas as redes que contêm apenas nós que representam sequências de entrada conectadas por aresta. Uma deficiência do método MSN é que ele não tenta inferir quaisquer nós adicionais ou sequências ancestrais, mesmo quando pode haver evidências consideráveis da existência de tais nós. Por fim, o método MJN inclui nós para representar sequências inferidas (não amostradas) adicionando iterativamente vetores de sequência 'mediana' quando esses nós encurtam o comprimento total de a rede.
 
-**Prós:** fácil visualização dos haplótipos em uma rede autoexplicativa.
+**Prós** 
 
-**Contras:** poucas atualizações do software, o que dificulta encontrar a origem dos "bugs" quando é rodada a análise.
+- Fácil visualização dos haplótipos em uma rede autoexplicativa.
+
+**Contras** 
+
+- Poucas atualizações do software, o que dificulta encontrar a origem dos "bugs" quando é rodada a análise.
+
+## Editores de imagens e vetores
+
+Um editor de imagens e vetores é um programa de computador que permite criar, modificar e manipular imagens digitais. As imagens podem ser formadas por pixels (elementos gráficos que compõem a imagem) ou por vetores (elementos matemáticos que definem formas geométricas). Os editores de imagens e vetores oferecem diversas ferramentas e recursos para trabalhar com cores, texturas, filtros, efeitos, camadas, máscaras, seleções, transformações, entre outros. Alguns exemplos de editores de imagens e vetores são Photoshop, GIMP, Illustrator, Inkscape, etc.
+
+### Illustrator
+
+É o melhor software para edição de vetores (SVG), como os arquivos gerados para árvores e redes de haplótipos. Ele é pago, mas é possível conseguir versões gratuitas na internet.
+
+### Inkscape
+
+É a melhor versão gratuita de um editor de vetores. Não tem todas as funcionalidades do Illustrator mas pode quebrar um galho em vários momentos para edições mais simples

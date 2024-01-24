@@ -122,5 +122,3 @@ Lambda:
 -   Lambda 20ng/μL - 5μL + 1 μL de GelRed
 
 Amostra - 2 μL de loading + 1 μL de GelRed + 3 μL da PCR
-
-**Quantificação com Nanodrop**

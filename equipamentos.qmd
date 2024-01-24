@@ -6,7 +6,7 @@ title: "Equipamentos"
 
 A centrífuga é um aparelho que possui a finalidade de separar substâncias que possuem densidades diferentes em uma mistura via decantação. É utilizada em etapas da extração de DNA e durante o processo de purificação das amostras. O tempo e a rotação por minuto (rpm) podem ser ajustados de acordo com a necessidade do pesquisador. É importante lembrar de sempre balancear os tubos dentro da centrífuga antes da sua utilização, ou seja, dispor os tubos de uma forma que haja o balanceamento dos pesos para não descalibrar o aparelho (ver quadro Balanceamento da centrífuga). No Nupgen temos dois modelos de centrífugas:
 
-### Centrífuga MRC SCEN-206 6000 rpm \*confirmar marca/modelo\*
+### Centrífuga HT MCD-2000
 
 Nessa centrífuga cabem **18** microtubos de 1,5 mL. Não é refrigerada.
 

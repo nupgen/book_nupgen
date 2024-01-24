@@ -10,15 +10,9 @@ Por outro lado, a quantificação em espectrofotômetros, como por exemplo o **N
 
 Já o fluorímetro é um dos métodos mais sensíveis e geralmente utilizado para amostras com pouca concentração de DNA ou que tenham contaminantes que absorvem comprimentos de onda de 260 nm. Essa análise acontece pela luz emitida de moléculas fluorogênicas, sendo um método alternativo para avaliar a concentração de DNA e RNA marcando a amostra com um marcador fluorescente (corante fluorescente). Porém, também é um método com um custo elevado e demanda um tempo maior para preparação das amostras.
 
-::: {.callout-note appearance="simple"}
-## Como fazemos
-
-O método de quantificação geralmente utilizado pelos pesquisadores do Nupgen é a **eletroforese em gel de agarose 1%**, visto que tem dado certo para a maioria dos grupos trabalhados no laboratório, exceto parasitas que não passam por essa etapa, indo diretamente para a PCR devido a baixa concentração de DNA obtida nas amostras. Na quantificação são utilizadas três concentrações diferentes de DNA Lambda, sendo elas: 5, 10 e 20 ng/μL.
-:::
-
 A quantificação irá mostrar se as amostras de DNA extraídas precisam ser [diluídas](diluicoes.qmd) para a realização da PCR, pois é preciso ter uma concentração ideal. Dessa forma, quando as amostras forem quantificadas com valores superiores a 5 ng/μL, elas precisam ser diluídas. A fórmula utilizada para isso é $C1 * V1 = C2 * V2$, onde serão encontradas as quantidades de DNA e água Milli-Q necessárias para que o DNA fique na concentração final de 5 ng/μL.
 
-## Preparação por amostra
+## Quantificação com gel de agarose
 
 -   Gel agarose 1%.
 
@@ -42,6 +36,70 @@ A quantificação irá mostrar se as amostras de DNA extraídas precisam ser [di
 
 **3 μL** de DNA + **1 μL** de Safer + **2 μL** de água Milli-Q
 
+## Quantificação com NanoDrop
+
+Fica localizado no DBC (Bloco H67 – Pegar a chave no laboratório 17);
+
+Levar para quantificação:
+
+-	Amostras que serão quantificadas;
+
+-	Pipeta de 20 uL;
+
+-	Ponteiras amarelas;
+
+-	Luvas;
+
+-	Jaleco;
+
+-	Caneta e caderno para anotações;
+
+-	Tampão TE;
+
+-	Água Milli-Q;
+
+-	Alíquota dos tampões de extração (Rehidratation Solution e Tampão AE – dependendo de qual kit foi utilizado para extração do DNA).
+
+::: {.callout-note appearance="simple"}
+
+## Passo a passo para quantificação:
+
+1.	Após pegar a chave e entrar na sala, o Nanodrop fica localizado após a segunda porta;
+
+2.	O equipamento deve ser ligado na tomada (110V);
+
+3.	Após ligado, certifique-se de que a local onde irão ser colocadas as amostras esteja limpo. Caso contrário, limpe-a cuidadosamente com água Milli-Q;
+
+4.	Selecionar a opção “dsDNA”;
+
+5.	Com a opção “dsDNA” selecionada, o Nanodrop irá pedir para dar um “Blank” (branco no equipamento). Deve ser pipetado 2 uL da solução tampão usada para armazenamento do DNA na etapa final de extração. Esse processo deverá ser feito duas vezes (o próprio equipamento irá pedir);
+
+6.	Lembrar sempre de limpar o local onde são pipetadas as amostras com o papel higiênico que fica junto com o equipamento. Principalmente entre cada amostra a ser quantificada para não haver contaminações;
+
+7.	Antes de começar a quantificação com as amostras, quantificar 2 uL de água Milli-Q para conferir o valor (geralmente fica próximo de -2);
+
+8.	Após isso, as amostras podem ser quantificadas. Agite suavemente a amostra para garantir homogeneidade;
+
+9.	Pipetar sempre 2 uL de cada amostra na área de leitura do Nanodrop, fechar a tampa do equipamento cuidadosamente, apertar o botão“Measure” e aguardar a conclusão da leitura; 
+
+10.	O valor irá aparecer na tela e deve ser anotado. O Nanodrop fornecerá um espectro de absorção e valores de concentração para a amostra. Observar os valores de A260 (absorbância a 260 nm), que é usado para calcular a concentração de DNA. A relação A260/A280 também é importante para avaliar a pureza da amostra. Uma relação ideal é geralmente em torno de 1.8 para DNA puro;
+
+11.	Para a próxima amostra, a tampa do equipamento deve ser aberta, o local limpo com o papel e só após isso a próxima amostra deve ser pipetada, repetindo sempre esses processos;
+
+12.	Após finalizar todas as quantificações, limpe a área de leitura com água Milli-Q, fazendo uma leitura final para remover qualquer resíduo da amostra anterior. Secar delicadamente com o papel e fechar a tampa do Nanodrop, tirando-o da tomada;
+
+:::
+
+Dicas:
+
+- Sempre use água Milli-Q para preparar suas amostras. Caso algum valor dê diferente do esperado (por exemplo, valores negativos), faça uma quantificação da água novamente.
+
+- Evite bolhas de ar na área de leitura do Nanodrop, pois elas podem afetar a precisão da leitura.
+
+-	Calibre o Nanodrop usando água Milli-Q antes de cada sessão de medição. Para finalizar a utilização, repita esse procedimento.
+
+-	Lembre-se de consultar o manual específico do seu Nanodrop e seguir os protocolos e recomendações fornecidos pelo fabricante.
+
 ## Diluição do DNA para 5ng/μL
 
 $C1 * V1 = C2 * V2$
@@ -54,4 +112,5 @@ $C1 * V1 = C2 * V2$
 
 **V2** -- volume final total (50 μL)
 
-OBS: Quantidade de água Milli-Q é: 50 μL - quantidade de DNA
+Obs: 
+Quantidade de água Milli-Q é: 50 μL - quantidade de DNA
