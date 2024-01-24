@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -251,12 +251,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Índice</h2>
    
   <ul>
-  <li><a href="#preparação-por-amostra" id="toc-preparação-por-amostra" class="nav-link active" data-scroll-target="#preparação-por-amostra"><span class="header-section-number">9.1</span> Preparação por amostra</a>
+  <li><a href="#quantificação-com-gel-de-agarose" id="toc-quantificação-com-gel-de-agarose" class="nav-link active" data-scroll-target="#quantificação-com-gel-de-agarose"><span class="header-section-number">9.1</span> Quantificação com gel de agarose</a>
   <ul class="collapse">
   <li><a href="#gelred" id="toc-gelred" class="nav-link" data-scroll-target="#gelred">GelRed</a></li>
   <li><a href="#safer" id="toc-safer" class="nav-link" data-scroll-target="#safer">Safer</a></li>
   </ul></li>
-  <li><a href="#diluição-do-dna-para-5ngμl" id="toc-diluição-do-dna-para-5ngμl" class="nav-link" data-scroll-target="#diluição-do-dna-para-5ngμl"><span class="header-section-number">9.2</span> Diluição do DNA para 5ng/μL</a></li>
+  <li><a href="#quantificação-com-nanodrop" id="toc-quantificação-com-nanodrop" class="nav-link" data-scroll-target="#quantificação-com-nanodrop"><span class="header-section-number">9.2</span> Quantificação com NanoDrop</a></li>
+  <li><a href="#diluição-do-dna-para-5ngμl" id="toc-diluição-do-dna-para-5ngμl" class="nav-link" data-scroll-target="#diluição-do-dna-para-5ngμl"><span class="header-section-number">9.3</span> Diluição do DNA para 5ng/μL</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/nupgen/book_nupgen/issues/new" class="toc-action">Sugerir modificação</a></p></div></div></nav>
     </div>
@@ -290,22 +291,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <p>Por outro lado, a quantificação em espectrofotômetros, como por exemplo o <strong>NanoDrop</strong>, fornece dados um pouco mais exatos sobre a concentração de DNA presente nas amostras. Entretanto, ainda são valores baseados em um calibrante, tomado como padrão, além de ser necessário adquirir aparelhos específicos para realizar a quantificação do DNA, tendo um custo elevado quando comparado à quantificação em gel. Essa quantificação é baseada na medição da quantidade de luz absorvida pelo DNA em solução no comprimento de onda de 260 nm. Quanto maior for a absorção de luz nesse comprimento de onda, maior a concentração de DNA extraído na amostra.</p>
 <p>Já o fluorímetro é um dos métodos mais sensíveis e geralmente utilizado para amostras com pouca concentração de DNA ou que tenham contaminantes que absorvem comprimentos de onda de 260 nm. Essa análise acontece pela luz emitida de moléculas fluorogênicas, sendo um método alternativo para avaliar a concentração de DNA e RNA marcando a amostra com um marcador fluorescente (corante fluorescente). Porém, também é um método com um custo elevado e demanda um tempo maior para preparação das amostras.</p>
-<div class="callout callout-style-simple callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Como fazemos
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>O método de quantificação geralmente utilizado pelos pesquisadores do Nupgen é a <strong>eletroforese em gel de agarose 1%</strong>, visto que tem dado certo para a maioria dos grupos trabalhados no laboratório, exceto parasitas que não passam por essa etapa, indo diretamente para a PCR devido a baixa concentração de DNA obtida nas amostras. Na quantificação são utilizadas três concentrações diferentes de DNA Lambda, sendo elas: 5, 10 e 20 ng/μL.</p>
-</div>
-</div>
 <p>A quantificação irá mostrar se as amostras de DNA extraídas precisam ser <a href="./diluicoes.html">diluídas</a> para a realização da PCR, pois é preciso ter uma concentração ideal. Dessa forma, quando as amostras forem quantificadas com valores superiores a 5 ng/μL, elas precisam ser diluídas. A fórmula utilizada para isso é <span class="math inline">\(C1 * V1 = C2 * V2\)</span>, onde serão encontradas as quantidades de DNA e água Milli-Q necessárias para que o DNA fique na concentração final de 5 ng/μL.</p>
-<section id="preparação-por-amostra" class="level2" data-number="9.1">
-<h2 data-number="9.1" class="anchored" data-anchor-id="preparação-por-amostra"><span class="header-section-number">9.1</span> Preparação por amostra</h2>
+<section id="quantificação-com-gel-de-agarose" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="quantificação-com-gel-de-agarose"><span class="header-section-number">9.1</span> Quantificação com gel de agarose</h2>
 <ul>
 <li><p>Gel agarose 1%.</p></li>
 <li><p>Correr por aproximadamente 40 minutos, a 100 volts.</p></li>
@@ -326,14 +314,63 @@ Como fazemos
 <p><strong>3 μL</strong> de DNA + <strong>1 μL</strong> de Safer + <strong>2 μL</strong> de água Milli-Q</p>
 </section>
 </section>
-<section id="diluição-do-dna-para-5ngμl" class="level2" data-number="9.2">
-<h2 data-number="9.2" class="anchored" data-anchor-id="diluição-do-dna-para-5ngμl"><span class="header-section-number">9.2</span> Diluição do DNA para 5ng/μL</h2>
+<section id="quantificação-com-nanodrop" class="level2" data-number="9.2">
+<h2 data-number="9.2" class="anchored" data-anchor-id="quantificação-com-nanodrop"><span class="header-section-number">9.2</span> Quantificação com NanoDrop</h2>
+<p>Fica localizado no DBC (Bloco H67 – Pegar a chave no laboratório 17);</p>
+<p>Levar para quantificação:</p>
+<ul>
+<li><p>Amostras que serão quantificadas;</p></li>
+<li><p>Pipeta de 20 uL;</p></li>
+<li><p>Ponteiras amarelas;</p></li>
+<li><p>Luvas;</p></li>
+<li><p>Jaleco;</p></li>
+<li><p>Caneta e caderno para anotações;</p></li>
+<li><p>Tampão TE;</p></li>
+<li><p>Água Milli-Q;</p></li>
+<li><p>Alíquota dos tampões de extração (Rehidratation Solution e Tampão AE – dependendo de qual kit foi utilizado para extração do DNA).</p></li>
+</ul>
+<div class="callout callout-style-simple callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Passo a passo para quantificação:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li><p>Após pegar a chave e entrar na sala, o Nanodrop fica localizado após a segunda porta;</p></li>
+<li><p>O equipamento deve ser ligado na tomada (110V);</p></li>
+<li><p>Após ligado, certifique-se de que a local onde irão ser colocadas as amostras esteja limpo. Caso contrário, limpe-a cuidadosamente com água Milli-Q;</p></li>
+<li><p>Selecionar a opção “dsDNA”;</p></li>
+<li><p>Com a opção “dsDNA” selecionada, o Nanodrop irá pedir para dar um “Blank” (branco no equipamento). Deve ser pipetado 2 uL da solução tampão usada para armazenamento do DNA na etapa final de extração. Esse processo deverá ser feito duas vezes (o próprio equipamento irá pedir);</p></li>
+<li><p>Lembrar sempre de limpar o local onde são pipetadas as amostras com o papel higiênico que fica junto com o equipamento. Principalmente entre cada amostra a ser quantificada para não haver contaminações;</p></li>
+<li><p>Antes de começar a quantificação com as amostras, quantificar 2 uL de água Milli-Q para conferir o valor (geralmente fica próximo de -2);</p></li>
+<li><p>Após isso, as amostras podem ser quantificadas. Agite suavemente a amostra para garantir homogeneidade;</p></li>
+<li><p>Pipetar sempre 2 uL de cada amostra na área de leitura do Nanodrop, fechar a tampa do equipamento cuidadosamente, apertar o botão“Measure” e aguardar a conclusão da leitura;</p></li>
+<li><p>O valor irá aparecer na tela e deve ser anotado. O Nanodrop fornecerá um espectro de absorção e valores de concentração para a amostra. Observar os valores de A260 (absorbância a 260 nm), que é usado para calcular a concentração de DNA. A relação A260/A280 também é importante para avaliar a pureza da amostra. Uma relação ideal é geralmente em torno de 1.8 para DNA puro;</p></li>
+<li><p>Para a próxima amostra, a tampa do equipamento deve ser aberta, o local limpo com o papel e só após isso a próxima amostra deve ser pipetada, repetindo sempre esses processos;</p></li>
+<li><p>Após finalizar todas as quantificações, limpe a área de leitura com água Milli-Q, fazendo uma leitura final para remover qualquer resíduo da amostra anterior. Secar delicadamente com o papel e fechar a tampa do Nanodrop, tirando-o da tomada;</p></li>
+</ol>
+</div>
+</div>
+<p>Dicas:</p>
+<ul>
+<li><p>Sempre use água Milli-Q para preparar suas amostras. Caso algum valor dê diferente do esperado (por exemplo, valores negativos), faça uma quantificação da água novamente.</p></li>
+<li><p>Evite bolhas de ar na área de leitura do Nanodrop, pois elas podem afetar a precisão da leitura.</p></li>
+<li><p>Calibre o Nanodrop usando água Milli-Q antes de cada sessão de medição. Para finalizar a utilização, repita esse procedimento.</p></li>
+<li><p>Lembre-se de consultar o manual específico do seu Nanodrop e seguir os protocolos e recomendações fornecidos pelo fabricante.</p></li>
+</ul>
+</section>
+<section id="diluição-do-dna-para-5ngμl" class="level2" data-number="9.3">
+<h2 data-number="9.3" class="anchored" data-anchor-id="diluição-do-dna-para-5ngμl"><span class="header-section-number">9.3</span> Diluição do DNA para 5ng/μL</h2>
 <p><span class="math inline">\(C1 * V1 = C2 * V2\)</span></p>
 <p><strong>C1</strong> – concentração da amostra (inicial)</p>
 <p><strong>V1</strong> – quantidade de DNA necessária (descobrir)</p>
 <p><strong>C2</strong> – concentração para diluir (vai diluir para 5 ng)</p>
 <p><strong>V2</strong> – volume final total (50 μL)</p>
-<p>OBS: Quantidade de água Milli-Q é: 50 μL - quantidade de DNA</p>
+<p>Obs: Quantidade de água Milli-Q é: 50 μL - quantidade de DNA</p>
 
 
 </section>
