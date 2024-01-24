@@ -40,7 +40,7 @@ Em um tubo de 1,5 mL envolto com fita e papel alumínio, adicionar:
 
 -   499 μL de água ultrapura (Milli-Q)
 
-## Ladder 100pb
+## Ladder 100pb (Invitrogen)
 
 **Para preparar 100 μL**
 
@@ -49,6 +49,20 @@ Em um tubo de 1,5 mL, adicionar:
 -   10 μL de Ladder (estoque 0,5 μg/μL)
 
 -   90 μL de água ultrapura (Milli-Q)
+
+## Ladder 100pb (Ludwig)
+
+**Testando a diluição**
+
+## Ladder 1kb
+
+**Para preparar 100 μL**
+
+Em um tubo de 1,5 mL, adicionar:
+
+-   5 μL de Ladder (estoque 1 μg/μL)
+
+-   95 μL de água ultrapura (Milli-Q)
 
 ## Lambda
 
@@ -142,7 +156,7 @@ pH = 8,0
 
 Completar o volume para 75 mL com água ultrapura (Milli-Q)
 
-**Modo de preparo:** colocar em um becker um pouco da água ultrapura e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água para 75 mL e com o auxílio de uma seringa passar a solução por um filtro (0,2 µM – azul). Acondicionar em tubos Falcon para autoclavar. Após autoclavado, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira.
+**Modo de preparo:** colocar em um becker um pouco da água ultrapura e misturar o Polietilenoglicol e o NaCl com um bastão de vidro até a solução ficar homogênea. Depois de homogeneizada, completar o volume de água para 75 mL e com o auxílio de uma seringa passar a solução por um filtro (0,2 µM -- azul). Acondicionar em tubos Falcon para autoclavar. Após autoclavado, fazer alíquotas em microtubos de 1,5 mL. Manter no freezer da geladeira.
 
 ## Diluição de primer liofilizado
 
